@@ -9,4 +9,22 @@ __pycache__/
 .env
 
 # Sistema operativo
-.DS_Store
+.DS_Store# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# Variables de entorno
+.env
+*.env
+
+# Datos crudos (no subir al repo, son pesados)
+data/raw/
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
