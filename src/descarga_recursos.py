@@ -25,6 +25,7 @@ from downloaders.kaggle_sources import (
 from downloaders.football_data_api import fuente_5_football_data_org
 from downloaders.world_bank_api import fuente_6_world_bank
 from downloaders.transfermarkt import fuente_7_transfermarkt
+from downloaders.convocados import fuente_8_convocados
 
 load_dotenv()
 
@@ -59,6 +60,9 @@ if __name__ == "__main__":
 
     ok, total = fuente_7_transfermarkt(RAW_DIR)
     resumen.append(("Fuente 7 - Transfermarkt (valor plantillas)", ok, total))
+
+    ok, total = fuente_8_convocados(RAW_DIR)
+    resumen.append(("Fuente 8 - Convocados oficiales WC2026", ok, total))
 
     print("\n" + "=" * 60)
     print("📊 RESUMEN DE DESCARGA")
