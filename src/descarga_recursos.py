@@ -2,20 +2,30 @@
 Script: download_sources.py
 Propósito: Descarga fuentes primarias de datos para el Oráculo del Balón
 Capa: 1 - Obtención de datos crudos
+Fuentes:
+    1. martj42/international_results (GitHub) - 49k+ partidos 1872-2024
+    2. FIFA World Ranking 1993-2024 (Kaggle)
+    3. FIFA World Cup Matches 1974-2022 (Kaggle)
+    4. WC2026 Match Probability Baseline (Kaggle)
 """
 
 import requests
-import os
+import subprocess
 from pathlib import Path
 
-# Directorio base del proyecto (dos niveles arriba de este script)
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
+# Directorio base del proyecto
+BASE_DIR = Path(__file__).resolve().parent.parent
 RAW_DIR = BASE_DIR / "data" / "raw"
 
 
+# ─────────────────────────────────────────────
+# UTILIDADES
+# ─────────────────────────────────────────────
+
+
 def download_file(url: str, dest_path: Path, description: str) -> bool:
-    """Descarga un archivo con barra de progreso simple."""
-    print(f"\n Descargando: {description}")
+    """Descarga un archivo desde una URL directa."""
+    print(f"\n📥 Descargando: {description}")
     print(f"   URL: {url}")
     print(f"   Destino: {dest_path}")
 
@@ -34,20 +44,56 @@ def download_file(url: str, dest_path: Path, description: str) -> bool:
                     pct = downloaded / total * 100
                     print(f"\r   Progreso: {pct:.1f}%", end="", flush=True)
 
-        print(f"\n   Guardado: {dest_path.name} ({downloaded / 1024:.1f} KB)")
+        print(f"\n   ✅ Guardado: {dest_path.name} ({downloaded / 1024:.1f} KB)")
         return True
 
     except requests.exceptions.RequestException as e:
-        print(f"\n    Error al descargar: {e}")
+        print(f"\n   ❌ Error: {e}")
         return False
 
 
-def download_international_results():
+def download_kaggle_dataset(dataset: str, dest_dir: Path, description: str) -> bool:
+    """Descarga un dataset de Kaggle usando kaggle CLI."""
+    print(f"\n📥 Descargando: {description}")
+    print(f"   Dataset: {dataset}")
+    print(f"   Destino: {dest_dir}")
+
+    try:
+        result = subprocess.run(
+            [
+                "kaggle",
+                "datasets",
+                "download",
+                "-d",
+                dataset,
+                "-p",
+                str(dest_dir),
+                "--unzip",
+            ],
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode == 0:
+            print(f"   ✅ Descargado correctamente")
+            return True
+        else:
+            print(f"   ❌ Error: {result.stderr}")
+            return False
+    except Exception as e:
+        print(f"   ❌ Excepción: {e}")
+        return False
+
+
+# ─────────────────────────────────────────────
+# FUENTES DE DATOS
+# ─────────────────────────────────────────────
+
+
+def fuente_1_international_results():
     """
-    Fuente 1: martj42/international_results
-    ~49,000 partidos internacionales 1872-2024
-    Columnas: date, home_team, away_team, home_score, away_score,
-              tournament, city, country, neutral
+    Fuente 1: martj42/international_results (GitHub)
+    49,000+ partidos internacionales 1872-2024
+    Archivos: results.csv, goalscorers.csv, shootouts.csv
     """
     sources = {
         "results.csv": (
@@ -65,25 +111,87 @@ def download_international_results():
     }
 
     dest_dir = RAW_DIR / "matches"
-    results = {}
+    resultados = {}
 
     for filename, url in sources.items():
         dest = dest_dir / filename
         if dest.exists():
-            print(f"     {filename} ya existe, omitiendo descarga.")
-            results[filename] = True
+            print(f"   ⚠️  {filename} ya existe, omitiendo.")
+            resultados[filename] = True
             continue
-        results[filename] = download_file(url, dest, f"martj42 - {filename}")
+        resultados[filename] = download_file(url, dest, f"martj42 - {filename}")
 
-    return results
+    ok = sum(resultados.values())
+    return ok, len(resultados)
 
+
+def fuente_2_fifa_ranking():
+    """
+    Fuente 2: FIFA World Ranking 1993-2024 (Kaggle)
+    Ranking FIFA histórico mes a mes por selección
+    """
+    ok = download_kaggle_dataset(
+        dataset="cashncarry/fifaworldranking",
+        dest_dir=RAW_DIR / "ranking",
+        description="FIFA World Ranking 1993-2024",
+    )
+    return (1 if ok else 0), 1
+
+
+def fuente_3_worldcup_matches():
+    """
+    Fuente 3: FIFA World Cup Matches 1974-2022 (Kaggle)
+    Partidos individuales de cada mundial con estadísticas
+    """
+    ok = download_kaggle_dataset(
+        dataset="piterfm/fifa-football-world-cup",
+        dest_dir=RAW_DIR / "worldcup",
+        description="FIFA World Cup Matches 1974-2022",
+    )
+    return (1 if ok else 0), 1
+
+
+def fuente_4_wc2026_baseline():
+    """
+    Fuente 4: WC2026 Match Probability Baseline (Kaggle)
+    Probabilidades base por ELO para fase de grupos 2026
+    """
+    ok = download_kaggle_dataset(
+        dataset="die9origephit/fifa-world-cup-2022-complete-dataset",
+        dest_dir=RAW_DIR / "worldcup",
+        description="WC2026 Match Probability Baseline",
+    )
+    return (1 if ok else 0), 1
+
+
+# ─────────────────────────────────────────────
+# MAIN
+# ─────────────────────────────────────────────
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("- Descarga de Fuentes")
+    print("🌍 ORÁCULO DEL BALÓN - Descarga de Fuentes")
     print("=" * 60)
 
-    # Fuente 1
-    r1 = download_international_results()
-    ok = sum(r1.values())
-    print(f"\n Descargas completadas: {ok}/{len(r1)} archivos descargados")
+    resumen = []
+
+    ok, total = fuente_1_international_results()
+    resumen.append(("Fuente 1 - martj42/international_results", ok, total))
+
+    ok, total = fuente_2_fifa_ranking()
+    resumen.append(("Fuente 2 - FIFA World Ranking", ok, total))
+
+    ok, total = fuente_3_worldcup_matches()
+    resumen.append(("Fuente 3 - FIFA World Cup Matches", ok, total))
+
+    ok, total = fuente_4_wc2026_baseline()
+    resumen.append(("Fuente 4 - WC2026 Baseline", ok, total))
+
+    print("\n" + "=" * 60)
+    print("📊 RESUMEN DE DESCARGA")
+    print("=" * 60)
+    for nombre, ok, total in resumen:
+        estado = "✅" if ok == total else "⚠️ " if ok > 0 else "❌"
+        print(f"   {estado} {nombre}: {ok}/{total} archivos")
+
+    print("\n✅ Sesión de descarga terminada.")
