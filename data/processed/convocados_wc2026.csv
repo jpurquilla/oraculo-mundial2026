@@ -1,0 +1,961 @@
+team,nombre,posicion,club,tipo_lista,liga_top,fuente
+Mexico,Álex Padilla,arqueros,Athletic Club,pre-lista,True,scraper
+Mexico,Antonio Rodríguez,arqueros,Tijuana,pre-lista,False,scraper
+Mexico,Carlos Acevedo,arqueros,Santos Laguna,pre-lista,False,scraper
+Mexico,Carlos Moreno,arqueros,Pachuca,pre-lista,False,scraper
+Mexico,Guillermo Ochoa,arqueros,AEL Limassol,pre-lista,False,scraper
+Mexico,Raúll Rangel,arqueros,Chivas,pre-lista,False,scraper
+Mexico,Bryan González,defensores,Chivas,pre-lista,False,scraper
+Mexico,César Montes,defensores,Lokomotiv Moscow,pre-lista,False,scraper
+Mexico,Edson álvarez,defensores,Fenerbahçe,pre-lista,False,scraper
+Mexico,Eduardo Águila,defensores,Atlético de San Luis,pre-lista,False,scraper
+Mexico,Everardo López,defensores,Toluca,pre-lista,False,scraper
+Mexico,Israel Reyes,defensores,América,pre-lista,False,scraper
+Mexico,Jesús Angulo,defensores,Tigres,pre-lista,False,scraper
+Mexico,Jesús Gallardo,defensores,Toluca,pre-lista,False,scraper
+Mexico,Jesús Gómez,defensores,Tijuana,pre-lista,False,scraper
+Mexico,Johan Vásquez,defensores,Genoa,pre-lista,True,scraper
+Mexico,Jorge Sá;nchez,defensores,PAOK,pre-lista,False,scraper
+Mexico,Julián Araujo,defensores,Celtic,pre-lista,False,scraper
+Mexico,Luis Rey,defensores,Puebla,pre-lista,False,scraper
+Mexico,Mateo Chávez,defensores,AZ Alkmaar,pre-lista,False,scraper
+Mexico,Ramón Juárez,defensores,América,pre-lista,False,scraper
+Mexico,Richard Ledezma,defensores,Chivas,pre-lista,False,scraper
+Mexico,Víctor Guzmán,defensores,Monterrey,pre-lista,False,scraper
+Mexico,Alexei Domínguez,centrocampistas,Pachuca,pre-lista,False,scraper
+Mexico,Alexis Gutiérrez,centrocampistas,America,pre-lista,False,scraper
+Mexico,Álvaro Fidalgo,centrocampistas,Real Betis,pre-lista,True,scraper
+Mexico,Brian Gutiérrez,centrocampistas,Chivas,pre-lista,False,scraper
+Mexico,Carlos Rodríguez,centrocampistas,Cruz Azul,pre-lista,False,scraper
+Mexico,Denzell Garcia,centrocampistas,FC Juarez,pre-lista,False,scraper
+Mexico,Diego Lainez,centrocampistas,Tigres,pre-lista,False,scraper
+Mexico,Efrain Álvarez,centrocampistas,Chivas,pre-lista,False,scraper
+Mexico,Elias Montiel,centrocampistas,Pachuca,pre-lista,False,scraper
+Mexico,Erick Sánchez,centrocampistas,America,pre-lista,False,scraper
+Mexico,Erik Lira,centrocampistas,Cruz Azul,pre-lista,False,scraper
+Mexico,Gilberto Mora,centrocampistas,Tijuana,pre-lista,False,scraper
+Mexico,Isaías Violante,centrocampistas,América,pre-lista,False,scraper
+Mexico,Jeremy Márquez,centrocampistas,Cruz Azul,pre-lista,False,scraper
+Mexico,Jordan Carrillo,centrocampistas,Pumas,pre-lista,False,scraper
+Mexico,Jorge Ruvalcaba,centrocampistas,NY Red Bulls,pre-lista,False,scraper
+Mexico,Kevin Castañeda,centrocampistas,Tijuana,pre-lista,False,scraper
+Mexico,Luis Chávez,centrocampistas,Dinamo Moscu,pre-lista,False,scraper
+Mexico,Luis Romo,centrocampistas,Chivas,pre-lista,False,scraper
+Mexico,Marcel Ruiz,centrocampistas,Toluca,pre-lista,False,scraper
+Mexico,Obed Vargas,centrocampistas,Atlético de Madrid,pre-lista,True,scraper
+Mexico,Orbelín Pineda,centrocampistas,AEK,pre-lista,False,scraper
+Mexico,Jesús Angulo,centrocampistas,Toluca,pre-lista,False,scraper
+Mexico,Alexis Vega,delanteros,Toluca,pre-lista,False,scraper
+Mexico,Armando González,delanteros,Chivas,pre-lista,False,scraper
+Mexico,César Huerta,delanteros,Anderlecht,pre-lista,False,scraper
+Mexico,Germán Berterame,delanteros,Inter Miami,pre-lista,False,scraper
+Mexico,Guillermo Martínez,delanteros,Pumas,pre-lista,False,scraper
+Mexico,Julián Quiñoones,delanteros,Al-Qadisiyah,pre-lista,False,scraper
+Mexico,Raúl Jiménez,delanteros,Fulham,pre-lista,True,scraper
+Mexico,Roberto Alvarado,delanteros,Chivas,pre-lista,False,scraper
+Mexico,Santiago Giménez,delanteros,Milán,pre-lista,False,scraper
+South Korea,Kim Seung-gyu,arqueros,FC Tokio,final,False,scraper
+South Korea,Bum-keun Song,arqueros,Jeonbuk,final,False,scraper
+South Korea,Hyeon-woo Jo,arqueros,Ulsan,final,False,scraper
+South Korea,Kim Moon-hwan,defensores,Daejeon,final,False,scraper
+South Korea,Kim Min-jae,defensores,Bayern Múnich,final,False,scraper
+South Korea,Kim Tae-hyeon,defensores,Kashima Antlers,final,False,scraper
+South Korea,Jin-seop Park,defensores,Zhejiang,final,False,scraper
+South Korea,Young-woo Seol,defensores,Estrella Roja,final,False,scraper
+South Korea,Jens Castrop,defensores,Borussia Mönchengladbach,final,True,scraper
+South Korea,Ki-hyuk Lee,defensores,Gangwon,final,False,scraper
+South Korea,Tae-seok Lee,defensores,Austria Viena,final,False,scraper
+South Korea,Han-beom Lee,defensores,Midtjylland,final,False,scraper
+South Korea,Yu-min Cho,defensores,Al Sharjah,final,False,scraper
+South Korea,Kim Jin-gyu,centrocampistas,Jeonbuk,final,False,scraper
+South Korea,Jun-ho Bae,centrocampistas,Stoke City,final,False,scraper
+South Korea,Seung-ho Paik,centrocampistas,Birmingham,final,False,scraper
+South Korea,Hyun-jun Yang,centrocampistas,Celtic Glasgow,final,False,scraper
+South Korea,Ji-sung Eom,centrocampistas,Swansea,final,False,scraper
+South Korea,Kang-in Lee,centrocampistas,PSG,final,False,scraper
+South Korea,Dong-gyeong Lee,centrocampistas,Ulsan,final,False,scraper
+South Korea,Jae-sung Lee,centrocampistas,Mainz,final,True,scraper
+South Korea,In-beom Hwang,centrocampistas,Feyenoord,final,False,scraper
+South Korea,Hee-chan Hwang,centrocampistas,Wolverhampton,final,True,scraper
+South Korea,Heung-min Son,delanteros,LAFC,final,False,scraper
+South Korea,Hyeon-gyu Oh,delanteros,Besiktas,final,False,scraper
+South Korea,Gue-sung Cho,delanteros,Midtjylland,final,False,scraper
+Czechia,Lukas Hornicek,arqueros,Braga,pre-lista,False,scraper
+Czechia,Matej Kovar,arqueros,PSV Eindhoven,pre-lista,True,scraper
+Czechia,Jindrich Stanek,arqueros,Slavia Prague,pre-lista,False,scraper
+Czechia,Vladimir Coufal,defensores,TSG Hoffenheim,pre-lista,False,scraper
+Czechia,David Douděra,defensores,Slavia Prague,pre-lista,False,scraper
+Czechia,Tomáš Holeš;,defensores,Slavia Prague,pre-lista,False,scraper
+Czechia,Robin Hranáč;,defensores,TSG Hoffenheim,pre-lista,False,scraper
+Czechia,Štěpán Chaloupek,defensores,Slavia Prague,pre-lista,False,scraper
+Czechia,David Jurásek,defensores,Slavia Prague,pre-lista,False,scraper
+Czechia,Ladislav Krejcí;,defensores,Wolverhampton Wanderers,pre-lista,True,scraper
+Czechia,Jaroslav Zelený;,defensores,Sparta Prague,pre-lista,False,scraper
+Czechia,David Zima,defensores,Slavia Prague,pre-lista,False,scraper
+Czechia,Pavel Bucha,centrocampistas,FC Cincinnati,pre-lista,False,scraper
+Czechia,Lukas Cerv,centrocampistas,Viktoria Plzen,pre-lista,False,scraper
+Czechia,Vladimir Darida,centrocampistas,Hradec Kralove,pre-lista,False,scraper
+Czechia,Tomáš Ladra,centrocampistas,Viktoria Plzen,pre-lista,False,scraper
+Czechia,Lukas Provod,centrocampistas,Slavia Prague,pre-lista,False,scraper
+Czechia,Michal Sadílek,centrocampistas,Slavia Prague,pre-lista,False,scraper
+Czechia,Hugo Sochůrek,centrocampistas,Sparta Prague,pre-lista,False,scraper
+Czechia,Alexandr Sojka,centrocampistas,Viktoria Plzen,pre-lista,False,scraper
+Czechia,Tomáš Souček,centrocampistas,West Ham,pre-lista,True,scraper
+Czechia,Pavel Šulc,centrocampistas,Lyon,pre-lista,True,scraper
+Czechia,Denis Višinský;,centrocampistas,Viktoria Plzen,pre-lista,False,scraper
+Czechia,Adam Hložek,delanteros,TSG Hoffenheim,pre-lista,False,scraper
+Czechia,Tomáš Chorý;,delanteros,Slavia Prague,pre-lista,False,scraper
+Czechia,Mojmír Chytil,delanteros,Slavia Prague,pre-lista,False,scraper
+Czechia,Christophe Kabongo,delanteros,Mlada Boleslav,pre-lista,False,scraper
+Czechia,Jan Kuchta,delanteros,Sparta Prague,pre-lista,False,scraper
+Czechia,Patrik Schick,delanteros,Bayer Leverkusen,pre-lista,True,scraper
+Bosnia and Herzegovina,Nikola Vasilj,arqueros,St Pauli,final,False,scraper
+Bosnia and Herzegovina,Martin Zlomislic,arqueros,Rijeka,final,False,scraper
+Bosnia and Herzegovina,Osman Hadzikic,arqueros,Slaven Belupo,final,False,scraper
+Bosnia and Herzegovina,Sead Kolasinac,defensores,Atalanta,final,True,scraper
+Bosnia and Herzegovina,Amar Dedic,defensores,Benfica,final,True,scraper
+Bosnia and Herzegovina,Nihad Mujakic,defensores,Gaziantep,final,False,scraper
+Bosnia and Herzegovina,Nikola Katic,defensores,Schalke 04,final,False,scraper
+Bosnia and Herzegovina,Tarik Muharemovic,defensores,Sassuolo,final,True,scraper
+Bosnia and Herzegovina,Stjepan Radeljic,defensores,Rijeka,final,False,scraper
+Bosnia and Herzegovina,Dennis Hadzikadunic,defensores,Sampdoria,final,False,scraper
+Bosnia and Herzegovina,Nidal Celik,defensores,Lens,final,False,scraper
+Bosnia and Herzegovina,Amir Hadziahmetovic,centrocampistas,Hull City,final,False,scraper
+Bosnia and Herzegovina,Ivan Sunjic,centrocampistas,Pafos,final,False,scraper
+Bosnia and Herzegovina,Ivan Basic,centrocampistas,Astana,final,False,scraper
+Bosnia and Herzegovina,Dzenis Burnic,centrocampistas,Karlsruher SC,final,False,scraper
+Bosnia and Herzegovina,Ermin Mahmic,centrocampistas,Slovan Liberec,final,False,scraper
+Bosnia and Herzegovina,Benjamin Tahirovic,centrocampistas,Brondby,final,False,scraper
+Bosnia and Herzegovina,Amar Memic,centrocampistas,Viktoria Plzen,final,False,scraper
+Bosnia and Herzegovina,Armin Gigovic,centrocampistas,Young Boys,final,False,scraper
+Bosnia and Herzegovina,Kerim Alajbegovic,centrocampistas,RB Salzburg,final,False,scraper
+Bosnia and Herzegovina,Esmir Bajraktarevic,centrocampistas,PSV Eindhoven,final,True,scraper
+Bosnia and Herzegovina,Ermedin Demirovic,delanteros,VfB Stuttgart,final,True,scraper
+Bosnia and Herzegovina,Jovo Lukic,delanteros,Universitatea Cluj,final,False,scraper
+Bosnia and Herzegovina,Samed Bazdar,delanteros,Jagiellonia Bialystok,final,False,scraper
+Bosnia and Herzegovina,Haris Tabakovic,delanteros,Borussia Moenchengladbach,final,False,scraper
+Bosnia and Herzegovina,Edin Dzeko,delanteros,Schalke 04,final,False,scraper
+Qatar,Shehab Elleithy,arqueros,Al Shahania,pre-lista,False,scraper
+Qatar,Salah Zakaria,arqueros,Al Duhail,pre-lista,False,scraper
+Qatar,Meshaal Barsham,arqueros,Al Sadd,pre-lista,False,scraper
+Qatar,Mahmoud Abunada,arqueros,Al Rayyan,pre-lista,False,scraper
+Qatar,Boualem Khoukhi,defensores,Al Sadd,pre-lista,False,scraper
+Qatar,Pedro Miguel,defensores,Al Sadd,pre-lista,False,scraper
+Qatar,Sultan Al Brake,defensores,Al Duhail,pre-lista,False,scraper
+Qatar,Tarek Salman,defensores,Al Sadd,pre-lista,False,scraper
+Qatar,Al-Hashmi Al-Hussain,defensores,Al Arabi,pre-lista,False,scraper
+Qatar,Ayoub Al-Alawi,defensores,Al Gharafa,pre-lista,False,scraper
+Qatar,Bassam Al-Rawi,defensores,Al Duhail,pre-lista,False,scraper
+Qatar,Rayyan Al-Ali,defensores,Al Gharafa,pre-lista,False,scraper
+Qatar,Issa Laye,defensores,Al Arabi,pre-lista,False,scraper
+Qatar,Lucas Mendes,defensores,Al Wakrah,pre-lista,False,scraper
+Qatar,Mohammed Waad,defensores,Al Shamal,pre-lista,False,scraper
+Qatar,Niall Mason,defensores,Qatar,pre-lista,False,scraper
+Qatar,Ahmed Fathi,centrocampistas,Al Arabi,pre-lista,False,scraper
+Qatar,Jassim Gaber,centrocampistas,Al Rayyan,pre-lista,False,scraper
+Qatar,Assim Madibo,centrocampistas,Al Wakrah,pre-lista,False,scraper
+Qatar,Abdulaziz Hatem,centrocampistas,Al Rayyan,pre-lista,False,scraper
+Qatar,Karim Boudiaf,centrocampistas,Al Duhail,pre-lista,False,scraper
+Qatar,Mohammed Mannai,centrocampistas,Al Shamal,pre-lista,False,scraper
+Qatar,Homam Al-Amin,centrocampistas,Cultural Leonesa,pre-lista,False,scraper
+Qatar,Almoez Ali,delanteros,Al Duhail,pre-lista,False,scraper
+Qatar,Akram Afif,delanteros,Al Sadd,pre-lista,False,scraper
+Qatar,Tahsin Mohammed,delanteros,Al Duhail,pre-lista,False,scraper
+Qatar,Edmílson Junior,delanteros,Al Duhail,pre-lista,False,scraper
+Qatar,Ahmed Al-Ganehi,delanteros,Al Gharafa,pre-lista,False,scraper
+Qatar,Ahmed Alaa,delanteros,Al Rayyan,pre-lista,False,scraper
+Qatar,Sebastián Soria,delanteros,Qatar,pre-lista,False,scraper
+Qatar,Hassan Al-Haydos,delanteros,Al Sadd,pre-lista,False,scraper
+Qatar,Mubarak Shannan,delanteros,Al Duhail,pre-lista,False,scraper
+Qatar,Mohammed Muntari,delanteros,Al Gharafa,pre-lista,False,scraper
+Qatar,Yusuf Abdurisag,delanteros,Al Wakrah,pre-lista,False,scraper
+Brazil,Alisson,arqueros,Liverpool,final,True,scraper
+Brazil,Ederson,arqueros,Fenerbahçe,final,False,scraper
+Brazil,Weverton,arqueros,Grêmio,final,False,scraper
+Brazil,Wesley,defensores,Roma,final,True,scraper
+Brazil,Danilo,defensores,Flamengo,final,False,scraper
+Brazil,Alex Sandro,defensores,Flamengo,final,False,scraper
+Brazil,Douglas Santos,defensores,Zenit,final,False,scraper
+Brazil,Marquinhos,defensores,PSG,final,False,scraper
+Brazil,Gabriel Magalhães,defensores,Arsenal,final,True,scraper
+Brazil,Bremer,defensores,Juventus,final,True,scraper
+Brazil,Ibañez,defensores,Al Ahli,final,False,scraper
+Brazil,Léo Pereira,defensores,Flamengo,final,False,scraper
+Brazil,Casemiro,centrocampistas,Manchester United,final,True,scraper
+Brazil,Bruno Guimarães,centrocampistas,Newcastle,final,True,scraper
+Brazil,Fabinho,centrocampistas,Al Ittihad,final,False,scraper
+Brazil,Danilo Santos,centrocampistas,Botafogo,final,False,scraper
+Brazil,Lucas Paquetá,centrocampistas,Flamengo,final,False,scraper
+Brazil,Luiz Henrique,delanteros,Zenit,final,False,scraper
+Brazil,Endrick,delanteros,Lyon,final,True,scraper
+Brazil,Raphinha,delanteros,Barcelona,final,True,scraper
+Brazil,Neymar,delanteros,Santos,final,False,scraper
+Brazil,Matheus Cunha,delanteros,Manchester United,final,True,scraper
+Brazil,Igor Thiago,delanteros,Brentford,final,True,scraper
+Brazil,Gabriel Martinelli,delanteros,Arsenal,final,True,scraper
+Brazil,Rayan,delanteros,Real Madrid,final,True,scraper
+Haiti,Johnny Placide,arqueros,Bastia-FRA,final,False,scraper
+Haiti,Alexandre Pierre,arqueros,Cosmos Koblenz-GER,final,False,scraper
+Haiti,Carlens Arcus,defensores,Angers-SCO,final,False,scraper
+Haiti,Wilguens Pauguain,defensores,Zulte Waregem-BEL,final,False,scraper
+Haiti,Duke Lacroix,defensores,Colorado Springs Switchbacks-USA,final,False,scraper
+Haiti,Martin Expérience,defensores,Nancy-FRA,final,False,scraper
+Haiti,Jean-Kévin Duverne,defensores,Liga de Quito-ECU,final,False,scraper
+Haiti,Hannes Delcroix,defensores,Lugano-SUI,final,False,scraper
+Haiti,Keeto Thermoncy,defensores,BSC Young Boys II-SUI,final,False,scraper
+Haiti,Leverton Pierre,centrocampistas,Vizela-POR,final,False,scraper
+Haiti,Carl-Fred Sainthe,centrocampistas,El Paso Locomotive-USA,final,False,scraper
+Haiti,Jean-Jacques Danley,centrocampistas,Philadelphia Union-USA,final,False,scraper
+Haiti,Jean-Ricner Bellegarde,centrocampistas,Wolverhampton-GBR,final,False,scraper
+Haiti,Pierre Woodensky,centrocampistas,Violette-HAI,final,False,scraper
+Haiti,y Dominique Simon,centrocampistas,Tatran Presov-SVK,final,False,scraper
+Haiti,Louicious Deedson,delanteros,Dallas-USA,final,False,scraper
+Haiti,Ruben Providence,delanteros,Almere City-NED,final,False,scraper
+Haiti,Josué Casimir,delanteros,Auxerre-FRA,final,False,scraper
+Haiti,Derrick Etienne,delanteros,Toronto-CAN,final,False,scraper
+Haiti,Wilson Isidor,delanteros,Sunderland-GBR,final,False,scraper
+Haiti,Duckens Nazon,delanteros,Esteghlal-IRI,final,False,scraper
+Haiti,Frantzdy Pierrot,delanteros,Çaykur Rizespor-TUR,final,False,scraper
+Haiti,Yassin Fortune,delanteros,Vizela-POR,final,False,scraper
+Haiti,Lenny Joseph,delanteros,Ferencváros-HUN,final,False,scraper
+Paraguay,Roberto Fernández,arqueros,Cerro Porteño,pre-lista,False,scraper
+Paraguay,Orlando Gill,arqueros,San Lorenzo,pre-lista,False,scraper
+Paraguay,Gastón Olveira,arqueros,Olimpia,pre-lista,False,scraper
+Paraguay,Carlos Coronel,arqueros,Sao Paulo,pre-lista,False,scraper
+Paraguay,Santiago Rojas,arqueros,Nacional,pre-lista,False,scraper
+Paraguay,Juan Espínola,arqueros,Barracas Central,pre-lista,False,scraper
+Paraguay,Gustavo Gómez,defensores,Palmeiras,pre-lista,False,scraper
+Paraguay,Junior Alonso,defensores,Atlético Mineiro,pre-lista,False,scraper
+Paraguay,Fabián Balbuena,defensores,Gremio,pre-lista,False,scraper
+Paraguay,Omar Alderete,defensores,Sunderland,pre-lista,True,scraper
+Paraguay,Juan Caceres,defensores,Dynamo Moscow,pre-lista,False,scraper
+Paraguay,Blas Riveros,defensores,Cerro Porteno,pre-lista,False,scraper
+Paraguay,Alan Benitez,defensores,Libertad,pre-lista,False,scraper
+Paraguay,Agustin Sandez,defensores,Rosario Central,pre-lista,False,scraper
+Paraguay,Mateo Gamarra,defensores,Cruzeiro,pre-lista,False,scraper
+Paraguay,Saul Salcedo,defensores,Newell's Old Boys,pre-lista,False,scraper
+Paraguay,Jose Canale,defensores,Lanus,pre-lista,False,scraper
+Paraguay,Diego León,defensores,Manchester United,pre-lista,True,scraper
+Paraguay,Alexandro Maidana,defensores,Talleres,pre-lista,False,scraper
+Paraguay,Alcides Benitez,defensores,Belgrano,pre-lista,False,scraper
+Paraguay,Ronaldo Dejesus,defensores,Lanus,pre-lista,False,scraper
+Paraguay,Alan Nuñez,defensores,Nacional,pre-lista,False,scraper
+Paraguay,Miguel Almirón,centrocampistas,Atlanta United,pre-lista,False,scraper
+Paraguay,Mathías Villasanti,centrocampistas,Gremio,pre-lista,False,scraper
+Paraguay,Kaku,centrocampistas,Al Ain,pre-lista,False,scraper
+Paraguay,Andrés Cubas,centrocampistas,Vancouver Whitecaps,pre-lista,False,scraper
+Paraguay,Ramón Sosa,centrocampistas,Palmeiras,pre-lista,False,scraper
+Paraguay,Diego Gómez,centrocampistas,Brighton & Hove Albion,pre-lista,True,scraper
+Paraguay,Damián Bobadilla,centrocampistas,Sao Paulo,pre-lista,False,scraper
+Paraguay,Braian Ojeda,centrocampistas,Orlando City,pre-lista,False,scraper
+Paraguay,Matías Galarza,centrocampistas,Atlanta United,pre-lista,False,scraper
+Paraguay,Robert Piris Da Motta,centrocampistas,Cerro Porteno,pre-lista,False,scraper
+Paraguay,Alvaro Campuzano,centrocampistas,Libertad,pre-lista,False,scraper
+Paraguay,Diego González,centrocampistas,Atlas,pre-lista,False,scraper
+Paraguay,Hugo Cuenca,centrocampistas,Burgos,pre-lista,False,scraper
+Paraguay,Mauricio Magalhaes,centrocampistas,Palmeiras,pre-lista,False,scraper
+Paraguay,Lucas Romero,centrocampistas,Universidad de Chile,pre-lista,False,scraper
+Paraguay,Enso González,centrocampistas,Wolverhampton Wanderers,pre-lista,True,scraper
+Paraguay,Ruben Lezcano,centrocampistas,Olimpia,pre-lista,False,scraper
+Paraguay,Oscar Romero,delanteros,Huracan,pre-lista,False,scraper
+Paraguay,Ángel Romero,delanteros,Boca Juniors,pre-lista,False,scraper
+Paraguay,Antonio Sanabria,delanteros,Cremonese,pre-lista,True,scraper
+Paraguay,Julio Enciso,delanteros,Strasbourg,pre-lista,True,scraper
+Paraguay,Gabriel Avalos,delanteros,Independiente,pre-lista,False,scraper
+Paraguay,Carlos Gonzalez,delanteros,Independiente del Valle,pre-lista,False,scraper
+Paraguay,Alex Arce>,delanteros,Independiente Rivadavia,pre-lista,False,scraper
+Paraguay,Adam Bareiro,delanteros,Boca Juniors,pre-lista,False,scraper
+Paraguay,Lorenzo Melgarejo,delanteros,Libertad,pre-lista,False,scraper
+Paraguay,Isidro Pitta,delanteros,Red Bull Bragantino,pre-lista,False,scraper
+Paraguay,Ronaldo Martinez,delanteros,Talleres,pre-lista,False,scraper
+Paraguay,Gustavo Caballero,delanteros,Portsmouth,pre-lista,False,scraper
+Paraguay,Robert Morales,delanteros,UNAM,pre-lista,False,scraper
+Paraguay,Adrian Alcaraz,delanteros,Olimpia,pre-lista,False,scraper
+Paraguay,Rodney Redes,delanteros,LDU Quito,pre-lista,False,scraper
+Turkey,Altay Bayindir,arqueros,Manchester United,pre-lista,True,scraper
+Turkey,Ersin Destanoglu,arqueros,Besiktas,pre-lista,False,scraper
+Turkey,Mert Günok,arqueros,Fenerbahçe,pre-lista,False,scraper
+Turkey,Muhhamed Sengezer,arqueros,Basaksehir,pre-lista,False,scraper
+Turkey,Ugurcan Çakir,arqueros,Galatasaray,pre-lista,True,scraper
+Turkey,Abdülkerim Bardakci,defensores,Galatasaray,pre-lista,True,scraper
+Turkey,Ahmetcan Kaplan,defensores,NEC Nijmegen,pre-lista,False,scraper
+Turkey,Caglar Söyüncü,defensores,Fenerbahçe,pre-lista,False,scraper
+Turkey,Eren Elmali,defensores,Galatasaray,pre-lista,True,scraper
+Turkey,Ferdi Kadioglu,defensores,Brighton & Hove Albion,pre-lista,True,scraper
+Turkey,Merih Demiral,defensores,Al-Ahli Saudi,pre-lista,False,scraper
+Turkey,Mert Müldür,defensores,Fenerbahçe,pre-lista,False,scraper
+Turkey,Mustafa Eskihellac,defensores,Trabzonspor,pre-lista,False,scraper
+Turkey,Ozan Kabak,defensores,TSG 1899 Hoffenheim,pre-lista,True,scraper
+Turkey,Samet Akaydin,defensores,Çaykur Rizespor,pre-lista,False,scraper
+Turkey,Yusuf Akçiçek,defensores,Al-Hilal Saudi,pre-lista,False,scraper
+Turkey,Zeki Çelik,defensores,A S Roma,pre-lista,False,scraper
+Turkey,Atakan Karazor,centrocampistas,VfB Stuttgart,pre-lista,True,scraper
+Turkey,Demir Ege Tiknaz,centrocampistas,Braga,pre-lista,False,scraper
+Turkey,Hakan Calhanoglu,centrocampistas,Inter de Milán,pre-lista,False,scraper
+Turkey,Ismail Yüksek,centrocampistas,Fenerbahçe,pre-lista,False,scraper
+Turkey,Kaan Ayhan,centrocampistas,Galatasaray,pre-lista,True,scraper
+Turkey,Orkun Kökçu,centrocampistas,Beşiktaş,pre-lista,False,scraper
+Turkey,Salih Ozcan,centrocampistas,Borussia Dortmund,pre-lista,True,scraper
+Turkey,Aral Simsir,centrocampistas,Midtjylland,pre-lista,False,scraper
+Turkey,Arda Güler,centrocampistas,Real Madrid,pre-lista,True,scraper
+Turkey,Baris Alper Yilmaz,centrocampistas,Galatasaray,pre-lista,True,scraper
+Turkey,Can Uzun,centrocampistas,Eintracht Fráncfort,pre-lista,False,scraper
+Turkey,Deniz Gül,delanteros,F C Porto,pre-lista,False,scraper
+Turkey,Irfan Can Kahveci,delanteros,Kasımpaşa,pre-lista,False,scraper
+Turkey,Kenan Yildiz,delanteros,Juventus,pre-lista,True,scraper
+Turkey,Karem Akturkoglu,delanteros,Fenerbahçe,pre-lista,False,scraper
+Turkey,Oguz Aydin,delanteros,Oguz Aydin,pre-lista,False,scraper
+Turkey,Yunus Akgün,delanteros,Başakşehir,pre-lista,False,scraper
+Germany,Oliver Baumann,arqueros,Hoffenheim,final,True,scraper
+Germany,Manuel Neuer,arqueros,Bayern Munich,final,True,scraper
+Germany,Alexander Nübel,arqueros,Stuttgart,final,True,scraper
+Germany,Waldemar Anton,defensores,Borussia Dortmund,final,True,scraper
+Germany,Nathaniel Brown,defensores,Eintracht Frankfurt,final,True,scraper
+Germany,David Raum,defensores,RB Leipzig,final,True,scraper
+Germany,Antonio Rüdiger,defensores,Real Madrid,final,True,scraper
+Germany,Nico Schlotterbeck,defensores,Borussia Dortmund,final,True,scraper
+Germany,Jonathan Tah,defensores,Bayern Munich,final,True,scraper
+Germany,Malick Thiaw,defensores,Newcastle,final,True,scraper
+Germany,Pascal Gross,centrocampistas,Brighton,final,True,scraper
+Germany,Joshua Kimmich,centrocampistas,Bayern Munich,final,True,scraper
+Germany,Aleksandar Pavlovic,centrocampistas,Bayern Munich,final,True,scraper
+Germany,Felix Nmecha,centrocampistas,Borussia Dortmund,final,True,scraper
+Germany,Angelo Stiller,centrocampistas,Stuttgart,final,True,scraper
+Germany,Nadiem Amiri,centrocampistas,Mainz,final,True,scraper
+Germany,Leon Goretzka,centrocampistas,Bayern Munich,final,True,scraper
+Germany,Jamie Leweling,centrocampistas,Stuttgart,final,True,scraper
+Germany,Maximilian Beier,delanteros,Borussia Dortmund,final,True,scraper
+Germany,Kai Havertz,delanteros,Arsenal,final,True,scraper
+Germany,Lennart Karl,delanteros,Bayern Munich,final,True,scraper
+Germany,Jamal Musiala,delanteros,Bayern Munich,final,True,scraper
+Germany,Leroy Sané,delanteros,Galatasaray,final,True,scraper
+Germany,Deniz Undav,delanteros,Stuttgart,final,True,scraper
+Germany,Florian Wirtz,delanteros,Liverpool,final,True,scraper
+Germany,Nick Woltemade,delanteros,Newcastle,final,True,scraper
+Curaçao,Tyrick Bodak,arqueros,,final,False,scraper
+Curaçao,Trevor Doornbusch,arqueros,,final,False,scraper
+Curaçao,Eloy Room,arqueros,,final,False,scraper
+Curaçao,Riechedly Bazoer,defensores,,final,False,scraper
+Curaçao,Joshua Brenet,defensores,,final,False,scraper
+Curaçao,Roshon van Eijma,defensores,,final,False,scraper
+Curaçao,Sherel Floranus,defensores,,final,False,scraper
+Curaçao,Deveron Fonville,defensores,,final,False,scraper
+Curaçao,Juriën Gaari,defensores,,final,False,scraper
+Curaçao,Armando Obispo,defensores,,final,False,scraper
+Curaçao,Shurandy Sambo,defensores,,final,False,scraper
+Curaçao,Juninho Bacuna,centrocampistas,,final,False,scraper
+Curaçao,Leandro Bacuna,centrocampistas,,final,False,scraper
+Curaçao,Livano Comenencia,centrocampistas,,final,False,scraper
+Curaçao,Kevin Felida,centrocampistas,,final,False,scraper
+Curaçao,Ar'jany Martha,centrocampistas,,final,False,scraper
+Curaçao,Tyrese Noslin,centrocampistas,,final,False,scraper
+Curaçao,Godfried Roemeratoe,centrocampistas,,final,False,scraper
+Curaçao,Jeremy Antonisse,delanteros,,final,False,scraper
+Curaçao,Tahith Chong,delanteros,,final,False,scraper
+Curaçao,Kenji Gorré,delanteros,,final,False,scraper
+Curaçao,Sontje Hansen,delanteros,,final,False,scraper
+Curaçao,Gervane Kastaneer,delanteros,,final,False,scraper
+Curaçao,Brandley Kuwas,delanteros,,final,False,scraper
+Curaçao,Jürgen Locadia,delanteros,,final,False,scraper
+Curaçao,Jearl Margaritha,delanteros,,final,False,scraper
+Ivory Coast,Yahia Fofana,arqueros,Rizespor,final,False,scraper
+Ivory Coast,Mohamed Koné,arqueros,Charleroi,final,False,scraper
+Ivory Coast,Alban Lafont,arqueros,Panathinaïkos,final,False,scraper
+Ivory Coast,Emmanuel Agbadou,defensores,Besiktas,final,False,scraper
+Ivory Coast,Clément Akpa,defensores,AJ Auxerre,final,True,scraper
+Ivory Coast,Ousmane Diomandé,defensores,Sporting,final,True,scraper
+Ivory Coast,Guela Doué,defensores,Estrasburgo,final,False,scraper
+Ivory Coast,Ghislain Konan,defensores,Gil Vicente,final,False,scraper
+Ivory Coast,Odilon Kossounou,defensores,Atalanta,final,True,scraper
+Ivory Coast,Evan Ndicka,defensores,AS Roma,final,True,scraper
+Ivory Coast,Wilfried Singo,defensores,Galatasaray,final,True,scraper
+Ivory Coast,Seko Fofana,centrocampistas,FC Porto,final,False,scraper
+Ivory Coast,Parfait Guiagon,centrocampistas,Charleroi,final,False,scraper
+Ivory Coast,Franck Kessié,centrocampistas,Al-Ahli,final,False,scraper
+Ivory Coast,Christ Inao Oulaï,centrocampistas,Trabzonspor,final,False,scraper
+Ivory Coast,Ibrahim Sangaré,centrocampistas,Nottingham Forest,final,True,scraper
+Ivory Coast,Jean-Michaël Seri,centrocampistas,NK Maribor,final,False,scraper
+Ivory Coast,Simon Adingra,delanteros,AS Mónaco,final,False,scraper
+Ivory Coast,Amad Diallo,delanteros,Manchester United,final,True,scraper
+Ivory Coast,Yan Diomandé,delanteros,RB Leipzig,final,True,scraper
+Ivory Coast,Oumar Diakité,delanteros,Cercle Bruges,final,False,scraper
+Ivory Coast,Evan Guessand,delanteros,Crystal Palace,final,True,scraper
+Ivory Coast,Ange-Yoan Bony,delanteros,Inter Milán,final,False,scraper
+Ivory Coast,Bazoumana Touré,delanteros,Hoffenheim,final,True,scraper
+Ivory Coast,Elye Wahi,delanteros,OGC Niza,final,False,scraper
+Ivory Coast,Nicolas Pépé,delanteros,Villarreal,final,True,scraper
+Japan,Tomoki Hayakawa,arqueros,Kashima Antlers,final,False,scraper
+Japan,Keisuke Osako,arqueros,Sanfrecce Hiroshima,final,False,scraper
+Japan,Zion Suzuki,arqueros,Parma,final,True,scraper
+Japan,Yuto Nagatomo,defensores,FC Tokio,final,False,scraper
+Japan,Shogo Taniguchi,defensores,Sint-Truiden,final,False,scraper
+Japan,Kou Itakura,defensores,,final,False,scraper
+Japan,Takehiro Tomiyasu,defensores,Ajax,final,True,scraper
+Japan,Tsuyoshi Watanabe,defensores,Feyenoord,final,False,scraper
+Japan,Hiroki Ito,defensores,Bayern Múnich,final,False,scraper
+Japan,Ayumu Seko,defensores,Le Havre,final,True,scraper
+Japan,Yukinari Sugawara,defensores,Werder Bremen,final,True,scraper
+Japan,Junnosuke Suzuki,defensores,Copenhague,final,False,scraper
+Japan,Wataru Endo,centrocampistas,Liverpool,final,True,scraper
+Japan,Junya Ito,centrocampistas,Genk,final,False,scraper
+Japan,Daichi Kamada,centrocampistas,Crystal Palace,final,True,scraper
+Japan,Ritsu Doan,centrocampistas,Eintracht Fráncfort,final,False,scraper
+Japan,Ao Tanaka,centrocampistas,Leeds United,final,True,scraper
+Japan,Keito Nakamura,centrocampistas,Stade de Reims,final,False,scraper
+Japan,Kaishu Sano,centrocampistas,Mainz 05,final,True,scraper
+Japan,Takefusa Kubo,centrocampistas,Real Sociedad,final,True,scraper
+Japan,Koki Ogawa,delanteros,NEC Nimega,final,False,scraper
+Japan,Daizen Maeda,delanteros,Celtic,final,False,scraper
+Japan,Ayase Ueda,delanteros,Feyenoord,final,False,scraper
+Japan,Yuito Suzuki,delanteros,Friburgo,final,False,scraper
+Japan,Kento Shiogai,delanteros,Wolfsburgo,final,False,scraper
+Japan,Keisuke Goto,delanteros,Sint-Truiden,final,False,scraper
+Sweden,Viktor Johansson,arqueros,Stoke City,final,False,scraper
+Sweden,Kristoffer Nordfeldt,arqueros,AIK,final,False,scraper
+Sweden,Jacob Widell Zetterstrom,arqueros,Derby County,final,False,scraper
+Sweden,Hjalmar Ekdal,defensores,Burnley,final,True,scraper
+Sweden,Gabriel Gudmundsson,defensores,Leeds United,final,True,scraper
+Sweden,Isak Hien,defensores,Atalanta,final,True,scraper
+Sweden,Emil Holm,defensores,Juventus,final,True,scraper
+Sweden,Gustaf Lagerbielke,defensores,Braga,final,False,scraper
+Sweden,Victor Lindelof,defensores,Aston Villa,final,True,scraper
+Sweden,Erik Smith,defensores,St Pauli,final,False,scraper
+Sweden,Carl Starfelt,defensores,Celta Vigo,final,False,scraper
+Sweden,Elliot Stroud,defensores,Mjallby,final,False,scraper
+Sweden,Daniel Svensson,defensores,Borussia Dortmund,final,True,scraper
+Sweden,Taha Ali,centrocampistas,Malmo,final,False,scraper
+Sweden,Yasin Ayari,centrocampistas,Brighton,final,True,scraper
+Sweden,Lucas Bergvall,centrocampistas,Tottenham,final,True,scraper
+Sweden,Jesper Karlstrom,centrocampistas,Udinese,final,True,scraper
+Sweden,Ken Sema,centrocampistas,Pafos,final,False,scraper
+Sweden,Mattias Svanberg,centrocampistas,Wolfsburg,final,True,scraper
+Sweden,Besfort Zeneli,centrocampistas,Union St-Gilloise,final,False,scraper
+Sweden,Alexander Bernhardsson,delanteros,Holstein Kiel,final,False,scraper
+Sweden,Anthony Elanga,delanteros,Newcastle United,final,True,scraper
+Sweden,Viktor Gyokeres,delanteros,Arsenal,final,True,scraper
+Sweden,Alexander Isak,delanteros,Liverpool,final,True,scraper
+Sweden,Gustaf Nilsson,delanteros,Club Brugge,final,True,scraper
+Sweden,Benjamin Nygren,delanteros,Celtic,final,False,scraper
+Tunisia,Aymen Dahmen,arqueros,CS Sfaxien,final,False,scraper
+Tunisia,Sabri Ben Hessen,arqueros,Étoile du Sahel,final,False,scraper
+Tunisia,Abdelmouhib Chamakh,arqueros,Club Africain,final,False,scraper
+Tunisia,Montassar Talbi,defensores,Lorient,final,True,scraper
+Tunisia,Dylan Bronn,defensores,Servette,final,False,scraper
+Tunisia,Omar Rekik,defensores,Maribor,final,False,scraper
+Tunisia,Yan Valery,defensores,Young Boys,final,False,scraper
+Tunisia,Ali Abdi,defensores,Nice,final,True,scraper
+Tunisia,Moutaz Neffati,defensores,IFK Norrköping,final,False,scraper
+Tunisia,Raed Chikhaoui,defensores,US Monastir,final,False,scraper
+Tunisia,Adam Arous,defensores,Kasımpaşa,final,False,scraper
+Tunisia,Mohamed Amine Ben Hamida,defensores,Espérance de Tunis,final,False,scraper
+Tunisia,Ellyes Skhiri,centrocampistas,Eintracht Frankfurt,final,True,scraper
+Tunisia,Hannibal Mejbri,centrocampistas,Burnley,final,True,scraper
+Tunisia,Anis Ben Slimane,centrocampistas,Norwich City,final,False,scraper
+Tunisia,Hadj Mahmoud,centrocampistas,Lugano,final,False,scraper
+Tunisia,Rani Khedira,centrocampistas,Union Berlin,final,True,scraper
+Tunisia,Mortadha Ben Ouanes,centrocampistas,Kasımpaşa,final,False,scraper
+Tunisia,Elias Achouri,delanteros,Copenhagen,final,False,scraper
+Tunisia,Ismaël Gharbi,delanteros,Augsburg,final,True,scraper
+Tunisia,Elias Saad,delanteros,Hannover 96,final,False,scraper
+Tunisia,Sebastian Tounekti,delanteros,Celtic,final,False,scraper
+Tunisia,Firas Chaouat,delanteros,Club Africain,final,False,scraper
+Tunisia,Khalil Ayari,delanteros,Paris Saint-Germain,final,True,scraper
+Tunisia,Hazem Mastouri,delanteros,Dynamo Makhachkala,final,False,scraper
+Tunisia,Rayan Elloumi,delanteros,Vancouver Whitecaps,final,False,scraper
+Tunisia,Elias Saad,delanteros,Hannover 96,final,False,scraper
+Belgium,Thibaut Courtois,arqueros,Real Madrid,final,True,scraper
+Belgium,Senne Lammens,arqueros,Manchester United,final,True,scraper
+Belgium,Mike Penders,arqueros,Chelsea,final,True,scraper
+Belgium,Timothy Castagne,defensores,Fulham,final,True,scraper
+Belgium,Zeno Debast,defensores,Sporting CP,final,False,scraper
+Belgium,Maxim De Cuyper,defensores,>Brighton & Hove Albion,final,False,scraper
+Belgium,Koni De Winter,defensores,AC Milan,final,True,scraper
+Belgium,Brandon Mechele,defensores,Club Brugge,final,True,scraper
+Belgium,Thomas Meunier,defensores,Lille,final,False,scraper
+Belgium,Nathan Ngoy,defensores,Lille,final,False,scraper
+Belgium,Joaquin Seys,defensores,Club Brugge,final,True,scraper
+Belgium,Arthur Theate,defensores,Eintracht Frankfurt,final,True,scraper
+Belgium,Kevin De Bruyne,centrocampistas,Napoli,final,True,scraper
+Belgium,Amadou Onana,centrocampistas,Aston Villa,final,True,scraper
+Belgium,Nicolas Raskin>,centrocampistas,Rangers,final,False,scraper
+Belgium,Youri Tielemans,centrocampistas,Aston Villa,final,True,scraper
+Belgium,Hans Vanaken,centrocampistas,Club Brugge,final,True,scraper
+Belgium,Axel Witsel,centrocampistas,Girona,final,True,scraper
+Belgium,Charles De Ketelaere,delanteros,Atalanta,final,True,scraper
+Belgium,Jeremy Doku,delanteros,Manchester City,final,True,scraper
+Belgium,Matias Fernandez-Pardo,delanteros,Lille,final,False,scraper
+Belgium,Romelu Lukaku,delanteros,Napoli,final,True,scraper
+Belgium,Dodi Lukebakio,delanteros,Benfica,final,True,scraper
+Belgium,Diego Moreira,delanteros,Strasbourg,final,True,scraper
+Belgium,Alexis Saelemaekers,delanteros,AC Milan,final,True,scraper
+Belgium,Leandro Trossard,delanteros,Arsenal,final,True,scraper
+Egypt,Mohamed El Shenawy,arqueros,Al Ahly,pre-lista,False,scraper
+Egypt,Mostafa Shobeir,arqueros,Al Ahly,pre-lista,False,scraper
+Egypt,El Mahdi Soliman,arqueros,Zamalek,pre-lista,False,scraper
+Egypt,Mohamed Alaa,arqueros,El Gouna,pre-lista,False,scraper
+Egypt,Mohamed Hany,defensores,Al Ahly,pre-lista,False,scraper
+Egypt,Tarek Alaa,defensores,Zed,pre-lista,False,scraper
+Egypt,Hamdy Fathy,defensores,Al Wakrah,pre-lista,False,scraper
+Egypt,Rami Rabia,defensores,Al Ain,pre-lista,False,scraper
+Egypt,Yasser Ibrahim,defensores,Al Ahly,pre-lista,False,scraper
+Egypt,Hossam Abdelmaguid,defensores,Zamalek,pre-lista,False,scraper
+Egypt,Mohamed Abdelmonemn,defensores,Nice,pre-lista,True,scraper
+Egypt,Ahmed Fatouh,defensores,Zamalek,pre-lista,False,scraper
+Egypt,Karim Hafez,defensores,Pyramids,pre-lista,False,scraper
+Egypt,Marwan Ateya,centrocampistas,Al Ahly,pre-lista,False,scraper
+Egypt,Mohanad Lasheen,centrocampistas,Pyramids,pre-lista,False,scraper
+Egypt,Nabil Emad,centrocampistas,Al Najma,pre-lista,False,scraper
+Egypt,Mahmoud Saber,centrocampistas,Zed,pre-lista,False,scraper
+Egypt,Ahmed Zizo,centrocampistas,Al Ahly,pre-lista,False,scraper
+Egypt,Emam Ashour,centrocampistas,Al Ahly,pre-lista,False,scraper
+Egypt,Mostafa Ziko,centrocampistas,Pyramids,pre-lista,False,scraper
+Egypt,Mahmoud Trezeguet,centrocampistas,Al Ahly,pre-lista,False,scraper
+Egypt,Ibrahim Adel,centrocampistas,Nordsjaelland,pre-lista,False,scraper
+Egypt,Haissem Hassan,centrocampistas,Real Ovideo,pre-lista,False,scraper
+Egypt,Omar Marmoush,delanteros,Manchester City,pre-lista,True,scraper
+Egypt,Mohamed Salah,delanteros,Liverpool,pre-lista,True,scraper
+Egypt,Aqtay Abdallah,delanteros,Enppi,pre-lista,False,scraper
+Egypt,Hamza Abdelkarim,delanteros,Barcelona,pre-lista,True,scraper
+Iran,Alireza Beiranvand,arqueros,Tractor,pre-lista,False,scraper
+Iran,Hossein Hosseini,arqueros,Sepahan,pre-lista,False,scraper
+Iran,Payam Niazmand,arqueros,Persepolis,pre-lista,False,scraper
+Iran,Mohammed Khalifeh,arqueros,Aluminium Arak,pre-lista,False,scraper
+Iran,Danial Eiri,defensores,Malavan,pre-lista,False,scraper
+Iran,Ehsan Hajsafi,defensores,Sepahan,pre-lista,False,scraper
+Iran,Saleh Hardani,defensores,Esteghlal,pre-lista,False,scraper
+Iran,Hossein Kanaani,defensores,Persepolis,pre-lista,False,scraper
+Iran,Shoka Khalilzadeh,defensores,Tractor,pre-lista,False,scraper
+Iran,Milad Mohammadi,defensores,Persepolis,pre-lista,False,scraper
+Iran,Ali Nemati Omid Noorafkan,defensores,Foolad,pre-lista,False,scraper
+Iran,Ramin Rezaeian,defensores,Foolad,pre-lista,False,scraper
+Iran,Rouzbeh Cheshmi,centrocampistas,Esteghlal,pre-lista,False,scraper
+Iran,Saeid Ezatolahi,centrocampistas,Shabab Al-Ahli,pre-lista,False,scraper
+Iran,Mehdi Ghaedi,centrocampistas,Al-Nasr,pre-lista,False,scraper
+Iran,Saman Ghoddos,centrocampistas,Kalba,pre-lista,False,scraper
+Iran,Mohammad Ghorbani,centrocampistas,Al-Wahda,pre-lista,False,scraper
+Iran,Alireza Jahanbakhsh,centrocampistas,Dender,pre-lista,False,scraper
+Iran,Mohammad Mohebi,centrocampistas,Rostovv,pre-lista,False,scraper
+Iran,Amir Mohammad Razzaghinia,centrocampistas,Esteghlal,pre-lista,False,scraper
+Iran,Mehdi Torabi,centrocampistas,Tractor,pre-lista,False,scraper
+Iran,Aria Yousefi,centrocampistas,Sepahan,pre-lista,False,scraper
+Iran,Ali Alipour,delanteros,Persepolis,pre-lista,False,scraper
+Iran,Dennis Dargahi,delanteros,Standard Liege,pre-lista,False,scraper
+Iran,Hadi Habibinejad,delanteros,Chadormalou,pre-lista,False,scraper
+Iran,Amirhossein Hosseinzadeh,delanteros,Tractor,pre-lista,False,scraper
+Iran,Amirhossein Mahmoudi,delanteros,Persepolis,pre-lista,False,scraper
+Iran,Kasra Taheri,delanteros,Paykan,pre-lista,False,scraper
+Iran,Mehdi Taremi,delanteros,Olympiacos,pre-lista,False,scraper
+New Zealand,Max Crocombe,arqueros,Millwall,final,False,scraper
+New Zealand,Alex Paulsen,arqueros,Lechia Gdańsk,final,False,scraper
+New Zealand,Michael Woud,arqueros,Auckland FC,final,False,scraper
+New Zealand,Tim Payne,defensores,Wellington Phoenix,final,False,scraper
+New Zealand,Francis De Vries,defensores,Auckland FC,final,False,scraper
+New Zealand,Tyler Bindon,defensores,Nottingham Forest,final,True,scraper
+New Zealand,Michael Boxall,defensores,Minnesota United,final,False,scraper
+New Zealand,Liberato Cacace,defensores,Wrexham,final,False,scraper
+New Zealand,Nando Pijnaker,defensores,Auckland FC,final,False,scraper
+New Zealand,Finn Surman,defensores,Portland Timbers,final,False,scraper
+New Zealand,Callan Elliot,defensores,Auckland FC,final,False,scraper
+New Zealand,Tommy Smith,defensores,Braintree Town,final,False,scraper
+New Zealand,Joe Bell,centrocampistas,Viking FK,final,False,scraper
+New Zealand,Matt Garbett,centrocampistas,Peterborough United,final,False,scraper
+New Zealand,Marko Stamenic,centrocampistas,Swansea City,final,False,scraper
+New Zealand,Sarpreet Singh,centrocampistas,Wellington Phoenix,final,False,scraper
+New Zealand,Alex Rufer,centrocampistas,Wellington Phoenix,final,False,scraper
+New Zealand,Ryan Thomas,centrocampistas,PEC Zwolle,final,False,scraper
+New Zealand,Chris Wood,delanteros,Nottingham Forest,final,True,scraper
+New Zealand,Eli Just,delanteros,Motherwell,final,False,scraper
+New Zealand,Kosta Barbarouses,delanteros,Western Sydney Wanderers,final,False,scraper
+New Zealand,Ben Waine,delanteros,Port Vale,final,False,scraper
+New Zealand,Ben Old,delanteros,Saint-Etienne,final,False,scraper
+New Zealand,Callum McCowatt,delanteros,Silkeborg IF,final,False,scraper
+New Zealand,Jesse Randall,delanteros,Auckland FC,final,False,scraper
+New Zealand,Lachlan Bayliss,delanteros,Newcastle Jets,final,False,scraper
+Cape Verde,Vozinha,arqueros,Chaves,pre-lista,False,scraper
+Cape Verde,Marcio Rosa,arqueros,Montana,pre-lista,False,scraper
+Cape Verde,CJ dos Santos,arqueros,San Diego FC,pre-lista,False,scraper
+Cape Verde,Steven Moreira,defensores,Columbus Crew,pre-lista,False,scraper
+Cape Verde,Wagner Pina,defensores,Trabzonspor,pre-lista,False,scraper
+Cape Verde,Joao Paulo,defensores,FCSB,pre-lista,False,scraper
+Cape Verde,Sidny Lopes Cabral,defensores,Benfica,pre-lista,True,scraper
+Cape Verde,Logan Costa,defensores,Villarreal,pre-lista,True,scraper
+Cape Verde,Pico,defensores,Shamrock Rovers,pre-lista,False,scraper
+Cape Verde,Kelvin Pires,defensores,SJK,pre-lista,False,scraper
+Cape Verde,Stopira,defensores,Torreense,pre-lista,False,scraper
+Cape Verde,Diney,defensores,Al Bataeh,pre-lista,False,scraper
+Cape Verde,Jamiro Monteiro,centrocampistas,PEC Zwolle,pre-lista,False,scraper
+Cape Verde,Telmo Arcanjo,centrocampistas,Vitoria Guimaraes,pre-lista,False,scraper
+Cape Verde,Yannick Semedo,centrocampistas,Farense,pre-lista,False,scraper
+Cape Verde,Laros Duarte,centrocampistas,Puskas Akademia,pre-lista,False,scraper
+Cape Verde,Deroy Duarte,centrocampistas,Ludogorets Razgrad,pre-lista,False,scraper
+Cape Verde,Kevin Pina,centrocampistas,Krasnodar,pre-lista,False,scraper
+Cape Verde,Ryan Mendes,delanteros,Igdir,pre-lista,False,scraper
+Cape Verde,Willy Semedo,delanteros,Omonia,pre-lista,False,scraper
+Cape Verde,Garry Rodrigues,delanteros,Apollon Limassol,pre-lista,False,scraper
+Cape Verde,Jovane Cabral,delanteros,Estrela Amadora,pre-lista,False,scraper
+Cape Verde,Nuno da Costa,delanteros,Istanbul Basaksehir,pre-lista,False,scraper
+Cape Verde,Dailon Livramento,delanteros,Casa Pia,pre-lista,False,scraper
+Cape Verde,Gilson Benchimol,delanteros,Akron Tolyatti,pre-lista,False,scraper
+Cape Verde,Helio Varela,delanteros,Maccabi Tel Aviv,pre-lista,False,scraper
+France,Mike Maignan,arqueros,AC Milan,final,True,scraper
+France,Robin Risser,arqueros,Lens,final,False,scraper
+France,Brice Samba,arqueros,Rennes,final,True,scraper
+France,Lucas Digne,defensores,Aston Villa,final,True,scraper
+France,Malo Gusto,defensores,Chelsea,final,True,scraper
+France,Lucas Hernández,defensores,Paris Saint-Germain,final,True,scraper
+France,Theo Hernández,defensores,Al Hilal,final,False,scraper
+France,Ibrahima Konate,defensores,Liverpool,final,True,scraper
+France,Jules Koundé;,defensores,Barcelona,final,True,scraper
+France,Maxence Lacroix,defensores,Crystal Palace,final,True,scraper
+France,William Saliba,defensores,Arsenal,final,True,scraper
+France,Dayot Upamecano,defensores,Bayern Munich,final,True,scraper
+France,N'Golo Kanté;,centrocampistas,Fenerbahçe,final,False,scraper
+France,Manu Kone,centrocampistas,AS Roma,final,True,scraper
+France,Adrien Rabiot,centrocampistas,AC Milan,final,True,scraper
+France,Aurelien Tchouameni,centrocampistas,Real Madrid,final,True,scraper
+France,Warren Zaire-Emery,centrocampistas,Paris Saint-Germain,final,True,scraper
+France,Maghnes Akliouche,delanteros,AS Monaco,final,True,scraper
+France,Bradley Barcola,delanteros,Paris Saint-Germain,final,True,scraper
+France,Rayan Cherki,delanteros,Manchester City,final,True,scraper
+France,,delanteros,Paris Saint-Germain,final,True,scraper
+France,Desiré; Doué,delanteros,Paris Saint-Germain,final,True,scraper
+France,Jean-Philippe Mateta,delanteros,Crystal Palace,final,True,scraper
+France,Kylian Mbappé,delanteros,Real Madrid,final,True,scraper
+France,Michael Olise,delanteros,Bayern Munich,final,True,scraper
+France,Marcus Thuram,delanteros,Internazionale,final,True,scraper
+Senegal,Edouard Mendy,arqueros,Al Ahli,final,False,scraper
+Senegal,Mory Diaw,arqueros,Le Havre,final,True,scraper
+Senegal,Yehvann Diouf,arqueros,Niza,final,False,scraper
+Senegal,Krépin Diatta,defensores,Mónaco,final,False,scraper
+Senegal,Antoine Mendy,defensores,Niza,final,False,scraper
+Senegal,Kalidou Koulibaly,defensores,Al Ahli,final,False,scraper
+Senegal,El Hadji Malick Diouf,defensores,West Ham,final,True,scraper
+Senegal,Mamadou Sarr,defensores,Estrasburgo,final,False,scraper
+Senegal,Moussa Niakhaté,defensores,O Lyon,final,False,scraper
+Senegal,Moustapha Mbow,defensores,Paris,final,True,scraper
+Senegal,Abdoulaye Seck,defensores,Maccabi Haifa,final,False,scraper
+Senegal,Ismaïl Jakobs,defensores,Galatasaray,final,True,scraper
+Senegal,Ilay Camara,defensores,Anderlecht,final,False,scraper
+Senegal,Idrissa Gana Gueye,centrocampistas,Everton,final,True,scraper
+Senegal,Pape Gueye,centrocampistas,Villarreal,final,True,scraper
+Senegal,Lamine Camara,centrocampistas,Mónaco,final,False,scraper
+Senegal,Habib Diarra,centrocampistas,Sunderland,final,True,scraper
+Senegal,Pathé Ciss,centrocampistas,Rayo Vallecano,final,True,scraper
+Senegal,Pape Matar Sarr,centrocampistas,Tottenham,final,True,scraper
+Senegal,Bara Sapoko Ndiaye,centrocampistas,Bayern,final,True,scraper
+Senegal,Sadio Mané,delanteros,Al Nassr,final,False,scraper
+Senegal,Ismaïla Sarr,delanteros,Crystal Palace,final,True,scraper
+Senegal,Iliman Ndiaye,delanteros,Everton,final,True,scraper
+Senegal,Assane Diao,delanteros,Como,final,True,scraper
+Senegal,Ibrahim Mbaye,delanteros,PSG,final,False,scraper
+Senegal,Nicolas Jackson,delanteros,Bayern,final,True,scraper
+Senegal,Bamba Dieng,delanteros,Lorient,final,True,scraper
+Senegal,Cherif Ndiaye,delanteros,Samsunspor,final,False,scraper
+Argentina,Emiliano Martínez,arqueros,Aston Villa,pre-lista,True,scraper
+Argentina,Gerónimo Rulli,arqueros,Olympique de Marseille,pre-lista,True,scraper
+Argentina,Juan Musso,arqueros,Atletico Madrid,pre-lista,True,scraper
+Argentina,Walter Benítez,arqueros,Crystal Palace,pre-lista,True,scraper
+Argentina,Facundo Cambeses,arqueros,Racing Club,pre-lista,True,scraper
+Argentina,Santiago Beltran,arqueros,River Plate,pre-lista,False,scraper
+Argentina,Agustín Giay,defensores,Palmeiras,pre-lista,False,scraper
+Argentina,Gonzalo Montiel,defensores,River Plate,pre-lista,False,scraper
+Argentina,Nahuel Molina,defensores,Atletico Madrid,pre-lista,True,scraper
+Argentina,Nicolás Capaldo,defensores,Hamburger,pre-lista,True,scraper
+Argentina,Kevin Mac Allister,defensores,Union Saint Gilloise,pre-lista,False,scraper
+Argentina,Lucas Martínez Quarta,defensores,River Plate,pre-lista,False,scraper
+Argentina,Marcos Senesi,defensores,Bournemouth,pre-lista,True,scraper
+Argentina,Lisandro Martínez,defensores,Manchester United,pre-lista,True,scraper
+Argentina,Nicolás Otamendi,defensores,Benfica,pre-lista,True,scraper
+Argentina,Germán Pezzella,defensores,River Plate,pre-lista,False,scraper
+Argentina,Leonardo Balerdi,defensores,Marseille,pre-lista,True,scraper
+Argentina,Cristian Romero,defensores,Tottenham,pre-lista,True,scraper
+Argentina,Lautaro Di Lollo,defensores,Boca Juniors,pre-lista,False,scraper
+Argentina,Zaid Romero,defensores,Getafe,pre-lista,True,scraper
+Argentina,Facundo Medina,defensores,Marseille,pre-lista,True,scraper
+Argentina,Marcos Acuña,defensores,River Plate,pre-lista,False,scraper
+Argentina,Nicolás Tagliafico,defensores,Lyon,pre-lista,True,scraper
+Argentina,Gabriel Rojas,defensores,Racing Club,pre-lista,True,scraper
+Argentina,Máximo Perrone,centrocampistas,Como,pre-lista,True,scraper
+Argentina,Leandro Paredes,centrocampistas,Boca Juniors,pre-lista,False,scraper
+Argentina,Guido Rodríguez,centrocampistas,Valencia,pre-lista,True,scraper
+Argentina,Anibal Moreno,centrocampistas,River Plate,pre-lista,False,scraper
+Argentina,Milton Delgado,centrocampistas,Boca Juniors,pre-lista,False,scraper
+Argentina,Alan Varela,centrocampistas,Porto,pre-lista,False,scraper
+Argentina,Ezequiel Fernández,centrocampistas,Bayer Leverkusen,pre-lista,True,scraper
+Argentina,Rodrigo De Paul,centrocampistas,Inter Miami,pre-lista,False,scraper
+Argentina,Exequiel Palacios,centrocampistas,Bayer Leverkusen,pre-lista,True,scraper
+Argentina,Enzo Fernández,centrocampistas,Chelsea,pre-lista,True,scraper
+Argentina,Alexis Mac Allister,centrocampistas,Liverpool,pre-lista,True,scraper
+Argentina,Giovani Lo Celso,centrocampistas,Real Betis,pre-lista,True,scraper
+Argentina,Nicolas Domínguez,centrocampistas,Nottingham Forest,pre-lista,True,scraper
+Argentina,Emiliano Buendía,centrocampistas,Aston Villa,pre-lista,True,scraper
+Argentina,Valentín Barco,centrocampistas,Strasbourg,pre-lista,True,scraper
+Argentina,Lionel Messi,delanteros,Inter Miami,pre-lista,False,scraper
+Argentina,Nicolas Paz,delanteros,Como,pre-lista,True,scraper
+Argentina,Franco Mastantuono,delanteros,Real Madrid,pre-lista,True,scraper
+Argentina,Thiago Almada,delanteros,Atletico Madrid,pre-lista,True,scraper
+Argentina,Tomas Aranda,delanteros,Boca Juniors,pre-lista,False,scraper
+Argentina,Nicolás González,delanteros,Atletico Madrid,pre-lista,True,scraper
+Argentina,Alejandro Garnacho,delanteros,Chelsea,pre-lista,True,scraper
+Argentina,Giuliano Simeone,delanteros,Atletico Madrid,pre-lista,True,scraper
+Argentina,Matías Soule,delanteros,Roma,pre-lista,True,scraper
+Argentina,Claudio Echeverri,delanteros,Girona,pre-lista,True,scraper
+Argentina,Gianluca Prestianni,delanteros,Benfica,pre-lista,True,scraper
+Argentina,Santiago Castro,delanteros,Bologna,pre-lista,True,scraper
+Argentina,Lautaro Martínez,delanteros,Inter Milan,pre-lista,False,scraper
+Argentina,Jose Manuel Lopez,delanteros,Palmeiras,pre-lista,False,scraper
+Argentina,Julián Álvarez,delanteros,Atletico Madrid,pre-lista,True,scraper
+Argentina,Mateo Pellegrino,delanteros,Parma,pre-lista,True,scraper
+Austria,Alexander Schlager,arqueros,RB Salzburg,pre-lista,False,scraper
+Austria,Florian Wiegele,arqueros,Viktoria Plzen,pre-lista,False,scraper
+Austria,Patrick Pentz,arqueros,Brondby,pre-lista,False,scraper
+Austria,David Affengruber,defensores,Elche,pre-lista,True,scraper
+Austria,Kevin Danso,defensores,Tottehham,pre-lista,False,scraper
+Austria,Stefan Posch,defensores,Mainz 05,pre-lista,True,scraper
+Austria,David Alaba,defensores,Real Madrid,pre-lista,True,scraper
+Austria,Philipp Lienhart,defensores,SC Freiburg,pre-lista,True,scraper
+Austria,Philipp Mwene,defensores,Mainz 05,pre-lista,True,scraper
+Austria,Alexander Prass,defensores,TSG Hoffenheim,pre-lista,False,scraper
+Austria,Marco Friedl,defensores,Werder Bremen,pre-lista,True,scraper
+Austria,Michael Svoboda,defensores,Venezia,pre-lista,False,scraper
+Austria,Xaver Schlager,centrocampistas,RB Leipzig,pre-lista,True,scraper
+Austria,Nicolas Seiwald,centrocampistas,RB Leipzig,pre-lista,True,scraper
+Austria,Marcel Sabitzer,centrocampistas,Borussia Dortmund,pre-lista,True,scraper
+Austria,Florian Grillitsch,centrocampistas,Braga,pre-lista,False,scraper
+Austria,Carney Chukwuemeka,centrocampistas,Borussia Dortmund,pre-lista,True,scraper
+Austria,Romano Schmid,centrocampistas,Werder Bremen,pre-lista,True,scraper
+Austria,Christoph Baumgartner,centrocampistas,RB Leipzig,pre-lista,True,scraper
+Austria,Konrad Laimer,centrocampistas,Bayern Munich,pre-lista,True,scraper
+Austria,Patrick Wimmer,centrocampistas,Wolfsburg,pre-lista,True,scraper
+Austria,Paul Wanner,centrocampistas,PSV Eindhoven,pre-lista,True,scraper
+Austria,Alessandro Schopf,centrocampistas,Wolfsberger AC,pre-lista,False,scraper
+Austria,Marko Arnautovic,delanteros,Red Star Belgrade,pre-lista,False,scraper
+Austria,Michael Gregoritsch,delanteros,FC Augsburg,pre-lista,True,scraper
+Austria,Sasa Kalajdzic,delanteros,LASK Linz,pre-lista,False,scraper
+Jordan,Yazid Abulaila,arqueros,Al-Hussein,pre-lista,False,scraper
+Jordan,Abdallah Al-Fakhouri,arqueros,Al-Wehdat,pre-lista,False,scraper
+Jordan,Ahmad Al-Juiadi,arqueros,Shabab Al-Ordon,pre-lista,False,scraper
+Jordan,Nour Bani Attiah,arqueros,Al-Faisaly,pre-lista,False,scraper
+Jordan,Mohammad Abualnadi,defensores,Selangor,pre-lista,False,scraper
+Jordan,Yousef Abu Al-Jazar,defensores,Al-Hussein,pre-lista,False,scraper
+Jordan,Husam Abu Dahab,defensores,Al-Faisaly,pre-lista,False,scraper
+Jordan,Mohammed Abu Hashish,defensores,Al-Karma,pre-lista,False,scraper
+Jordan,Mohannad Abu Taha,defensores,Al-Quwa Al-Jawiya,pre-lista,False,scraper
+Jordan,Yazan Al-Arab,defensores,FC Seoul,pre-lista,False,scraper
+Jordan,Saed Al-Rosna,defensores,Al-Hussein,pre-lista,False,scraper
+Jordan,Ahmad Assaf,defensores,Al-Hussein,pre-lista,False,scraper
+Jordan,Anas Badawi,defensores,Al-Faisaly,pre-lista,False,scraper
+Jordan,Abdallah Nasib,defensores,Al-Zawraa,pre-lista,False,scraper
+Jordan,Ehsan Haddad,defensores,Al-Hussein,pre-lista,False,scraper
+Jordan,Saleem Obaid,defensores,Al-Hussein,pre-lista,False,scraper
+Jordan,Mohammad Abu Taha,defensores,Al-Quwa Al-Jawiya,pre-lista,False,scraper
+Jordan,Mohammed Al-Dawoud,centrocampistas,Al-Wehdat,pre-lista,False,scraper
+Jordan,Nizar Al-Rashdan,centrocampistas,Qatar SC,pre-lista,False,scraper
+Jordan,Noor Al-Rawabdeh,centrocampistas,Selangor,pre-lista,False,scraper
+Jordan,Rajaei Ayed,centrocampistas,Al-Hussein,pre-lista,False,scraper
+Jordan,Amer Jamous,centrocampistas,Al-Zawraa,pre-lista,False,scraper
+Jordan,Yousef Qashi,centrocampistas,Al-Hussein,pre-lista,False,scraper
+Jordan,Ibrahim Sadeh,centrocampistas,Al-Karma,pre-lista,False,scraper
+Jordan,Mohammed Abu Zraiq,delanteros,Raja Casablanca,pre-lista,False,scraper
+Jordan,Mousa Al-Tamari,delanteros,Rennes,pre-lista,True,scraper
+Jordan,Ali Azaizeh,delanteros,Al-Shabab,pre-lista,False,scraper
+Jordan,Odeh Al-Fakhouri,delanteros,Pyramids,pre-lista,False,scraper
+Jordan,Ali Olwan,delanteros,Al-Sailiaya,pre-lista,False,scraper
+Jordan,Ibrahim Sabra,delanteros,Lokomotiva Zagreb,pre-lista,False,scraper
+Portugal,Diogo Costa,arqueros,Porto,final,False,scraper
+Portugal,José Sá,arqueros,Wolverhampton Wanderers,final,True,scraper
+Portugal,Rui Silva,arqueros,Sporting Lisbon,final,False,scraper
+Portugal,Ricardo Velho,arqueros,Gençlerbirliği,final,False,scraper
+Portugal,Rúben Dias,defensores,Manchester City,final,True,scraper
+Portugal,João Cancelo,defensores,Barcelona,final,True,scraper
+Portugal,Diogo Dalot,defensores,Manchester United,final,True,scraper
+Portugal,Nuno Mendes,defensores,Paris Saint-Germain,final,True,scraper
+Portugal,Nélson Semedo,defensores,Fenerbahce,final,False,scraper
+Portugal,Matheus Nunes,defensores,Manchester City,final,True,scraper
+Portugal,Gonçalo Inacio,defensores,Sporting Lisbon,final,False,scraper
+Portugal,Renato Veiga,defensores,Villarreal,final,True,scraper
+Portugal,Tomás Araújo,defensores,Benfica,final,True,scraper
+Portugal,Bruno Fernandes,centrocampistas,Manchester United,final,True,scraper
+Portugal,Bernardo Silva,centrocampistas,Manchester City,final,True,scraper
+Portugal,Vitinha,centrocampistas,PSG,final,False,scraper
+Portugal,João Neves,centrocampistas,PSG,final,False,scraper
+Portugal,Rúben Neves,centrocampistas,Al Hilal,final,False,scraper
+Portugal,Samú Costa,centrocampistas,Mallorca,final,True,scraper
+Portugal,Cristiano Ronaldo,delanteros,Al Nassr,final,False,scraper
+Portugal,Rafael Leão,delanteros,AC Milan,final,True,scraper
+Portugal,João Félix,delanteros,Al Nassr,final,False,scraper
+Portugal,Gonçalo Ramos,delanteros,PSG,final,False,scraper
+Portugal,Pedro Neto,delanteros,Chelsea,final,True,scraper
+Portugal,Francisco Conceição,delanteros,Juventus,final,True,scraper
+Portugal,Gonçalo Guedes,delanteros,Real Sociedad,final,True,scraper
+Portugal,Francisco Trincão,delanteros,Sporting Lisbon,final,False,scraper
+DR Congo,Lionel Mpasi,arqueros,Le Havre,final,True,scraper
+DR Congo,Timothy Fayulu,arqueros,FC Noah,final,False,scraper
+DR Congo,Matthieu Epolo,arqueros,Standard Liege,final,False,scraper
+DR Congo,Chancel Mbemba,defensores,Lille,final,False,scraper
+DR Congo,Axel Tuanzebe,defensores,Burnley,final,True,scraper
+DR Congo,Arthur Masuaku,defensores,Lens,final,False,scraper
+DR Congo,Gedeon Kalulu,defensores,Aris Limassol,final,False,scraper
+DR Congo,Joris Kayembe,defensores,Genk,final,False,scraper
+DR Congo,Aaron Wan-Bissaka,defensores,West Ham United,final,True,scraper
+DR Congo,Aaron Tshibola,defensores,Kilmarnock,final,False,scraper
+DR Congo,Steve Kapuadi,defensores,Widzew Łódź,final,False,scraper
+DR Congo,Dylan Batubinsika,defensores,AEL,final,False,scraper
+DR Congo,Noah Sadiki,centrocampistas,Sunderland,final,True,scraper
+DR Congo,Charles Pickel,centrocampistas,Espanyol,final,True,scraper
+DR Congo,Edo Kayembe,centrocampistas,Watford,final,False,scraper
+DR Congo,Samuel Moutoussamy,centrocampistas,Atromitos,final,False,scraper
+DR Congo,Ngal'ayel Mukau,centrocampistas,Lille,final,False,scraper
+DR Congo,Nathanaël Mbuku,centrocampistas,Montpellier,final,False,scraper
+DR Congo,Meschak Elia,centrocampistas,Alanyaspor,final,False,scraper
+DR Congo,Brian Cipenga,centrocampistas,Castellón,final,False,scraper
+DR Congo,Gaël Kakuta,centrocampistas,AEL,final,False,scraper
+DR Congo,Théo Bongonda,centrocampistas,Spartak Moscow,final,False,scraper
+DR Congo,Simon Banza,delanteros,Al Jazira,final,False,scraper
+DR Congo,Yoane Wissa,delanteros,Newcastle United,final,True,scraper
+DR Congo,Fiston Mayele,delanteros,Pyramids FC,final,False,scraper
+DR Congo,Cédric Bakambu,delanteros,Real Betis,final,True,scraper
+Uzbekistan,Vladimir Nazarov,arqueros,Pakhtakor,pre-lista,False,scraper
+Uzbekistan,Utkir Yusupov,arqueros,Navbahor,pre-lista,False,scraper
+Uzbekistan,Botirali Ergashev,arqueros,AGMK,pre-lista,False,scraper
+Uzbekistan,Abduvokhid Nematov,arqueros,Nasaf,pre-lista,False,scraper
+Uzbekistan,Ibrohimkhalil Yuldoshev,defensores,Neftchi,pre-lista,False,scraper
+Uzbekistan,Avazbek Ulmasaliev,defensores,AGMK,pre-lista,False,scraper
+Uzbekistan,Jakhongir Urozov,defensores,Dinamo Samarqand,pre-lista,False,scraper
+Uzbekistan,Rustamjon Ashurmatov,defensores,Esteghlal,pre-lista,False,scraper
+Uzbekistan,Mukhammadkodir Hamraliev,defensores,Pakhtakor,pre-lista,False,scraper
+Uzbekistan,Umarbek Eshmurodov,defensores,Nasaf,pre-lista,False,scraper
+Uzbekistan,Abdukodir Khusanov,defensores,Manchester City,pre-lista,True,scraper
+Uzbekistan,Abdulla Abdullaev,defensores,Dibba Al Fujairah,pre-lista,False,scraper
+Uzbekistan,Farrukh Sayfiev,defensores,Neftchi,pre-lista,False,scraper
+Uzbekistan,Khojiakbar Alijonov,defensores,Pakhtakor,pre-lista,False,scraper
+Uzbekistan,Sherzod Nasrullaev,defensores,Nasaf,pre-lista,False,scraper
+Uzbekistan,Muhammadrasul Abdumajidov,defensores,Pakhtakor,pre-lista,False,scraper
+Uzbekistan,Behruz Karimov,defensores,Surkhon,pre-lista,False,scraper
+Uzbekistan,Diyor Ortikboev,defensores,Khorazm,pre-lista,False,scraper
+Uzbekistan,Kuvondik Ruziev,centrocampistas,Neftchi,pre-lista,False,scraper
+Uzbekistan,Sherzod Esanov,centrocampistas,Buxoro,pre-lista,False,scraper
+Uzbekistan,Nodirbek Abdurazzokov,centrocampistas,AGMK,pre-lista,False,scraper
+Uzbekistan,Odiljon Khamrobekov,centrocampistas,Tractor,pre-lista,False,scraper
+Uzbekistan,Umarali Rakhmonaliev,centrocampistas,Sabah,pre-lista,False,scraper
+Uzbekistan,Alisher Odilov,centrocampistas,Neftchi,pre-lista,False,scraper
+Uzbekistan,Sardorbek Rakhmonov,centrocampistas,Nasaf,pre-lista,False,scraper
+Uzbekistan,Akmal Mozgovoy,centrocampistas,Pakhtakor,pre-lista,False,scraper
+Uzbekistan,Otabek Shukurov,centrocampistas,Baniyas,pre-lista,False,scraper
+Uzbekistan,Jamshid Iskanderov,centrocampistas,Neftchi,pre-lista,False,scraper
+Uzbekistan,Jasurbek Jaloliddinov,centrocampistas,Sogdiana,pre-lista,False,scraper
+Uzbekistan,Azizjon Ganiev,centrocampistas,Al Bataeh,pre-lista,False,scraper
+Uzbekistan,Abbosek Fayzullaev,delanteros,Istanbul Basaksehir,pre-lista,False,scraper
+Uzbekistan,Jaloliddin Masharipov,delanteros,Esteghlal,pre-lista,False,scraper
+Uzbekistan,Dostonbek Khamdamov,delanteros,Pakhtakor,pre-lista,False,scraper
+Uzbekistan,Oston Urunov,delanteros,Persepolis,pre-lista,False,scraper
+Uzbekistan,Ruslanbek Jiyanov,delanteros,Navbahor,pre-lista,False,scraper
+Uzbekistan,Azizbek Amonov,delanteros,Buxoro,pre-lista,False,scraper
+Uzbekistan,Khusain Norchaev,delanteros,Navbahor,pre-lista,False,scraper
+Uzbekistan,Sherzod Temirov,delanteros,Erbil,pre-lista,False,scraper
+Uzbekistan,Igor Sergeev,delanteros,Persepolis,pre-lista,False,scraper
+Uzbekistan,Eldor Shomurodov,delanteros,Istanbul Basaksehir,pre-lista,False,scraper
+Colombia,David Ospina,arqueros,Atlético Nacional,pre-lista,False,scraper
+Colombia,Álvaro Montero,arqueros,Vélez Sarsfield,pre-lista,False,scraper
+Colombia,Camilo Vargas,arqueros,Atlas,pre-lista,False,scraper
+Colombia,Mosquera Marmolejo,arqueros,Independiente Santa Fe,pre-lista,False,scraper
+Colombia,Aldair Quintana,arqueros,Independiente del Valle,pre-lista,False,scraper
+Colombia,Kevin Mier,arqueros,Cruz Azul,pre-lista,False,scraper
+Colombia,Daniel Muñoz,defensores,Crystal Palace,pre-lista,True,scraper
+Colombia,Jhon Lucumi,defensores,Bologna,pre-lista,True,scraper
+Colombia,Álvaro Angulo,defensores,Pumas,pre-lista,False,scraper
+Colombia,Santiago Arias,defensores,Independiente,pre-lista,False,scraper
+Colombia,Davinson Sánchez,defensores,Galatasaray,pre-lista,True,scraper
+Colombia,Johan Mojica,defensores,Mallorca,pre-lista,True,scraper
+Colombia,Yerry Mina,defensores,Cagliari,pre-lista,True,scraper
+Colombia,Cristian Borja,defensores,Club América,pre-lista,False,scraper
+Colombia,Juan Cabal,defensores,Juventus,pre-lista,True,scraper
+Colombia,Carlos Cuesta,defensores,Vasco da Gama,pre-lista,False,scraper
+Colombia,Willer Ditta,defensores,Cruz Azul,pre-lista,False,scraper
+Colombia,Junior Hernández,defensores,Deportes Tolima,pre-lista,False,scraper
+Colombia,Deiver Machado,defensores,Nantes<,pre-lista,False,scraper
+Colombia,Yerson Mosquera,defensores,Wolverhampton Wanderers,pre-lista,True,scraper
+Colombia,Edier Ocampo,defensores,Vancouver Whitecaps,pre-lista,False,scraper
+Colombia,Jhohan Romana,defensores,San Lorenzo,pre-lista,False,scraper
+Colombia,Andrés Román,defensores,Atlético Nacional,pre-lista,False,scraper
+Colombia,Jorge Carrascal,centrocampistas,Flamengo,pre-lista,False,scraper
+Colombia,Sebastian Gomez,centrocampistas,Coritiba,pre-lista,False,scraper
+Colombia,,centrocampistas,Atético Nacional,pre-lista,False,scraper
+Colombia,Johan Rojas,centrocampistas,Vasco da Gama,pre-lista,False,scraper
+Colombia,Juan Fernando Quintero,centrocampistas,River Plate,pre-lista,False,scraper
+Colombia,Juan Portilla,centrocampistas,Athletico Paranaense,pre-lista,False,scraper
+Colombia,Jordan Barrera,centrocampistas,Botafogo,pre-lista,False,scraper
+Colombia,Jhon Solís,centrocampistas,Birmingham City,pre-lista,False,scraper
+Colombia,Jefferson Lerma,centrocampistas,Crystal Palace,pre-lista,True,scraper
+Colombia,Richard Ríos,centrocampistas,Benfica,pre-lista,True,scraper
+Colombia,Jhon Arias,centrocampistas,Palmeiras,pre-lista,False,scraper
+Colombia,Wilmar Barrios,centrocampistas,Zenit St Petersburg,pre-lista,False,scraper
+Colombia,Juan Cuadrado,centrocampistas,Pisa,pre-lista,True,scraper
+Colombia,Yaser Asprilla,centrocampistas,Galatasaray,pre-lista,True,scraper
+Colombia,James Rodríguez,centrocampistas,Minnesota United,pre-lista,False,scraper
+Colombia,Luis Díaz,delanteros,Bayern Munich,pre-lista,True,scraper
+Colombia,Jhon Córdoba,delanteros,Krasnodar,pre-lista,False,scraper
+Colombia,Luis Suárez,delanteros,Sporting CP,pre-lista,False,scraper
+Colombia,Sebastián Villa,delanteros,Independiente Rivadavia,pre-lista,False,scraper
+Colombia,Neyser Villarreal,delanteros,Cruzeiro,pre-lista,False,scraper
+Colombia,Kevin Viveros,delanteros,Athletico Paranaense,pre-lista,False,scraper
+Colombia,Stiven Mendoza,delanteros,Athletico Paranaense,pre-lista,False,scraper
+Colombia,Edwuin Cetré,delanteros,Estudiantes de La Plata,pre-lista,False,scraper
+Colombia,Jhon Durán,delanteros,Zenit St Petersburg,pre-lista,False,scraper
+Colombia,Andrés Gómez,delanteros,Vasco da Gama,pre-lista,False,scraper
+Colombia,Rafael Santos Borré,delanteros,Internacional,pre-lista,False,scraper
+Colombia,Jaminton Campaz,delanteros,Rosario Central,pre-lista,False,scraper
+Colombia,Johan Carbonero,delanteros,Internacional,pre-lista,False,scraper
+Colombia,Cucho Hernández,delanteros,Real Betis,pre-lista,True,scraper
+England,Jordan Pickford,arqueros,Everton,final,True,scraper
+England,Dean Henderson,arqueros,Crystal Palace,final,True,scraper
+England,James Trafford,arqueros,Manchester City,final,True,scraper
+England,Reece James,defensores,Chelsea,final,True,scraper
+England,Tino Livramento,defensores,,final,False,scraper
+England,Dan Burn,defensores,Newcastle,final,True,scraper
+England,Marc Guehi,defensores,Manchester City,final,True,scraper
+England,John Stones,defensores,Manchester City,final,True,scraper
+England,Nico O'Reilly,defensores,Manchester City,final,True,scraper
+England,Ezri Konsa,defensores,Aston Villa,final,True,scraper
+England,Jarell Quansah,defensores,Bayer Leverkusen,final,True,scraper
+England,Djed Spence,defensores,Tottenham,final,True,scraper
+England,Declan Rice,centrocampistas,Arsenal,final,True,scraper
+England,Elliot Anderson,centrocampistas,Nottingham Forest,final,True,scraper
+England,Jude Bellingham,centrocampistas,Real Madrid,final,True,scraper
+England,Jordan Henderson,centrocampistas,Brentford,final,True,scraper
+England,Kobbie Mainoo,centrocampistas,Manchester United,final,True,scraper
+England,Morgan Rogers,centrocampistas,Aston Villa,final,True,scraper
+England,Eberechi Eze,centrocampistas,Arsenal,final,True,scraper
+England,Harry Kane,delanteros,Bayern Múnich,final,False,scraper
+England,Ivan Toney,delanteros,Al-Ahli,final,False,scraper
+England,Ollie Watkins,delanteros,Aston Villa,final,True,scraper
+England,Bukayo Saka,delanteros,Arsenal,final,True,scraper
+England,Noni Madueke,delanteros,Arsenal,final,True,scraper
+England,Marcus Rashford,delanteros,Barcelona,final,True,scraper
+England,Anthony Gordon,delanteros,Newcastle,final,True,scraper
+Croatia,Dominik Livakovic,arqueros,Dinamo Zagreb,pre-lista,False,scraper
+Croatia,Dominik Kotarski,arqueros,Kobenhavn,pre-lista,False,scraper
+Croatia,Ivor Pandur,arqueros,Hull City,pre-lista,False,scraper
+Croatia,Josko Gvardiol,defensores,Manchester City,pre-lista,True,scraper
+Croatia,Duje Caleta-Car,defensores,Real Sociedad,pre-lista,True,scraper
+Croatia,Josip Sutalo,defensores,Ajax,pre-lista,True,scraper
+Croatia,Josip Stanisic,defensores,Bayern Munich,pre-lista,True,scraper
+Croatia,Marin Pongracic,defensores,Fiorentina,pre-lista,True,scraper
+Croatia,Martin Erlic,defensores,Midtjylland,pre-lista,False,scraper
+Croatia,Luka Vuskovic,defensores,Hamburg,pre-lista,True,scraper
+Croatia,Luka Modric,centrocampistas,AC Milan,pre-lista,True,scraper
+Croatia,Mateo Kovacic,centrocampistas,Manchester City,pre-lista,True,scraper
+Croatia,Mario Pasalic,centrocampistas,Atalanta,pre-lista,True,scraper
+Croatia,Nikola Vlasic,centrocampistas,Torino,pre-lista,True,scraper
+Croatia,Luka Sucic,centrocampistas,Real Sociedad,pre-lista,True,scraper
+Croatia,Martin Baturina,centrocampistas,Como,pre-lista,True,scraper
+Croatia,Kristijan Jakic,centrocampistas,Augsburg,pre-lista,True,scraper
+Croatia,Petar Sucic,centrocampistas,Inter Milan,pre-lista,False,scraper
+Croatia,Nikola Moro,centrocampistas,Bologna,pre-lista,True,scraper
+Croatia,Toni Fruk,centrocampistas,Rijeka,pre-lista,False,scraper
+Croatia,Ivan Perisic,delanteros,PSV Eindhoven,pre-lista,True,scraper
+Croatia,Andrej Kramaric,delanteros,Hoffenheim,pre-lista,True,scraper
+Croatia,Ante Budimir,delanteros,Osasuna,pre-lista,True,scraper
+Croatia,Marco Pasalic,delanteros,Orlando City,pre-lista,False,scraper
+Croatia,Petar Musa,delanteros,FC Dallas,pre-lista,False,scraper
+Croatia,Igor Matanovic,delanteros,Freiburg,pre-lista,False,scraper

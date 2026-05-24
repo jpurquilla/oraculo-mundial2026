@@ -37,3 +37,13 @@ typing_extensions==4.15.0
 tzdata==2026.2
 urllib3==2.7.0
 webencodings==0.5.1
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Notebooks kernel
+ipykernel==6.29.4

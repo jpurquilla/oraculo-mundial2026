@@ -23,7 +23,7 @@ PAISES_WC2026 = [
     "PRY",
     "BOL",
     "FRA",
-    "GBR",
+    "ENG",
     "ESP",
     "DEU",
     "PRT",
@@ -65,6 +65,17 @@ PAISES_WC2026 = [
     "QAT",
     "ARE",
     "IDN",
+    "BIH",
+    "CPV",
+    "CUW",
+    "COD",
+    "HTI",
+    "IRQ",
+    "JOR",
+    "PAN",
+    "SCO",
+    "GBR",
+    "URY",
 ]
 
 INDICADORES = {

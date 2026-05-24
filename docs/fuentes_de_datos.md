@@ -1,3 +1,4 @@
+
 # Fuentes de Datos - Oráculo del Balón 2026
 
 Este documento registra todas las fuentes de datos utilizadas en el proyecto,
@@ -102,11 +103,50 @@ incluyendo URLs, método de obtención, fecha de acceso y descripción.
 - **Formato:** HTML → JSON
 - **Uso:** Valor de mercado total de plantilla por selección,
   valor individual por jugador, indicador de calidad de plantilla
+- **Nota:** IDs de selecciones extraídos automáticamente desde la página
+  oficial del Mundial 2026 en Transfermarkt para garantizar exactitud
+
+---
+
+## Fuente 8: Convocados Oficiales Mundial 2026 (ACTUALIZADO)
+- **Nombre:** Mundial 2026 - Listas de convocados de todas las selecciones
+- **URL Principal:** https://www.clarin.com/deportes/mundial-2026-listas-convocados-todas-las-selecciones_0_LOoLvGaypI.html
+- **URL Secundaria:** https://www.roadtowc.com/es/listas-mundial-2026-convocados-oficiales-de-las-48-selecciones-actualizado/
+- **Fecha límite FIFA:** 1 de junio de 2026
+- **Método:** Web scraping con requests + BeautifulSoup
+- **Formato:** HTML → JSON
+- **Estructura extraída:**
+  - Grupo de cada selección (A-L)
+  - Arqueros, Defensores, Centrocampistas, Delanteros
+  - Director Técnico
+  - Tipo de lista (final, pre-lista, pendiente)
+- **Uso:** Lista real de jugadores por selección para cruzar
+  con stats de Football-Data.org y Transfermarkt
+- **Nota:** Script con reintento inteligente — actualiza por selección
+  sin sobreescribir datos previos. Selecciones sin lista oficial
+  usan plantilla de Transfermarkt como respaldo.
+  Limpieza y validación de datos en notebooks/01_eda.ipynb
+
+## Fuente 9: Estructura Oficial del Torneo WC2026
+- **Nombre:** Grupos y Fixtures oficiales Mundial 2026
+- **URL:** https://www.bracketmundial2026.com/grupos
+- **URL FIFA oficial:** https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/groups
+- **Fecha sorteo:** 5 de diciembre de 2025
+- **Método:** Extracción manual + web scraping verificación
+- **Formato:** Python module (tournament_structure.py)
+- **Contenido:**
+  - 12 grupos (A-L) con 48 equipos
+  - Fixtures completos de fase de grupos (72 partidos)
+  - Reglas de clasificación (2 primeros + 8 mejores terceros)
+  - Bracket eliminatorio (Dieciseisavos → Final)
+  - Total 104 partidos
+- **Uso:** Estructura base para simulación Monte Carlo
+- **Archivo:** src/tournament_structure.py
 
 ---
 
 ## ELO Rating (Calculado internamente)
-- **Método:** Calculado por nosotros desde Fuente 1 (results.csv)
+- **Método:** Calculado desde Fuente 1 (results.csv)
 - **Referencia metodológica:** https://en.wikipedia.org/wiki/Elo_rating_system
 - **Referencia fútbol:** https://www.eloratings.net/about
 - **Parámetros:**
@@ -122,3 +162,12 @@ incluyendo URLs, método de obtención, fecha de acceso y descripción.
 - **URL verificación:** https://www.roadtowc.com/es/48-clasificados-mundial-2026-lista-completa-oficial/
 - **URL FIFA oficial:** https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026
 - **Uso:** Validación de los 48 equipos participantes
+
+---
+
+## Notas generales
+- Fecha de acceso a las fuentes: Mayo 2026
+- Todas las credenciales (API keys, tokens) almacenadas en `.env`
+  y excluidas del repositorio via `.gitignore`
+- Los datos crudos en `data/raw/` no se suben al repositorio
+  por tamaño y licencias — se regeneran ejecutando `src/descarga_recursos.py`

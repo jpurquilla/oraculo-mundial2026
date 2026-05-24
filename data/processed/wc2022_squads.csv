@@ -1,0 +1,832 @@
+team,numero,posicion,nombre,club,liga_top
+Ecuador,1,1GK,Hernán Galíndez,Aucas,False
+Ecuador,2,2DF,Félix Torres,Santos Laguna,False
+Ecuador,3,2DF,Piero Hincapié,Bayer Leverkusen,True
+Ecuador,4,2DF,Robert Arboleda,São Paulo,False
+Ecuador,5,3MF,José Cifuentes,Los Angeles FC,False
+Ecuador,6,2DF,William Pacho,Antwerp,False
+Ecuador,7,2DF,Pervis Estupiñán,Brighton & Hove Albion,True
+Ecuador,8,3MF,Carlos Gruezo,FC Augsburg,True
+Ecuador,9,3MF,Ayrton Preciado,Santos Laguna,False
+Ecuador,10,3MF,Romario Ibarra,Pachuca,False
+Ecuador,11,4FW,Michael Estrada,Cruz Azul,False
+Ecuador,12,1GK,Moisés Ramírez,Independiente del Valle,False
+Ecuador,13,4FW,Enner Valencia*(captain)*,Fenerbahçe,False
+Ecuador,14,2DF,Xavier Arreaga,Seattle Sounders FC,False
+Ecuador,15,3MF,Ángel Mena,León,False
+Ecuador,16,3MF,Jeremy Sarmiento,Brighton & Hove Albion,True
+Ecuador,17,2DF,Ángelo Preciado,Genk,False
+Ecuador,18,2DF,Diego Palacios,Los Angeles FC,False
+Ecuador,19,3MF,Gonzalo Plata,Valladolid,False
+Ecuador,20,3MF,Sebas Méndez,Los Angeles FC,False
+Ecuador,21,3MF,Alan Franco,Talleres,False
+Ecuador,22,1GK,Alexander Domínguez,LDU Quito,False
+Ecuador,23,3MF,Moisés Caicedo,Brighton & Hove Albion,True
+Ecuador,24,4FW,Djorkaeff Reasco,Newell's Old Boys,False
+Ecuador,25,2DF,Jackson Porozo,Troyes,False
+Ecuador,26,4FW,Kevin Rodríguez,Imbabura,False
+Netherlands,1,1GK,Remko Pasveer,Ajax,True
+Netherlands,2,2DF,Jurriën Timber,Ajax,True
+Netherlands,3,2DF,Matthijs de Ligt,Bayern Munich,True
+Netherlands,4,2DF,Virgil van Dijk*(captain)*,Liverpool,True
+Netherlands,5,2DF,Nathan Aké,Manchester City,True
+Netherlands,6,2DF,Stefan de Vrij,Internazionale,True
+Netherlands,7,4FW,Steven Bergwijn,Ajax,True
+Netherlands,8,4FW,Cody Gakpo,PSV Eindhoven,True
+Netherlands,9,4FW,Luuk de Jong,PSV Eindhoven,True
+Netherlands,10,4FW,Memphis Depay,Barcelona,True
+Netherlands,11,3MF,Steven Berghuis,Ajax,True
+Netherlands,12,4FW,Noa Lang,Club Brugge,True
+Netherlands,13,1GK,Justin Bijlow,Feyenoord,False
+Netherlands,14,3MF,Davy Klaassen,Ajax,True
+Netherlands,15,3MF,Marten de Roon,Atalanta,True
+Netherlands,16,2DF,Tyrell Malacia,Manchester United,True
+Netherlands,17,2DF,Daley Blind,Ajax,True
+Netherlands,18,4FW,Vincent Janssen,Antwerp,False
+Netherlands,19,4FW,Wout Weghorst,Beşiktaş,False
+Netherlands,20,3MF,Teun Koopmeiners,Atalanta,True
+Netherlands,21,3MF,Frenkie de Jong,Barcelona,True
+Netherlands,22,2DF,Denzel Dumfries,Internazionale,True
+Netherlands,23,1GK,Andries Noppert,Heerenveen,False
+Netherlands,24,3MF,Kenneth Taylor,Ajax,True
+Netherlands,25,3MF,Xavi Simons,PSV Eindhoven,True
+Netherlands,26,2DF,Jeremie Frimpong,Bayer Leverkusen,True
+Qatar,1,1GK,Saad Al-Sheeb,Al-Sadd,False
+Qatar,2,2DF,Ró-Ró,Al-Sadd,False
+Qatar,3,3MF,Abdelkarim Hassan,Al-Sadd,False
+Qatar,4,2DF,Mohammed Waad,Al-Sadd,False
+Qatar,5,2DF,Tarek Salman,Al-Sadd,False
+Qatar,6,3MF,Abdulaziz Hatem,Al-Rayyan,False
+Qatar,7,4FW,Ahmed Alaaeldin,Al-Gharafa,False
+Qatar,8,3MF,Ali Assadalla,Al-Sadd,False
+Qatar,9,4FW,Mohammed Muntari,Al-Duhail,False
+Qatar,10,3MF,Hassan Al-Haydos*(captain)*,Al-Sadd,False
+Qatar,11,4FW,Akram Afif,Al-Sadd,False
+Qatar,12,3MF,Karim Boudiaf,Al-Duhail,False
+Qatar,13,2DF,Musab Kheder,Al-Sadd,False
+Qatar,14,2DF,Homam Ahmed,Al-Gharafa,False
+Qatar,15,2DF,Bassam Al-Rawi,Al-Duhail,False
+Qatar,16,2DF,Boualem Khoukhi,Al-Sadd,False
+Qatar,17,2DF,Ismaeel Mohammad,Al-Duhail,False
+Qatar,18,4FW,Khalid Muneer,Al-Wakrah,False
+Qatar,19,4FW,Almoez Ali,Al-Duhail,False
+Qatar,20,3MF,Salem Al-Hajri,Al-Sadd,False
+Qatar,21,1GK,Yousef Hassan,Al-Gharafa,False
+Qatar,22,1GK,Meshaal Barsham,Al-Sadd,False
+Qatar,23,3MF,Assim Madibo,Al-Duhail,False
+Qatar,24,3MF,Naif Al-Hadhrami,Al-Rayyan,False
+Qatar,25,3MF,Jassem Gaber,Al-Arabi,False
+Qatar,26,3MF,Mostafa Meshaal,Al-Sadd,False
+Senegal,1,1GK,Seny Dieng,Queens Park Rangers,False
+Senegal,2,2DF,Formose Mendy,Amiens,False
+Senegal,3,2DF,Kalidou Koulibaly*(captain)*,Chelsea,True
+Senegal,4,2DF,Pape Abou Cissé,Olympiacos,False
+Senegal,5,3MF,Idrissa Gueye,Everton,True
+Senegal,6,3MF,Nampalys Mendy,Leicester City,False
+Senegal,7,4FW,Nicolas Jackson,Villarreal,True
+Senegal,8,2DF,Cheikhou Kouyaté,Nottingham Forest,True
+Senegal,9,4FW,Boulaye Dia,Salernitana,False
+Senegal,10,2DF,Moussa N'Diaye,Anderlecht,False
+Senegal,11,3MF,Pathé Ciss,Rayo Vallecano,True
+Senegal,12,2DF,Fodé Ballo-Touré,Milan,True
+Senegal,13,4FW,Iliman Ndiaye,Sheffield United,False
+Senegal,14,2DF,Ismail Jakobs,Monaco,True
+Senegal,15,3MF,Krépin Diatta,Monaco,True
+Senegal,16,1GK,Édouard Mendy,Chelsea,True
+Senegal,17,3MF,Pape Matar Sarr,Tottenham Hotspur,True
+Senegal,18,4FW,Ismaïla Sarr,Watford,False
+Senegal,19,4FW,Famara Diédhiou,Alanyaspor,False
+Senegal,20,4FW,Bamba Dieng,Marseille,True
+Senegal,21,2DF,Youssouf Sabaly,Real Betis,True
+Senegal,22,2DF,Abdou Diallo,RB Leipzig,True
+Senegal,23,1GK,Alfred Gomis,Rennes,True
+Senegal,24,2DF,Moustapha Name,Pafos,False
+Senegal,25,3MF,Mamadou Loum,Reading,False
+Senegal,26,3MF,Pape Gueye,Marseille,True
+England,1,1GK,Jordan Pickford,Everton,True
+England,2,2DF,Kyle Walker,Manchester City,True
+England,3,2DF,Luke Shaw,Manchester United,True
+England,4,3MF,Declan Rice,West Ham United,True
+England,5,2DF,John Stones,Manchester City,True
+England,6,2DF,Harry Maguire,Manchester United,True
+England,7,4FW,Jack Grealish,Manchester City,True
+England,8,3MF,Jordan Henderson,Liverpool,True
+England,9,4FW,Harry Kane*(captain)*,Tottenham Hotspur,True
+England,10,4FW,Raheem Sterling,Chelsea,True
+England,11,4FW,Marcus Rashford,Manchester United,True
+England,12,2DF,Kieran Trippier,Newcastle United,True
+England,13,1GK,Nick Pope,Newcastle United,True
+England,14,3MF,Kalvin Phillips,Manchester City,True
+England,15,2DF,Eric Dier,Tottenham Hotspur,True
+England,16,2DF,Conor Coady,Everton,True
+England,17,4FW,Bukayo Saka,Arsenal,True
+England,18,2DF,Trent Alexander-Arnold,Liverpool,True
+England,19,3MF,Mason Mount,Chelsea,True
+England,20,3MF,Phil Foden,Manchester City,True
+England,21,2DF,Ben White,Arsenal,True
+England,22,3MF,Jude Bellingham,Borussia Dortmund,True
+England,23,1GK,Aaron Ramsdale,Arsenal,True
+England,24,4FW,Callum Wilson,Newcastle United,True
+England,25,3MF,James Maddison,Leicester City,False
+England,26,3MF,Conor Gallagher,Chelsea,True
+Iran,1,1GK,Alireza Beiranvand,Persepolis,False
+Iran,2,2DF,Sadegh Moharrami,Dinamo Zagreb,False
+Iran,3,2DF,Ehsan Hajsafi*(captain)*,AEK Athens,False
+Iran,4,2DF,Shojae Khalilzadeh,Al-Ahli Doha,False
+Iran,5,2DF,Milad Mohammadi,AEK Athens,False
+Iran,6,3MF,Saeid Ezatolahi,Vejle,False
+Iran,7,3MF,Alireza Jahanbakhsh,Feyenoord,False
+Iran,8,2DF,Morteza Pouraliganji,Persepolis,False
+Iran,9,4FW,Mehdi Taremi,Porto,False
+Iran,10,4FW,Karim Ansarifard,Omonia,False
+Iran,11,3MF,Vahid Amiri,Persepolis,False
+Iran,12,1GK,Payam Niazmand,Sepahan,False
+Iran,13,2DF,Hossein Kanaanizadegan,Al-Ahli Doha,False
+Iran,14,3MF,Saman Ghoddos,Brentford,True
+Iran,15,2DF,Rouzbeh Cheshmi,Esteghlal,False
+Iran,16,3MF,Mehdi Torabi,Persepolis,False
+Iran,17,3MF,Ali Gholizadeh,Charleroi,False
+Iran,18,3MF,Ali Karimi,Kayserispor,False
+Iran,19,2DF,Majid Hosseini,Kayserispor,False
+Iran,20,4FW,Sardar Azmoun,Bayer Leverkusen,True
+Iran,21,3MF,Ahmad Nourollahi,Shabab Al-Ahli,False
+Iran,22,1GK,Amir Abedzadeh,Ponferradina,False
+Iran,23,2DF,Ramin Rezaeian,Sepahan,False
+Iran,24,1GK,Hossein Hosseini,Esteghlal,False
+Iran,25,2DF,Abolfazl Jalali,Esteghlal,False
+USA,1,1GK,Matt Turner,Arsenal,True
+USA,2,2DF,Sergiño Dest,Milan,True
+USA,3,2DF,Walker Zimmerman,Nashville SC,False
+USA,4,3MF,Tyler Adams*(captain)*,Leeds United,True
+USA,5,2DF,Antonee Robinson,Fulham,True
+USA,6,3MF,Yunus Musah,Valencia,True
+USA,7,4FW,Giovanni Reyna,Borussia Dortmund,True
+USA,8,3MF,Weston McKennie,Juventus,True
+USA,9,4FW,Jesús Ferreira,FC Dallas,False
+USA,10,4FW,Christian Pulisic,Chelsea,True
+USA,11,4FW,Brenden Aaronson,Leeds United,True
+USA,12,1GK,Ethan Horvath,Luton Town,False
+USA,13,2DF,Tim Ream,Fulham,True
+USA,14,3MF,Luca de la Torre,Celta Vigo,False
+USA,15,2DF,Aaron Long,New York Red Bulls,False
+USA,16,4FW,Jordan Morris,Seattle Sounders FC,False
+USA,17,3MF,Cristian Roldan,Seattle Sounders FC,False
+USA,18,2DF,Shaq Moore,Nashville SC,False
+USA,19,4FW,Haji Wright,Antalyaspor,False
+USA,20,2DF,Cameron Carter-Vickers,Celtic,False
+USA,21,4FW,Timothy Weah,Lille,False
+USA,22,2DF,DeAndre Yedlin,Inter Miami CF,False
+USA,23,3MF,Kellyn Acosta,Los Angeles FC,False
+USA,24,4FW,Josh Sargent,Norwich City,False
+USA,25,1GK,Sean Johnson,New York City FC,False
+USA,26,2DF,Joe Scally,Borussia Mönchengladbach,True
+Wales,1,1GK,Wayne Hennessey,Nottingham Forest,True
+Wales,2,2DF,Chris Gunter,AFC Wimbledon,False
+Wales,3,2DF,Neco Williams,Nottingham Forest,True
+Wales,4,2DF,Ben Davies,Tottenham Hotspur,True
+Wales,5,2DF,Chris Mepham,Bournemouth,True
+Wales,6,2DF,Joe Rodon,Rennes,True
+Wales,7,3MF,Joe Allen,Swansea City,False
+Wales,8,3MF,Harry Wilson,Fulham,True
+Wales,9,4FW,Brennan Johnson,Nottingham Forest,True
+Wales,10,3MF,Aaron Ramsey,Nice,True
+Wales,11,4FW,Gareth Bale*(captain)*,Los Angeles FC,False
+Wales,12,1GK,Danny Ward,Leicester City,False
+Wales,13,4FW,Kieffer Moore,Bournemouth,True
+Wales,14,2DF,Connor Roberts,Burnley,True
+Wales,15,2DF,Ethan Ampadu,Spezia,False
+Wales,16,3MF,Joe Morrell,Portsmouth,False
+Wales,17,2DF,Tom Lockyer,Luton Town,False
+Wales,18,3MF,Jonny Williams,Swindon Town,False
+Wales,19,4FW,Mark Harris,Cardiff City,False
+Wales,20,4FW,Daniel James,Fulham,True
+Wales,21,1GK,Adam Davies,Sheffield United,False
+Wales,22,3MF,Sorba Thomas,Huddersfield Town,False
+Wales,23,3MF,Dylan Levitt,Dundee United,False
+Wales,24,2DF,Ben Cabango,Swansea City,False
+Wales,25,3MF,Rubin Colwill,Cardiff City,False
+Wales,26,3MF,Matthew Smith,Milton Keynes Dons,False
+Argentina,1,1GK,Franco Armani,River Plate,False
+Argentina,2,2DF,Juan Foyth,Villarreal,True
+Argentina,3,2DF,Nicolás Tagliafico,Lyon,True
+Argentina,4,2DF,Gonzalo Montiel,Sevilla,True
+Argentina,5,3MF,Leandro Paredes,Juventus,True
+Argentina,6,2DF,Germán Pezzella,Real Betis,True
+Argentina,7,3MF,Rodrigo De Paul,Atlético Madrid,True
+Argentina,8,3MF,Marcos Acuña,Sevilla,True
+Argentina,9,4FW,Julián Álvarez,Manchester City,True
+Argentina,10,4FW,Lionel Messi*(captain)*,Paris Saint-Germain,True
+Argentina,11,4FW,Ángel Di María,Juventus,True
+Argentina,12,1GK,Gerónimo Rulli,Villarreal,True
+Argentina,13,2DF,Cristian Romero,Tottenham Hotspur,True
+Argentina,14,3MF,Exequiel Palacios,Bayer Leverkusen,True
+Argentina,15,4FW,Ángel Correa,Atlético Madrid,True
+Argentina,16,3MF,Thiago Almada,Atlanta United FC,False
+Argentina,17,3MF,Papu Gómez,Sevilla,True
+Argentina,18,3MF,Guido Rodríguez,Real Betis,True
+Argentina,19,2DF,Nicolás Otamendi,Benfica,True
+Argentina,20,3MF,Alexis Mac Allister,Brighton & Hove Albion,True
+Argentina,21,4FW,Paulo Dybala,Roma,True
+Argentina,22,4FW,Lautaro Martínez,Internazionale,True
+Argentina,23,1GK,Emiliano Martínez,Aston Villa,True
+Argentina,24,3MF,Enzo Fernández,Benfica,True
+Argentina,25,2DF,Lisandro Martínez,Manchester United,True
+Argentina,26,2DF,Nahuel Molina,Atlético Madrid,True
+Mexico,1,1GK,Alfredo Talavera,Juárez,False
+Mexico,2,2DF,Néstor Araujo,América,False
+Mexico,3,2DF,César Montes,Monterrey,False
+Mexico,4,2DF,Edson Álvarez,Ajax,True
+Mexico,5,2DF,Johan Vásquez,Cremonese,True
+Mexico,6,2DF,Gerardo Arteaga,Genk,False
+Mexico,7,3MF,Luis Romo,Monterrey,False
+Mexico,8,3MF,Carlos Rodríguez,Cruz Azul,False
+Mexico,9,4FW,Raúl Jiménez,Wolverhampton Wanderers,True
+Mexico,10,4FW,Alexis Vega,Guadalajara,False
+Mexico,11,4FW,Rogelio Funes Mori,Monterrey,False
+Mexico,12,1GK,Rodolfo Cota,León,False
+Mexico,13,1GK,Guillermo Ochoa,América,False
+Mexico,14,3MF,Érick Gutiérrez,PSV Eindhoven,True
+Mexico,15,2DF,Héctor Moreno,Monterrey,False
+Mexico,16,3MF,Héctor Herrera,Houston Dynamo FC,False
+Mexico,17,4FW,Orbelín Pineda,AEK Athens,False
+Mexico,18,3MF,Andrés Guardado*(captain)*,Real Betis,True
+Mexico,19,2DF,Jorge Sánchez,Ajax,True
+Mexico,20,4FW,Henry Martín,América,False
+Mexico,21,4FW,Uriel Antuna,Cruz Azul,False
+Mexico,22,4FW,Hirving Lozano,Napoli,True
+Mexico,23,2DF,Jesús Gallardo,Monterrey,False
+Mexico,24,3MF,Luis Chávez,Pachuca,False
+Mexico,25,4FW,Roberto Alvarado,Guadalajara,False
+Mexico,26,2DF,Kevin Álvarez,Pachuca,False
+Poland,1,1GK,Wojciech Szczęsny,Juventus,True
+Poland,2,2DF,Matty Cash,Aston Villa,True
+Poland,3,2DF,Artur Jędrzejczyk,Legia Warsaw,False
+Poland,4,2DF,Mateusz Wieteska,Clermont,False
+Poland,5,2DF,Jan Bednarek,Aston Villa,True
+Poland,6,3MF,Krystian Bielik,Birmingham City,False
+Poland,7,4FW,Arkadiusz Milik,Juventus,True
+Poland,8,3MF,Damian Szymański,AEK Athens,False
+Poland,9,4FW,Robert Lewandowski*(captain)*,Barcelona,True
+Poland,10,3MF,Grzegorz Krychowiak,Al-Shabab,False
+Poland,11,3MF,Kamil Grosicki,Pogoń Szczecin,False
+Poland,12,1GK,Łukasz Skorupski,Bologna,True
+Poland,13,3MF,Jakub Kamiński,VfL Wolfsburg,True
+Poland,14,2DF,Jakub Kiwior,Spezia,False
+Poland,15,2DF,Kamil Glik,Benevento,False
+Poland,16,4FW,Karol Świderski,Charlotte FC,False
+Poland,17,3MF,Szymon Żurkowski,Fiorentina,True
+Poland,18,2DF,Bartosz Bereszyński,Sampdoria,False
+Poland,19,3MF,Sebastian Szymański,Feyenoord,False
+Poland,20,3MF,Piotr Zieliński,Napoli,True
+Poland,21,3MF,Nicola Zalewski,Roma,True
+Poland,22,1GK,Kamil Grabara,Copenhagen,False
+Poland,23,4FW,Krzysztof Piątek,Salernitana,False
+Poland,24,3MF,Przemysław Frankowski,Lens,False
+Poland,25,2DF,Robert Gumny,FC Augsburg,True
+Poland,26,3MF,Michał Skóraś,Lech Poznań,False
+Saudi Arabia,1,1GK,Mohammed Al-Rubaie,Al-Ahli,False
+Saudi Arabia,2,2DF,Sultan Al-Ghannam,Al-Nassr,False
+Saudi Arabia,3,2DF,Abdullah Madu,Al-Nassr,False
+Saudi Arabia,4,2DF,Abdulelah Al-Amri,Al-Nassr,False
+Saudi Arabia,5,2DF,Ali Al-Bulaihi,Al-Hilal,False
+Saudi Arabia,6,2DF,Mohammed Al-Breik,Al-Hilal,False
+Saudi Arabia,7,3MF,Salman Al-Faraj*(captain)*,Al-Hilal,False
+Saudi Arabia,8,3MF,Abdulellah Al-Malki,Al-Hilal,False
+Saudi Arabia,9,4FW,Firas Al-Buraikan,Al-Fateh,False
+Saudi Arabia,10,4FW,Salem Al-Dawsari,Al-Hilal,False
+Saudi Arabia,11,4FW,Saleh Al-Shehri,Al-Hilal,False
+Saudi Arabia,12,2DF,Saud Abdulhamid,Al-Hilal,False
+Saudi Arabia,13,2DF,Yasser Al-Shahrani,Al-Hilal,False
+Saudi Arabia,14,3MF,Abdullah Otayf,Al-Hilal,False
+Saudi Arabia,15,3MF,Ali Al-Hassan,Al-Nassr,False
+Saudi Arabia,16,3MF,Sami Al-Najei,Al-Nassr,False
+Saudi Arabia,17,2DF,Hassan Al-Tambakti,Al-Shabab,False
+Saudi Arabia,18,3MF,Nawaf Al-Abed,Al-Shabab,False
+Saudi Arabia,19,4FW,Hattan Bahebri,Al-Shabab,False
+Saudi Arabia,20,4FW,Abdulrahman Al-Aboud,Al-Ittihad,False
+Saudi Arabia,21,1GK,Mohammed Al-Owais,Al-Hilal,False
+Saudi Arabia,22,1GK,Nawaf Al-Aqidi,Al-Nassr,False
+Saudi Arabia,23,3MF,Mohamed Kanno,Al-Hilal,False
+Saudi Arabia,24,3MF,Nasser Al-Dawsari,Al-Hilal,False
+Saudi Arabia,25,4FW,Haitham Asiri,Al-Ahli,False
+Saudi Arabia,26,3MF,Riyadh Sharahili,Abha,False
+Australia,1,1GK,Mathew Ryan*(captain)*,Copenhagen,False
+Australia,2,2DF,Miloš Degenek,Columbus Crew,False
+Australia,3,2DF,Nathaniel Atkinson,Heart of Midlothian,False
+Australia,4,2DF,Kye Rowles,Heart of Midlothian,False
+Australia,5,2DF,Fran Karačić,Brescia,False
+Australia,6,4FW,Marco Tilio,Melbourne City,False
+Australia,7,4FW,Mathew Leckie,Melbourne City,False
+Australia,8,2DF,Bailey Wright,Sunderland,True
+Australia,9,4FW,Jamie Maclaren,Melbourne City,False
+Australia,10,3MF,Ajdin Hrustic,Hellas Verona,True
+Australia,11,4FW,Awer Mabil,Cádiz,False
+Australia,12,1GK,Andrew Redmayne,Sydney FC,False
+Australia,13,3MF,Aaron Mooy,Celtic,False
+Australia,14,3MF,Riley McGree,Middlesbrough,False
+Australia,15,4FW,Mitchell Duke,Fagiano Okayama,False
+Australia,16,2DF,Aziz Behich,Dundee United,False
+Australia,17,3MF,Cameron Devlin,Heart of Midlothian,False
+Australia,18,1GK,Danny Vukovic,Central Coast Mariners,False
+Australia,19,2DF,Harry Souttar,Stoke City,False
+Australia,20,2DF,Thomas Deng,Albirex Niigata,False
+Australia,21,4FW,Garang Kuol,Central Coast Mariners,False
+Australia,22,3MF,Jackson Irvine,FC St. Pauli,True
+Australia,23,4FW,Craig Goodwin,Adelaide United,False
+Australia,24,2DF,Joel King,OB,False
+Australia,25,4FW,Jason Cummings,Central Coast Mariners,False
+Australia,26,3MF,Keanu Baccus,St Mirren,False
+Denmark,1,1GK,Kasper Schmeichel,Nice,True
+Denmark,2,2DF,Joachim Andersen,Crystal Palace,True
+Denmark,3,2DF,Victor Nelsson,Galatasaray,True
+Denmark,4,2DF,Simon Kjær*(captain)*,Milan,True
+Denmark,5,2DF,Joakim Mæhle,Atalanta,True
+Denmark,6,2DF,Andreas Christensen,Barcelona,True
+Denmark,7,3MF,Mathias Jensen,Brentford,True
+Denmark,8,3MF,Thomas Delaney,Sevilla,True
+Denmark,9,4FW,Martin Braithwaite,Espanyol,True
+Denmark,10,3MF,Christian Eriksen,Manchester United,True
+Denmark,11,3MF,Andreas Skov Olsen,Club Brugge,True
+Denmark,12,4FW,Kasper Dolberg,Sevilla,True
+Denmark,13,2DF,Rasmus Kristensen,Leeds United,True
+Denmark,14,3MF,Mikkel Damsgaard,Brentford,True
+Denmark,15,3MF,Christian Nørgaard,Brentford,True
+Denmark,16,1GK,Oliver Christensen,Hertha BSC,False
+Denmark,17,2DF,Jens Stryger Larsen,Trabzonspor,False
+Denmark,18,2DF,Daniel Wass,Brøndby,False
+Denmark,19,4FW,Jonas Wind,VfL Wolfsburg,True
+Denmark,20,4FW,Yussuf Poulsen,RB Leipzig,True
+Denmark,21,4FW,Andreas Cornelius,Copenhagen,False
+Denmark,22,1GK,Frederik Rønnow,Union Berlin,True
+Denmark,23,3MF,Pierre-Emile Højbjerg,Tottenham Hotspur,True
+Denmark,24,3MF,Robert Skov,1899 Hoffenheim,True
+Denmark,25,3MF,Jesper Lindstrøm,Eintracht Frankfurt,True
+Denmark,26,2DF,Alexander Bah,Benfica,True
+France,1,1GK,Hugo Lloris*(captain)*,Tottenham Hotspur,True
+France,2,2DF,Benjamin Pavard,Bayern Munich,True
+France,3,2DF,Axel Disasi,Monaco,True
+France,4,2DF,Raphaël Varane,Manchester United,True
+France,5,2DF,Jules Koundé,Barcelona,True
+France,6,3MF,Matteo Guendouzi,Marseille,True
+France,7,4FW,Antoine Griezmann,Atlético Madrid,True
+France,8,3MF,Aurélien Tchouaméni,Real Madrid,True
+France,9,4FW,Olivier Giroud,Milan,True
+France,10,4FW,Kylian Mbappé,Paris Saint-Germain,True
+France,11,4FW,Ousmane Dembélé,Barcelona,True
+France,12,4FW,Randal Kolo Muani,Eintracht Frankfurt,True
+France,13,3MF,Youssouf Fofana,Monaco,True
+France,14,3MF,Adrien Rabiot,Juventus,True
+France,15,3MF,Jordan Veretout,Marseille,True
+France,16,1GK,Steve Mandanda,Rennes,True
+France,17,2DF,William Saliba,Arsenal,True
+France,18,2DF,Dayot Upamecano,Bayern Munich,True
+France,19,4FW,Karim Benzema,Real Madrid,True
+France,20,4FW,Kingsley Coman,Bayern Munich,True
+France,21,2DF,Lucas Hernandez,Bayern Munich,True
+France,22,2DF,Théo Hernandez,Milan,True
+France,23,1GK,Alphonse Areola,West Ham United,True
+France,24,2DF,Ibrahima Konaté,Liverpool,True
+France,25,3MF,Eduardo Camavinga,Real Madrid,True
+France,26,4FW,Marcus Thuram,Borussia Mönchengladbach,True
+Tunisia,1,1GK,Aymen Mathlouthi,Étoile du Sahel,False
+Tunisia,2,2DF,Bilel Ifa,Kuwait SC,False
+Tunisia,3,2DF,Montassar Talbi,Lorient,True
+Tunisia,4,2DF,Yassine Meriah,Espérance de Tunis,False
+Tunisia,5,3MF,Nader Ghandri,Club Africain,False
+Tunisia,6,2DF,Dylan Bronn,Salernitana,False
+Tunisia,7,4FW,Youssef Msakni*(captain)*,Al-Arabi,False
+Tunisia,8,3MF,Hannibal Mejbri,Birmingham City,False
+Tunisia,9,4FW,Issam Jebali,OB,False
+Tunisia,10,4FW,Wahbi Khazri,Montpellier,False
+Tunisia,11,4FW,Taha Yassine Khenissi,Kuwait SC,False
+Tunisia,12,2DF,Ali Maâloul,Al Ahly,False
+Tunisia,13,3MF,Ferjani Sassi,Al-Duhail,False
+Tunisia,14,3MF,Aïssa Laïdouni,Ferencváros,False
+Tunisia,15,3MF,Mohamed Ali Ben Romdhane,Espérance de Tunis,False
+Tunisia,16,1GK,Aymen Dahmen,CS Sfaxien,False
+Tunisia,17,3MF,Ellyes Skhiri,1. FC Köln,True
+Tunisia,18,3MF,Ghailene Chaalali,Espérance de Tunis,False
+Tunisia,19,4FW,Seifeddine Jaziri,Zamalek,False
+Tunisia,20,2DF,Mohamed Dräger,Luzern,False
+Tunisia,21,2DF,Wajdi Kechrida,Atromitos,False
+Tunisia,22,1GK,Bechir Ben Saïd,US Monastir,False
+Tunisia,23,4FW,Naïm Sliti,Al-Ettifaq,False
+Tunisia,24,2DF,Ali Abdi,Caen,False
+Tunisia,25,4FW,Anis Ben Slimane,Brøndby,False
+Tunisia,26,1GK,Mouez Hassen,Club Africain,False
+Costa Rica,1,1GK,Keylor Navas,Paris Saint-Germain,True
+Costa Rica,2,3MF,Daniel Chacón,Cartaginés,False
+Costa Rica,3,2DF,Juan Pablo Vargas,Millonarios,False
+Costa Rica,4,2DF,Keysher Fuller,Herediano,False
+Costa Rica,5,3MF,Celso Borges,Alajuelense,False
+Costa Rica,6,2DF,Óscar Duarte,Al-Wehda,False
+Costa Rica,7,4FW,Anthony Contreras,Herediano,False
+Costa Rica,8,2DF,Bryan Oviedo,Real Salt Lake,False
+Costa Rica,9,3MF,Jewison Bennette,Sunderland,True
+Costa Rica,10,3MF,Bryan Ruiz*(captain)*,Alajuelense,False
+Costa Rica,11,4FW,Johan Venegas,Alajuelense,False
+Costa Rica,12,4FW,Joel Campbell,León,False
+Costa Rica,13,3MF,Gerson Torres,Herediano,False
+Costa Rica,14,3MF,Youstin Salas,Saprissa,False
+Costa Rica,15,2DF,Francisco Calvo,Konyaspor,False
+Costa Rica,16,2DF,Carlos Martínez,San Carlos,False
+Costa Rica,17,3MF,Yeltsin Tejeda,Herediano,False
+Costa Rica,18,1GK,Esteban Alvarado,Herediano,False
+Costa Rica,19,2DF,Kendall Waston,Saprissa,False
+Costa Rica,20,3MF,Brandon Aguilera,Guanacasteca,False
+Costa Rica,21,3MF,Douglas López,Herediano,False
+Costa Rica,22,2DF,Rónald Matarrita,FC Cincinnati,False
+Costa Rica,23,1GK,Patrick Sequeira,Lugo,False
+Costa Rica,24,3MF,Roan Wilson,Municipal Grecia,False
+Costa Rica,25,3MF,Anthony Hernández,Puntarenas,False
+Costa Rica,26,3MF,Álvaro Zamora,Saprissa,False
+Germany,1,1GK,Manuel Neuer*(captain)*,Bayern Munich,True
+Germany,2,2DF,Antonio Rüdiger,Real Madrid,True
+Germany,3,2DF,David Raum,RB Leipzig,True
+Germany,4,2DF,Matthias Ginter,SC Freiburg,True
+Germany,5,2DF,Thilo Kehrer,West Ham United,True
+Germany,6,3MF,Joshua Kimmich,Bayern Munich,True
+Germany,7,4FW,Kai Havertz,Chelsea,True
+Germany,8,3MF,Leon Goretzka,Bayern Munich,True
+Germany,9,4FW,Niclas Füllkrug,Werder Bremen,True
+Germany,10,4FW,Serge Gnabry,Bayern Munich,True
+Germany,11,3MF,Mario Götze,Eintracht Frankfurt,True
+Germany,12,1GK,Kevin Trapp,Eintracht Frankfurt,True
+Germany,13,3MF,Thomas Müller,Bayern Munich,True
+Germany,14,3MF,Jamal Musiala,Bayern Munich,True
+Germany,15,2DF,Niklas Süle,Borussia Dortmund,True
+Germany,16,2DF,Lukas Klostermann,RB Leipzig,True
+Germany,17,3MF,Julian Brandt,Borussia Dortmund,True
+Germany,18,3MF,Jonas Hofmann,Borussia Mönchengladbach,True
+Germany,19,3MF,Leroy Sané,Bayern Munich,True
+Germany,20,2DF,Christian Günter,SC Freiburg,True
+Germany,21,3MF,İlkay Gündoğan,Manchester City,True
+Germany,22,1GK,Marc-André ter Stegen,Barcelona,True
+Germany,23,2DF,Nico Schlotterbeck,Borussia Dortmund,True
+Germany,24,4FW,Karim Adeyemi,Borussia Dortmund,True
+Germany,25,2DF,Armel Bella-Kotchap,Southampton,False
+Germany,26,4FW,Youssoufa Moukoko,Borussia Dortmund,True
+Japan,1,1GK,Eiji Kawashima,Strasbourg,True
+Japan,2,2DF,Miki Yamane,Kawasaki Frontale,False
+Japan,3,2DF,Shogo Taniguchi,Kawasaki Frontale,False
+Japan,4,2DF,Ko Itakura,Borussia Mönchengladbach,True
+Japan,5,2DF,Yuto Nagatomo,FC Tokyo,False
+Japan,6,3MF,Wataru Endo,VfB Stuttgart,True
+Japan,7,3MF,Gaku Shibasaki,Leganés,False
+Japan,8,3MF,Ritsu Dōan,SC Freiburg,True
+Japan,9,3MF,Kaoru Mitoma,Brighton & Hove Albion,True
+Japan,10,3MF,Takumi Minamino,Monaco,True
+Japan,11,3MF,Takefusa Kubo,Real Sociedad,True
+Japan,12,1GK,Shūichi Gonda,Shimizu S-Pulse,False
+Japan,13,3MF,Hidemasa Morita,Sporting CP,False
+Japan,14,3MF,Junya Ito,Reims,False
+Japan,15,3MF,Daichi Kamada,Eintracht Frankfurt,True
+Japan,16,2DF,Takehiro Tomiyasu,Arsenal,True
+Japan,17,3MF,Ao Tanaka,Fortuna Düsseldorf,False
+Japan,18,4FW,Takuma Asano,VfL Bochum,False
+Japan,19,2DF,Hiroki Sakai,Urawa Red Diamonds,False
+Japan,20,4FW,Shuto Machino,Shonan Bellmare,False
+Japan,21,4FW,Ayase Ueda,Cercle Brugge,False
+Japan,22,2DF,Maya Yoshida*(captain)*,Schalke 04,False
+Japan,23,1GK,Daniel Schmidt,Sint-Truiden,False
+Japan,24,3MF,Yuki Soma,Nagoya Grampus,False
+Japan,25,4FW,Daizen Maeda,Celtic,False
+Japan,26,2DF,Hiroki Ito,VfB Stuttgart,True
+Spain,1,1GK,Robert Sánchez,Brighton & Hove Albion,True
+Spain,2,2DF,César Azpilicueta,Chelsea,True
+Spain,3,2DF,Eric García,Barcelona,True
+Spain,4,2DF,Pau Torres,Villarreal,True
+Spain,5,3MF,Sergio Busquets*(captain)*,Barcelona,True
+Spain,6,3MF,Marcos Llorente,Atlético Madrid,True
+Spain,7,4FW,Álvaro Morata,Atlético Madrid,True
+Spain,8,3MF,Koke,Atlético Madrid,True
+Spain,9,3MF,Gavi,Barcelona,True
+Spain,10,4FW,Marco Asensio,Real Madrid,True
+Spain,11,4FW,Ferran Torres,Barcelona,True
+Spain,12,4FW,Nico Williams,Athletic Bilbao,False
+Spain,13,1GK,David Raya,Brentford,True
+Spain,14,2DF,Alejandro Balde,Barcelona,True
+Spain,15,2DF,Hugo Guillamón,Valencia,True
+Spain,16,3MF,Rodri,Manchester City,True
+Spain,17,4FW,Yeremy Pino,Villarreal,True
+Spain,18,2DF,Jordi Alba,Barcelona,True
+Spain,19,3MF,Carlos Soler,Paris Saint-Germain,True
+Spain,20,2DF,Dani Carvajal,Real Madrid,True
+Spain,21,4FW,Dani Olmo,RB Leipzig,True
+Spain,22,4FW,Pablo Sarabia,Paris Saint-Germain,True
+Spain,23,1GK,Unai Simón,Athletic Bilbao,False
+Spain,24,2DF,Aymeric Laporte,Manchester City,True
+Spain,25,4FW,Ansu Fati,Barcelona,True
+Spain,26,3MF,Pedri,Barcelona,True
+Belgium,1,1GK,Thibaut Courtois,Real Madrid,True
+Belgium,2,2DF,Toby Alderweireld,Antwerp,False
+Belgium,3,2DF,Arthur Theate,Rennes,True
+Belgium,4,2DF,Wout Faes,Leicester City,False
+Belgium,5,2DF,Jan Vertonghen,Anderlecht,False
+Belgium,6,3MF,Axel Witsel,Atlético Madrid,True
+Belgium,7,3MF,Kevin De Bruyne,Manchester City,True
+Belgium,8,3MF,Youri Tielemans,Leicester City,False
+Belgium,9,4FW,Romelu Lukaku,Internazionale,True
+Belgium,10,4FW,Eden Hazard*(captain)*,Real Madrid,True
+Belgium,11,4FW,Yannick Carrasco,Atlético Madrid,True
+Belgium,12,1GK,Simon Mignolet,Club Brugge,True
+Belgium,13,1GK,Koen Casteels,VfL Wolfsburg,True
+Belgium,14,4FW,Dries Mertens,Galatasaray,True
+Belgium,15,3MF,Thomas Meunier,Borussia Dortmund,True
+Belgium,16,3MF,Thorgan Hazard,Borussia Dortmund,True
+Belgium,17,4FW,Leandro Trossard,Brighton & Hove Albion,True
+Belgium,18,3MF,Amadou Onana,Everton,True
+Belgium,19,2DF,Leander Dendoncker,Aston Villa,True
+Belgium,20,3MF,Hans Vanaken,Club Brugge,True
+Belgium,21,3MF,Timothy Castagne,Leicester City,False
+Belgium,22,4FW,Charles De Ketelaere,Milan,True
+Belgium,23,4FW,Michy Batshuayi,Fenerbahçe,False
+Belgium,24,4FW,Loïs Openda,Lens,False
+Belgium,25,4FW,Jérémy Doku,Rennes,True
+Belgium,26,2DF,Zeno Debast,Anderlecht,False
+Canada,1,1GK,Dayne St. Clair,Minnesota United FC,False
+Canada,2,2DF,Alistair Johnston,CF Montréal,False
+Canada,3,2DF,Sam Adekugbe,Hatayspor,False
+Canada,4,2DF,Kamal Miller,CF Montréal,False
+Canada,5,2DF,Steven Vitória,Chaves,False
+Canada,6,3MF,Samuel Piette,CF Montréal,False
+Canada,7,3MF,Stephen Eustáquio,Porto,False
+Canada,8,3MF,Liam Fraser,Deinze,False
+Canada,9,4FW,Lucas Cavallini,Vancouver Whitecaps FC,False
+Canada,10,3MF,Junior Hoilett,Reading,False
+Canada,11,4FW,Tajon Buchanan,Club Brugge,True
+Canada,12,4FW,Iké Ugbo,Troyes,False
+Canada,13,3MF,Atiba Hutchinson*(captain)*,Beşiktaş,False
+Canada,14,3MF,Mark-Anthony Kaye,Toronto FC,False
+Canada,15,3MF,Ismaël Koné,CF Montréal,False
+Canada,16,1GK,James Pantemis,CF Montréal,False
+Canada,17,4FW,Cyle Larin,Club Brugge,True
+Canada,18,1GK,Milan Borjan,Red Star Belgrade,False
+Canada,19,4FW,Alphonso Davies,Bayern Munich,True
+Canada,20,4FW,Jonathan David,Lille,False
+Canada,21,3MF,Jonathan Osorio,Toronto FC,False
+Canada,22,2DF,Richie Laryea,Toronto FC,False
+Canada,23,3MF,Liam Millar,Basel,False
+Canada,24,3MF,David Wotherspoon,St Johnstone,False
+Canada,25,2DF,Derek Cornelius,Panetolikos,False
+Canada,26,2DF,Joel Waterman,CF Montréal,False
+Croatia,1,1GK,Dominik Livaković,Dinamo Zagreb,False
+Croatia,2,2DF,Josip Stanišić,Bayern Munich,True
+Croatia,3,2DF,Borna Barišić,Rangers,False
+Croatia,4,4FW,Ivan Perišić,Tottenham Hotspur,True
+Croatia,5,2DF,Martin Erlić,Sassuolo,True
+Croatia,6,2DF,Dejan Lovren,Zenit Saint Petersburg,False
+Croatia,7,3MF,Lovro Majer,Rennes,True
+Croatia,8,3MF,Mateo Kovačić,Chelsea,True
+Croatia,9,4FW,Andrej Kramarić,1899 Hoffenheim,True
+Croatia,10,3MF,Luka Modrić*(captain)*,Real Madrid,True
+Croatia,11,3MF,Marcelo Brozović,Internazionale,True
+Croatia,12,1GK,Ivo Grbić,Atlético Madrid,True
+Croatia,13,3MF,Nikola Vlašić,Torino,True
+Croatia,14,4FW,Marko Livaja,Hajduk Split,False
+Croatia,15,3MF,Mario Pašalić,Atalanta,True
+Croatia,16,4FW,Bruno Petković,Dinamo Zagreb,False
+Croatia,17,4FW,Ante Budimir,Osasuna,True
+Croatia,18,4FW,Mislav Oršić,Dinamo Zagreb,False
+Croatia,19,2DF,Borna Sosa,VfB Stuttgart,True
+Croatia,20,2DF,Joško Gvardiol,RB Leipzig,True
+Croatia,21,2DF,Domagoj Vida,AEK Athens,False
+Croatia,22,2DF,Josip Juranović,Celtic,False
+Croatia,23,1GK,Ivica Ivušić,Osijek,False
+Croatia,24,2DF,Josip Šutalo,Dinamo Zagreb,False
+Croatia,25,3MF,Luka Sučić,Red Bull Salzburg,False
+Croatia,26,3MF,Kristijan Jakić,Eintracht Frankfurt,True
+Morocco,1,1GK,Yassine Bounou,Sevilla,True
+Morocco,2,2DF,Achraf Hakimi,Paris Saint-Germain,True
+Morocco,3,2DF,Noussair Mazraoui,Bayern Munich,True
+Morocco,4,3MF,Sofyan Amrabat,Fiorentina,True
+Morocco,5,2DF,Nayef Aguerd,West Ham United,True
+Morocco,6,2DF,Romain Saïss*(captain)*,Beşiktaş,False
+Morocco,7,3MF,Hakim Ziyech,Chelsea,True
+Morocco,8,3MF,Azzedine Ounahi,Angers,True
+Morocco,9,4FW,Abderrazak Hamdallah,Al-Ittihad,False
+Morocco,10,3MF,Anass Zaroury,Burnley,True
+Morocco,11,4FW,Abdelhamid Sabiri,Sampdoria,False
+Morocco,12,1GK,Munir Mohamedi,Al-Wehda,False
+Morocco,13,3MF,Ilias Chair,Queens Park Rangers,False
+Morocco,14,3MF,Zakaria Aboukhlal,Toulouse,True
+Morocco,15,3MF,Selim Amallah,Standard Liège,False
+Morocco,16,4FW,Abde Ezzalzouli,Osasuna,True
+Morocco,17,3MF,Sofiane Boufal,Angers,True
+Morocco,18,2DF,Jawad El Yamiq,Valladolid,False
+Morocco,19,4FW,Youssef En-Nesyri,Sevilla,True
+Morocco,20,2DF,Achraf Dari,Brest,True
+Morocco,21,4FW,Walid Cheddira,Bari,False
+Morocco,22,1GK,Ahmed Reda Tagnaouti,Wydad AC,False
+Morocco,23,3MF,Bilal El Khannous,Genk,False
+Morocco,24,2DF,Badr Benoun,Qatar SC,False
+Morocco,25,2DF,Yahia Attiyat Allah,Wydad AC,False
+Morocco,26,3MF,Yahya Jabrane,Wydad AC,False
+Brazil,1,1GK,Alisson,Liverpool,True
+Brazil,2,2DF,Danilo,Juventus,True
+Brazil,3,2DF,Thiago Silva*(captain)*,Chelsea,True
+Brazil,4,2DF,Marquinhos,Paris Saint-Germain,True
+Brazil,5,3MF,Casemiro,Manchester United,True
+Brazil,6,2DF,Alex Sandro,Juventus,True
+Brazil,7,3MF,Lucas Paquetá,West Ham United,True
+Brazil,8,3MF,Fred,Manchester United,True
+Brazil,9,4FW,Richarlison,Tottenham Hotspur,True
+Brazil,10,4FW,Neymar,Paris Saint-Germain,True
+Brazil,11,4FW,Raphinha,Barcelona,True
+Brazil,12,1GK,Weverton,Palmeiras,False
+Brazil,13,2DF,Dani Alves,UNAM,False
+Brazil,14,2DF,Éder Militão,Real Madrid,True
+Brazil,15,3MF,Fabinho,Liverpool,True
+Brazil,16,2DF,Alex Telles,Sevilla,True
+Brazil,17,3MF,Bruno Guimarães,Newcastle United,True
+Brazil,18,4FW,Gabriel Jesus,Arsenal,True
+Brazil,19,4FW,Antony,Manchester United,True
+Brazil,20,4FW,Vinícius Júnior,Real Madrid,True
+Brazil,21,4FW,Rodrygo,Real Madrid,True
+Brazil,22,3MF,Éverton Ribeiro,Flamengo,False
+Brazil,23,1GK,Ederson,Manchester City,True
+Brazil,24,2DF,Bremer,Juventus,True
+Brazil,25,4FW,Pedro,Flamengo,False
+Brazil,26,4FW,Gabriel Martinelli,Arsenal,True
+Cameroon,1,1GK,Simon Ngapandouetnbu,Marseille,True
+Cameroon,2,2DF,Jerome Ngom Mbekeli,Colombe Sportive,False
+Cameroon,3,2DF,Nicolas Nkoulou,Aris,True
+Cameroon,4,2DF,Christopher Wooh,Rennes,True
+Cameroon,5,3MF,Gaël Ondoua,Hannover 96,False
+Cameroon,6,4FW,Moumi Ngamaleu,Dynamo Moscow,False
+Cameroon,7,3MF,Georges-Kévin Nkoudou,Beşiktaş,False
+Cameroon,8,3MF,André-Frank Zambo Anguissa,Napoli,True
+Cameroon,9,4FW,Jean-Pierre Nsame,Young Boys,False
+Cameroon,10,4FW,Vincent Aboubakar*(captain)*,Al-Nassr,False
+Cameroon,11,4FW,Christian Bassogog,Shanghai Shenhua,False
+Cameroon,12,4FW,Karl Toko Ekambi,Lyon,True
+Cameroon,13,4FW,Eric Maxim Choupo-Moting,Bayern Munich,True
+Cameroon,14,3MF,Samuel Gouet,Mechelen,False
+Cameroon,15,3MF,Pierre Kunde,Olympiacos,False
+Cameroon,16,1GK,Devis Epassy,Abha,False
+Cameroon,17,2DF,Olivier Mbaizo,Philadelphia Union,False
+Cameroon,18,3MF,Martin Hongla,Hellas Verona,True
+Cameroon,19,2DF,Collins Fai,Al-Tai,False
+Cameroon,20,4FW,Bryan Mbeumo,Brentford,True
+Cameroon,21,2DF,Jean-Charles Castelletto,Nantes,True
+Cameroon,22,3MF,Olivier Ntcham,Swansea City,False
+Cameroon,23,1GK,André Onana,Internazionale,True
+Cameroon,24,2DF,Enzo Ebosse,Udinese,True
+Cameroon,25,2DF,Nouhou Tolo,Seattle Sounders FC,False
+Cameroon,26,3MF,Souaibou Marou,Coton Sport,False
+Serbia,1,1GK,Marko Dmitrović,Sevilla,True
+Serbia,2,2DF,Strahinja Pavlović,Red Bull Salzburg,False
+Serbia,3,2DF,Strahinja Eraković,Red Star Belgrade,False
+Serbia,4,2DF,Nikola Milenković,Fiorentina,True
+Serbia,5,2DF,Miloš Veljković,Werder Bremen,True
+Serbia,6,3MF,Nemanja Maksimović,Getafe,True
+Serbia,7,4FW,Nemanja Radonjić,Torino,True
+Serbia,8,3MF,Nemanja Gudelj,Sevilla,True
+Serbia,9,4FW,Aleksandar Mitrović,Fulham,True
+Serbia,10,4FW,Dušan Tadić*(captain)*,Ajax,True
+Serbia,11,4FW,Luka Jović,Fiorentina,True
+Serbia,12,1GK,Predrag Rajković,Mallorca,True
+Serbia,13,2DF,Stefan Mitrović,Getafe,True
+Serbia,14,3MF,Andrija Živković,PAOK,False
+Serbia,15,2DF,Srđan Babić,Almería,False
+Serbia,16,3MF,Saša Lukić,Torino,True
+Serbia,17,3MF,Filip Kostić,Juventus,True
+Serbia,18,4FW,Dušan Vlahović,Juventus,True
+Serbia,19,3MF,Uroš Račić,Braga,False
+Serbia,20,3MF,Sergej Milinković-Savić,Lazio,True
+Serbia,21,4FW,Filip Đuričić,Sampdoria,False
+Serbia,22,3MF,Darko Lazović,Hellas Verona,True
+Serbia,23,1GK,Vanja Milinković-Savić,Torino,True
+Serbia,24,3MF,Ivan Ilić,Hellas Verona,True
+Serbia,25,2DF,Filip Mladenović,Legia Warsaw,False
+Serbia,26,3MF,Marko Grujić,Porto,False
+Switzerland,1,1GK,Yann Sommer,Borussia Mönchengladbach,True
+Switzerland,2,2DF,Edimilson Fernandes,Mainz 05,True
+Switzerland,3,2DF,Silvan Widmer,Mainz 05,True
+Switzerland,4,2DF,Nico Elvedi,Borussia Mönchengladbach,True
+Switzerland,5,2DF,Manuel Akanji,Manchester City,True
+Switzerland,6,3MF,Denis Zakaria,Chelsea,True
+Switzerland,7,4FW,Breel Embolo,Monaco,True
+Switzerland,8,3MF,Remo Freuler,Nottingham Forest,True
+Switzerland,9,4FW,Haris Seferovic,Galatasaray,True
+Switzerland,10,3MF,Granit Xhaka*(captain)*,Arsenal,True
+Switzerland,11,2DF,Renato Steffen,Lugano,False
+Switzerland,12,1GK,Jonas Omlin,Montpellier,False
+Switzerland,13,2DF,Ricardo Rodriguez,Torino,True
+Switzerland,14,3MF,Michel Aebischer,Bologna,True
+Switzerland,15,3MF,Djibril Sow,Eintracht Frankfurt,True
+Switzerland,16,3MF,Christian Fassnacht,Young Boys,False
+Switzerland,17,4FW,Ruben Vargas,FC Augsburg,True
+Switzerland,18,2DF,Eray Cömert,Valencia,True
+Switzerland,19,4FW,Noah Okafor,Red Bull Salzburg,False
+Switzerland,20,3MF,Fabian Frei,Basel,False
+Switzerland,21,1GK,Gregor Kobel,Borussia Dortmund,True
+Switzerland,22,2DF,Fabian Schär,Newcastle United,True
+Switzerland,23,3MF,Xherdan Shaqiri,Chicago Fire FC,False
+Switzerland,24,1GK,Philipp Köhn,Red Bull Salzburg,False
+Switzerland,25,3MF,Fabian Rieder,Young Boys,False
+Switzerland,26,3MF,Ardon Jashari,Luzern,False
+Ghana,1,1GK,Lawrence Ati-Zigi,St. Gallen,False
+Ghana,2,2DF,Tariq Lamptey,Brighton & Hove Albion,True
+Ghana,3,2DF,Denis Odoi,Club Brugge,True
+Ghana,4,2DF,Mohammed Salisu,Southampton,False
+Ghana,5,3MF,Thomas Partey,Arsenal,True
+Ghana,6,3MF,Elisha Owusu,Gent,False
+Ghana,7,3MF,Abdul Fatawu Issahaku,Sporting CP,False
+Ghana,8,3MF,Daniel-Kofi Kyereh,SC Freiburg,True
+Ghana,9,4FW,Jordan Ayew,Crystal Palace,True
+Ghana,10,4FW,André Ayew*(captain)*,Al-Sadd,False
+Ghana,11,3MF,Osman Bukari,Red Star Belgrade,False
+Ghana,12,1GK,Ibrahim Danlad,Asante Kotoko,False
+Ghana,13,3MF,Daniel Afriyie,Hearts of Oak,False
+Ghana,14,2DF,Gideon Mensah,Auxerre,True
+Ghana,15,2DF,Joseph Aidoo,Celta Vigo,False
+Ghana,16,1GK,Abdul Manaf Nurudeen,Eupen,False
+Ghana,17,2DF,Baba Rahman,Reading,False
+Ghana,18,2DF,Daniel Amartey,Leicester City,False
+Ghana,19,4FW,Iñaki Williams,Athletic Bilbao,False
+Ghana,20,3MF,Mohammed Kudus,Ajax,True
+Ghana,21,3MF,Salis Abdul Samed,Lens,False
+Ghana,22,3MF,Kamaldeen Sulemana,Rennes,True
+Ghana,23,2DF,Alexander Djiku,Strasbourg,True
+Ghana,24,3MF,Kamal Sowah,Club Brugge,True
+Ghana,25,4FW,Antoine Semenyo,Bristol City,False
+Ghana,26,2DF,Alidu Seidu,Clermont,False
+Portugal,1,1GK,Rui Patrício,Roma,True
+Portugal,2,2DF,Diogo Dalot,Manchester United,True
+Portugal,3,2DF,Pepe,Porto,False
+Portugal,4,2DF,Rúben Dias,Manchester City,True
+Portugal,5,2DF,Raphaël Guerreiro,Borussia Dortmund,True
+Portugal,6,3MF,João Palhinha,Fulham,True
+Portugal,7,4FW,Cristiano Ronaldo*(captain)*,Manchester United,True
+Portugal,8,3MF,Bruno Fernandes,Manchester United,True
+Portugal,9,4FW,André Silva,RB Leipzig,True
+Portugal,10,4FW,Bernardo Silva,Manchester City,True
+Portugal,11,4FW,João Félix,Atlético Madrid,True
+Portugal,12,1GK,José Sá,Wolverhampton Wanderers,True
+Portugal,13,2DF,Danilo Pereira,Paris Saint-Germain,True
+Portugal,14,3MF,William Carvalho,Real Betis,True
+Portugal,15,4FW,Rafael Leão,Milan,True
+Portugal,16,3MF,Vitinha,Paris Saint-Germain,True
+Portugal,17,3MF,João Mário,Benfica,True
+Portugal,18,3MF,Rúben Neves,Wolverhampton Wanderers,True
+Portugal,19,2DF,Nuno Mendes,Paris Saint-Germain,True
+Portugal,20,2DF,João Cancelo,Manchester City,True
+Portugal,21,4FW,Ricardo Horta,Braga,False
+Portugal,22,1GK,Diogo Costa,Porto,False
+Portugal,23,3MF,Matheus Nunes,Wolverhampton Wanderers,True
+Portugal,24,2DF,António Silva,Benfica,True
+Portugal,25,3MF,Otávio,Porto,False
+Portugal,26,4FW,Gonçalo Ramos,Benfica,True
+South Korea,1,1GK,Kim Seung-gyu,Al-Shabab,False
+South Korea,2,2DF,Yoon Jong-gyu,FC Seoul,False
+South Korea,3,2DF,Kim Jin-su,Jeonbuk Hyundai Motors,False
+South Korea,4,2DF,Kim Min-jae,Napoli,True
+South Korea,5,3MF,Jung Woo-young,Al-Sadd,False
+South Korea,6,3MF,Hwang In-beom,Olympiacos,False
+South Korea,7,3MF,Son Heung-min*(captain)*,Tottenham Hotspur,True
+South Korea,8,3MF,Paik Seung-ho,Jeonbuk Hyundai Motors,False
+South Korea,9,4FW,Cho Gue-sung,Jeonbuk Hyundai Motors,False
+South Korea,10,3MF,Lee Jae-sung,Mainz 05,True
+South Korea,11,3MF,Hwang Hee-chan,Wolverhampton Wanderers,True
+South Korea,12,1GK,Song Bum-keun,Jeonbuk Hyundai Motors,False
+South Korea,13,3MF,Son Jun-ho,Shandong Taishan,False
+South Korea,14,2DF,Hong Chul,Daegu FC,False
+South Korea,15,2DF,Kim Moon-hwan,Jeonbuk Hyundai Motors,False
+South Korea,16,4FW,Hwang Ui-jo,Olympiacos,False
+South Korea,17,3MF,Na Sang-ho,FC Seoul,False
+South Korea,18,3MF,Lee Kang-in,Mallorca,True
+South Korea,19,2DF,Kim Young-gwon,Ulsan Hyundai,False
+South Korea,20,2DF,Kwon Kyung-won,Gamba Osaka,False
+South Korea,21,1GK,Jo Hyeon-woo,Ulsan Hyundai,False
+South Korea,22,3MF,Kwon Chang-hoon,Gimcheon Sangmu,False
+South Korea,23,2DF,Kim Tae-hwan,Ulsan Hyundai,False
+South Korea,24,2DF,Cho Yu-min,Daejeon Hana Citizen,False
+South Korea,25,3MF,Jeong Woo-yeong,SC Freiburg,True
+South Korea,26,3MF,Song Min-kyu,Jeonbuk Hyundai Motors,False
+Uruguay,1,1GK,Fernando Muslera,Galatasaray,True
+Uruguay,2,2DF,José Giménez,Atlético Madrid,True
+Uruguay,3,2DF,Diego Godín*(captain)*,Vélez Sarsfield,False
+Uruguay,4,2DF,Ronald Araújo,Barcelona,True
+Uruguay,5,3MF,Matías Vecino,Lazio,True
+Uruguay,6,3MF,Rodrigo Bentancur,Tottenham Hotspur,True
+Uruguay,7,3MF,Nicolás de la Cruz,River Plate,False
+Uruguay,8,4FW,Facundo Pellistri,Manchester United,True
+Uruguay,9,4FW,Luis Suárez,Nacional,False
+Uruguay,10,3MF,Giorgian de Arrascaeta,Flamengo,False
+Uruguay,11,4FW,Darwin Núñez,Liverpool,True
+Uruguay,12,1GK,Sebastián Sosa,Independiente,False
+Uruguay,13,2DF,Guillermo Varela,Flamengo,False
+Uruguay,14,3MF,Lucas Torreira,Galatasaray,True
+Uruguay,15,3MF,Federico Valverde,Real Madrid,True
+Uruguay,16,2DF,Mathías Olivera,Napoli,True
+Uruguay,17,2DF,Matías Viña,Roma,True
+Uruguay,18,4FW,Maxi Gómez,Trabzonspor,False
+Uruguay,19,2DF,Sebastián Coates,Sporting CP,False
+Uruguay,20,4FW,Facundo Torres,Orlando City SC,False
+Uruguay,21,4FW,Edinson Cavani,Valencia,True
+Uruguay,22,2DF,Martín Cáceres,LA Galaxy,False
+Uruguay,23,1GK,Sergio Rochet,Nacional,False
+Uruguay,24,3MF,Agustín Canobbio,Athletico Paranaense,False
+Uruguay,25,3MF,Manuel Ugarte,Sporting CP,False
+Uruguay,26,2DF,José Luis Rodríguez,Nacional,False

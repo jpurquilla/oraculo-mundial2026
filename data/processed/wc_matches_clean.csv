@@ -1,0 +1,901 @@
+date,year,host,round,home_team,away_team,home_score,away_score,home_xg,away_xg,attendance,home_manager,away_manager,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards
+2018-07-15,2018,Russia,Final,France,Croatia,4,2,1.1,1.1,78011,Didier Deschamps,Zlatko Dalić,2,1,0,0
+2018-07-14,2018,Russia,Third-place match,Belgium,England,2,0,1.5,1.0,64406,Roberto Martínez,Gareth Southgate,1,2,0,0
+2018-07-11,2018,Russia,Semi-finals,Croatia,England,2,1,1.7,0.6,78011,Zlatko Dalić,Gareth Southgate,2,1,0,0
+2018-07-10,2018,Russia,Semi-finals,France,Belgium,1,0,1.7,0.4,64286,Didier Deschamps,Roberto Martínez,2,3,0,0
+2018-07-07,2018,Russia,Quarter-finals,Sweden,England,0,2,0.5,1.0,39991,Janne Andersson,Gareth Southgate,2,1,0,0
+2018-07-07,2018,Russia,Quarter-finals,Russia,Croatia,2,2,1.0,1.7,44287,Stanislav Cherchesov,Zlatko Dalić,1,4,0,0
+2018-07-06,2018,Russia,Quarter-finals,Uruguay,France,0,2,0.9,0.5,43319,Óscar Tabárez,Didier Deschamps,2,2,0,0
+2018-07-06,2018,Russia,Quarter-finals,Brazil,Belgium,1,2,2.8,0.5,42873,Tite,Roberto Martínez,2,2,0,0
+2018-07-03,2018,Russia,Round of 16,Sweden,Switzerland,1,0,1.3,0.7,64042,Janne Andersson,Vladimir Petković,1,2,0,2
+2018-07-03,2018,Russia,Round of 16,Colombia,England,1,1,0.6,2.1,44190,José Pekerman,Gareth Southgate,6,2,0,0
+2018-07-02,2018,Russia,Round of 16,Brazil,Mexico,2,0,2.7,0.7,41970,Tite,Juan Carlos Osorio,2,4,0,0
+2018-07-02,2018,Russia,Round of 16,Belgium,Japan,3,2,2.5,0.7,41466,Roberto Martínez,Akira Nishino,0,1,0,0
+2018-07-01,2018,Russia,Round of 16,Spain,Russia,1,1,1.8,1.0,78011,Fernando Hierro,Stanislav Cherchesov,1,2,0,0
+2018-07-01,2018,Russia,Round of 16,Croatia,Denmark,1,1,2.5,0.9,40851,Zlatko Dalić,Åge Hareide,0,1,0,0
+2018-06-30,2018,Russia,Round of 16,France,Argentina,4,3,2.2,0.8,42873,Didier Deschamps,Jorge Sampaoli,3,5,0,0
+2018-06-30,2018,Russia,Round of 16,Uruguay,Portugal,2,1,0.6,1.0,44287,Óscar Tabárez,Fernando Santos,0,1,0,0
+2018-06-28,2018,Russia,Group stage,Japan,Poland,0,1,0.7,1.4,42189,Akira Nishino,Adam Nawałka,1,0,0,0
+2018-06-28,2018,Russia,Group stage,Senegal,Colombia,0,1,0.5,0.3,41970,Aliou Cissé,José Pekerman,1,1,0,0
+2018-06-28,2018,Russia,Group stage,England,Belgium,0,1,0.9,1.3,33973,Gareth Southgate,Roberto Martínez,0,2,0,0
+2018-06-28,2018,Russia,Group stage,Panama,Tunisia,1,2,0.6,2.1,37168,Hernán Darío Gómez,Nabil Maâloul,3,3,0,0
+2018-06-27,2018,Russia,Group stage,South Korea,Germany,2,0,1.7,2.7,41835,Shin Taeyong,Joachim Löw,4,0,0,0
+2018-06-27,2018,Russia,Group stage,Mexico,Sweden,0,3,1.4,2.4,33061,Juan Carlos Osorio,Janne Andersson,3,2,0,0
+2018-06-27,2018,Russia,Group stage,Switzerland,Costa Rica,2,2,1.4,1.5,43319,Vladimir Petković,Oscar Ramírez,3,3,0,0
+2018-06-27,2018,Russia,Group stage,Serbia,Brazil,0,2,0.8,1.4,44190,Mladen Krstajić,Tite,3,0,0,0
+2018-06-26,2018,Russia,Group stage,Australia,Peru,0,2,0.9,0.2,44073,Bert van Marwijk,Ricardo Gareca,4,2,0,0
+2018-06-26,2018,Russia,Group stage,Denmark,France,0,0,0.2,0.4,78011,Åge Hareide,Didier Deschamps,1,0,0,0
+2018-06-26,2018,Russia,Group stage,Iceland,Croatia,1,2,2.1,0.7,43472,Heimir Hallgrímsson,Zlatko Dalić,3,2,0,0
+2018-06-26,2018,Russia,Group stage,Nigeria,Argentina,1,2,1.4,0.9,64468,Gernot Rohr,Jorge Sampaoli,2,3,0,0
+2018-06-25,2018,Russia,Group stage,Saudi Arabia,Egypt,2,1,2.6,0.8,36823,Juan Antonio Pizzi,Héctor Cúper,0,2,0,0
+2018-06-25,2018,Russia,Group stage,Uruguay,Russia,3,0,2.4,0.1,41970,Óscar Tabárez,Stanislav Cherchesov,1,2,0,0
+2018-06-25,2018,Russia,Group stage,Spain,Morocco,2,2,2.9,1.2,33973,Fernando Hierro,Hervé Renard,0,6,0,0
+2018-06-25,2018,Russia,Group stage,Iran,Portugal,1,1,1.4,1.3,41685,Carlos Queiroz,Fernando Santos,2,4,0,0
+2018-06-24,2018,Russia,Group stage,England,Panama,6,1,2.8,1.1,43319,Gareth Southgate,Hernán Darío Gómez,1,3,0,0
+2018-06-24,2018,Russia,Group stage,Japan,Senegal,2,2,0.9,1.4,32572,Akira Nishino,Aliou Cissé,2,2,0,0
+2018-06-24,2018,Russia,Group stage,Poland,Colombia,0,3,1.1,2.1,42873,Adam Nawałka,José Pekerman,2,0,0,0
+2018-06-23,2018,Russia,Group stage,Belgium,Tunisia,5,2,5.2,1.1,44190,Roberto Martínez,Nabil Maâloul,0,1,0,0
+2018-06-23,2018,Russia,Group stage,South Korea,Mexico,1,2,0.9,1.9,43472,Shin Taeyong,Juan Carlos Osorio,4,0,0,0
+2018-06-23,2018,Russia,Group stage,Germany,Sweden,2,1,1.4,0.9,44287,Joachim Löw,Janne Andersson,1,2,0,0
+2018-06-22,2018,Russia,Group stage,Brazil,Costa Rica,2,0,2.6,0.1,64468,Tite,Oscar Ramírez,2,1,0,0
+2018-06-22,2018,Russia,Group stage,Nigeria,Iceland,2,0,0.9,1.3,40904,Gernot Rohr,Heimir Hallgrímsson,1,0,0,0
+2018-06-22,2018,Russia,Group stage,Serbia,Switzerland,1,2,1.5,2.1,33167,Mladen Krstajić,Vladimir Petković,4,1,0,0
+2018-06-21,2018,Russia,Group stage,Denmark,Australia,1,1,0.8,1.3,40727,Åge Hareide,Bert van Marwijk,2,0,0,0
+2018-06-21,2018,Russia,Group stage,France,Peru,1,0,2.0,0.4,32789,Didier Deschamps,Ricardo Gareca,2,2,0,0
+2018-06-21,2018,Russia,Group stage,Argentina,Croatia,0,3,1.3,1.9,43319,Jorge Sampaoli,Zlatko Dalić,3,4,0,0
+2018-06-20,2018,Russia,Group stage,Portugal,Morocco,1,0,1.2,0.9,78011,Fernando Santos,Hervé Renard,1,1,0,0
+2018-06-20,2018,Russia,Group stage,Uruguay,Saudi Arabia,1,0,1.7,0.3,42678,Óscar Tabárez,Juan Antonio Pizzi,0,0,0,0
+2018-06-20,2018,Russia,Group stage,Iran,Spain,0,1,0.7,1.9,42718,Carlos Queiroz,Fernando Hierro,2,0,0,0
+2018-06-19,2018,Russia,Group stage,Colombia,Japan,1,2,1.0,2.0,40842,José Pekerman,Akira Nishino,2,1,2,0
+2018-06-19,2018,Russia,Group stage,Poland,Senegal,1,2,0.8,1.0,44190,Adam Nawałka,Aliou Cissé,1,2,0,0
+2018-06-19,2018,Russia,Group stage,Russia,Egypt,3,1,1.2,1.4,64468,Stanislav Cherchesov,Héctor Cúper,1,1,0,0
+2018-06-18,2018,Russia,Group stage,Sweden,South Korea,1,0,2.3,0.3,42300,Janne Andersson,Shin Taeyong,1,2,0,0
+2018-06-18,2018,Russia,Group stage,Belgium,Panama,3,0,2.0,0.5,43257,Roberto Martínez,Hernán Darío Gómez,3,5,0,0
+2018-06-18,2018,Russia,Group stage,Tunisia,England,1,2,1.0,2.8,41064,Nabil Maâloul,Gareth Southgate,0,1,0,0
+2018-06-17,2018,Russia,Group stage,Costa Rica,Serbia,0,1,0.9,0.9,41432,Oscar Ramírez,Mladen Krstajić,2,2,0,0
+2018-06-17,2018,Russia,Group stage,Germany,Mexico,0,1,1.4,1.3,78011,Joachim Löw,Juan Carlos Osorio,2,2,0,0
+2018-06-17,2018,Russia,Group stage,Brazil,Switzerland,1,1,2.2,0.9,43109,Tite,Vladimir Petković,1,3,0,0
+2018-06-16,2018,Russia,Group stage,France,Australia,2,1,1.3,1.0,41279,Didier Deschamps,Bert van Marwijk,1,3,0,0
+2018-06-16,2018,Russia,Group stage,Argentina,Iceland,1,1,1.9,1.0,44190,Jorge Sampaoli,Heimir Hallgrímsson,0,0,0,0
+2018-06-16,2018,Russia,Group stage,Peru,Denmark,0,1,1.7,1.0,40502,Ricardo Gareca,Åge Hareide,1,2,0,0
+2018-06-16,2018,Russia,Group stage,Croatia,Nigeria,2,0,1.5,0.7,31136,Zlatko Dalić,Gernot Rohr,2,1,0,0
+2018-06-15,2018,Russia,Group stage,Egypt,Uruguay,0,1,0.3,1.6,27015,Héctor Cúper,Óscar Tabárez,2,0,0,0
+2018-06-15,2018,Russia,Group stage,Morocco,Iran,0,1,0.7,1.0,62548,Hervé Renard,Carlos Queiroz,1,3,0,0
+2018-06-15,2018,Russia,Group stage,Portugal,Spain,3,3,1.2,1.6,43866,Fernando Santos,Fernando Hierro,1,1,0,0
+2018-06-14,2018,Russia,Group stage,Russia,Saudi Arabia,5,0,1.7,0.2,78011,Stanislav Cherchesov,Juan Antonio Pizzi,1,1,0,0
+2014-07-13,2014,Brazil,Final,Germany,Argentina,1,0,0.0,0.0,74738,Joachim Löw,Alejandro Sabella,2,2,0,0
+2014-07-12,2014,Brazil,Third-place match,Brazil,Netherlands,0,3,0.0,0.0,68034,Luiz Felipe Scolari,Louis van Gaal,3,2,0,0
+2014-07-09,2014,Brazil,Semi-finals,Netherlands,Argentina,0,0,0.0,0.0,63267,Louis van Gaal,Alejandro Sabella,2,1,0,0
+2014-07-08,2014,Brazil,Semi-finals,Brazil,Germany,1,7,0.0,0.0,58141,Luiz Felipe Scolari,Joachim Löw,1,0,0,0
+2014-07-05,2014,Brazil,Quarter-finals,Argentina,Belgium,1,0,0.0,0.0,68551,Alejandro Sabella,Marc Wilmots,1,2,0,0
+2014-07-05,2014,Brazil,Quarter-finals,Netherlands,Costa Rica,0,0,0.0,0.0,51179,Louis van Gaal,Jorge Luis Pinto,2,4,0,0
+2014-07-04,2014,Brazil,Quarter-finals,France,Germany,0,1,0.0,0.0,74240,Didier Deschamps,Joachim Löw,0,2,0,0
+2014-07-04,2014,Brazil,Quarter-finals,Brazil,Colombia,2,1,0.0,0.0,60342,Luiz Felipe Scolari,José Pekerman,2,2,0,0
+2014-07-01,2014,Brazil,Round of 16,Argentina,Switzerland,1,0,0.0,0.0,63255,Alejandro Sabella,Ottmar Hitzfeld,3,2,0,0
+2014-07-01,2014,Brazil,Round of 16,Belgium,USA,2,1,0.0,0.0,51227,Marc Wilmots,Jürgen Klinsmann,1,1,0,0
+2014-06-30,2014,Brazil,Round of 16,France,Nigeria,2,0,0.0,0.0,67882,Didier Deschamps,Stephen Keshi,1,0,0,0
+2014-06-30,2014,Brazil,Round of 16,Germany,Algeria,2,1,0.0,0.0,43063,Joachim Löw,Vahid Halilhodžić,1,1,0,0
+2014-06-29,2014,Brazil,Round of 16,Netherlands,Mexico,2,1,0.0,0.0,58817,Louis van Gaal,Miguel Herrera,0,3,0,0
+2014-06-29,2014,Brazil,Round of 16,Costa Rica,Greece,1,1,0.0,0.0,41242,Jorge Luis Pinto,Fernando Santos,5,2,0,0
+2014-06-28,2014,Brazil,Round of 16,Brazil,Chile,1,1,0.0,0.0,57714,Luiz Felipe Scolari,Jorge Sampaoli,4,3,0,0
+2014-06-28,2014,Brazil,Round of 16,Colombia,Uruguay,2,0,0.0,0.0,73804,José Pekerman,Óscar Tabárez,1,3,0,0
+2014-06-26,2014,Brazil,Group stage,USA,Germany,0,1,0.0,0.0,41876,Jürgen Klinsmann,Joachim Löw,2,1,0,0
+2014-06-26,2014,Brazil,Group stage,Portugal,Ghana,2,1,0.0,0.0,67540,Paulo Bento,Kwesi Appiah,1,3,0,0
+2014-06-26,2014,Brazil,Group stage,South Korea,Belgium,0,1,0.0,0.0,61397,Hong Myung-bo,Marc Wilmots,1,1,0,2
+2014-06-26,2014,Brazil,Group stage,Algeria,Russia,1,1,0.0,0.0,39311,Vahid Halilhodžić,Fabio Capello,3,2,0,0
+2014-06-25,2014,Brazil,Group stage,Bosnia and Herzegovina,Iran,3,1,0.0,0.0,48011,Safet Sušić,Carlos Queiroz,1,1,0,0
+2014-06-25,2014,Brazil,Group stage,Nigeria,Argentina,2,3,0.0,0.0,43285,Stephen Keshi,Alejandro Sabella,2,0,0,0
+2014-06-25,2014,Brazil,Group stage,Honduras,Switzerland,0,3,0.0,0.0,40322,Luis Suárez,Ottmar Hitzfeld,1,0,0,0
+2014-06-25,2014,Brazil,Group stage,Ecuador,France,0,0,0.0,0.0,73749,Reinaldo Rueda,Didier Deschamps,1,0,2,0
+2014-06-24,2014,Brazil,Group stage,Costa Rica,England,0,0,0.0,0.0,57823,Jorge Luis Pinto,Roy Hodgson,1,2,0,0
+2014-06-24,2014,Brazil,Group stage,Italy,Uruguay,0,1,0.0,0.0,39706,Cesare Prandelli,Óscar Tabárez,2,2,2,0
+2014-06-24,2014,Brazil,Group stage,Japan,Colombia,1,4,0.0,0.0,40340,Alberto Zaccheroni,José Pekerman,1,1,0,0
+2014-06-24,2014,Brazil,Group stage,Greece,Ivory Coast,2,1,0.0,0.0,59095,Fernando Santos,Sabri Lamouchi,0,3,0,0
+2014-06-23,2014,Brazil,Group stage,Australia,Spain,0,3,0.0,0.0,39375,Ange Postecoglou,Del Bosque,2,1,0,0
+2014-06-23,2014,Brazil,Group stage,Netherlands,Chile,2,0,0.0,0.0,62996,Louis van Gaal,Jorge Sampaoli,1,1,0,0
+2014-06-23,2014,Brazil,Group stage,Croatia,Mexico,1,3,0.0,0.0,41212,Niko Kovač,Miguel Herrera,1,2,2,0
+2014-06-23,2014,Brazil,Group stage,Cameroon,Brazil,1,4,0.0,0.0,69112,Volker Finke,Luiz Felipe Scolari,3,0,0,0
+2014-06-22,2014,Brazil,Group stage,Belgium,Russia,1,0,0.0,0.0,73819,Marc Wilmots,Fabio Capello,2,1,0,0
+2014-06-22,2014,Brazil,Group stage,South Korea,Algeria,2,4,0.0,0.0,42732,Hong Myung-bo,Vahid Halilhodžić,2,1,0,0
+2014-06-22,2014,Brazil,Group stage,USA,Portugal,2,2,0.0,0.0,40123,Jürgen Klinsmann,Paulo Bento,1,0,0,0
+2014-06-21,2014,Brazil,Group stage,Argentina,Iran,1,0,0.0,0.0,57698,Alejandro Sabella,Carlos Queiroz,0,2,0,0
+2014-06-21,2014,Brazil,Group stage,Germany,Ghana,2,2,0.0,0.0,59621,Joachim Löw,Kwesi Appiah,0,1,0,0
+2014-06-21,2014,Brazil,Group stage,Nigeria,Bosnia and Herzegovina,1,0,0.0,0.0,40499,Stephen Keshi,Safet Sušić,1,1,0,0
+2014-06-20,2014,Brazil,Group stage,Italy,Costa Rica,0,1,0.0,0.0,40285,Cesare Prandelli,Jorge Luis Pinto,1,1,0,0
+2014-06-20,2014,Brazil,Group stage,Switzerland,France,2,5,0.0,0.0,51003,Ottmar Hitzfeld,Didier Deschamps,0,1,0,0
+2014-06-20,2014,Brazil,Group stage,Honduras,Ecuador,1,2,0.0,0.0,39224,Luis Suárez,Reinaldo Rueda,2,3,0,0
+2014-06-19,2014,Brazil,Group stage,Colombia,Ivory Coast,2,1,0.0,0.0,68748,José Pekerman,Sabri Lamouchi,0,2,0,0
+2014-06-19,2014,Brazil,Group stage,Uruguay,England,2,1,0.0,0.0,62575,Óscar Tabárez,Roy Hodgson,1,1,0,0
+2014-06-19,2014,Brazil,Group stage,Japan,Greece,0,0,0.0,0.0,39485,Alberto Zaccheroni,Fernando Santos,1,3,0,0
+2014-06-18,2014,Brazil,Group stage,Australia,Netherlands,2,3,0.0,0.0,42877,Ange Postecoglou,Louis van Gaal,1,1,0,0
+2014-06-18,2014,Brazil,Group stage,Spain,Chile,0,2,0.0,0.0,74101,Del Bosque,Jorge Sampaoli,1,2,0,0
+2014-06-18,2014,Brazil,Group stage,Cameroon,Croatia,0,4,0.0,0.0,39982,Volker Finke,Niko Kovač,0,1,2,0
+2014-06-17,2014,Brazil,Group stage,Belgium,Algeria,2,1,0.0,0.0,56800,Marc Wilmots,Vahid Halilhodžić,1,1,0,0
+2014-06-17,2014,Brazil,Group stage,Brazil,Mexico,0,0,0.0,0.0,60342,Luiz Felipe Scolari,Miguel Herrera,2,2,0,0
+2014-06-17,2014,Brazil,Group stage,Russia,South Korea,1,1,0.0,0.0,37603,Fabio Capello,Hong Myung-bo,1,3,0,0
+2014-06-16,2014,Brazil,Group stage,Germany,Portugal,4,0,0.0,0.0,51081,Joachim Löw,Paulo Bento,0,1,0,2
+2014-06-16,2014,Brazil,Group stage,Iran,Nigeria,0,0,0.0,0.0,39081,Carlos Queiroz,Stephen Keshi,1,0,0,0
+2014-06-16,2014,Brazil,Group stage,Ghana,USA,1,2,0.0,0.0,39760,Kwesi Appiah,Jürgen Klinsmann,2,0,0,0
+2014-06-15,2014,Brazil,Group stage,Switzerland,Ecuador,2,1,0.0,0.0,68351,Ottmar Hitzfeld,Reinaldo Rueda,1,1,0,0
+2014-06-15,2014,Brazil,Group stage,France,Honduras,3,0,0.0,0.0,43012,Didier Deschamps,Luis Suárez,3,3,0,0
+2014-06-15,2014,Brazil,Group stage,Argentina,Bosnia and Herzegovina,2,1,0.0,0.0,74738,Alejandro Sabella,Safet Sušić,1,1,0,0
+2014-06-14,2014,Brazil,Group stage,Colombia,Greece,3,0,0.0,0.0,57174,José Pekerman,Fernando Santos,1,2,0,0
+2014-06-14,2014,Brazil,Group stage,Uruguay,Costa Rica,1,3,0.0,0.0,58679,Óscar Tabárez,Jorge Luis Pinto,3,0,2,0
+2014-06-14,2014,Brazil,Group stage,England,Italy,1,2,0.0,0.0,39800,Roy Hodgson,Cesare Prandelli,1,0,0,0
+2014-06-14,2014,Brazil,Group stage,Ivory Coast,Japan,2,1,0.0,0.0,40267,Sabri Lamouchi,Alberto Zaccheroni,2,2,0,0
+2014-06-13,2014,Brazil,Group stage,Mexico,Cameroon,1,0,0.0,0.0,39216,Miguel Herrera,Volker Finke,1,1,0,0
+2014-06-13,2014,Brazil,Group stage,Spain,Netherlands,1,5,0.0,0.0,48173,Del Bosque,Louis van Gaal,1,3,0,0
+2014-06-13,2014,Brazil,Group stage,Chile,Australia,3,1,0.0,0.0,40275,Jorge Sampaoli,Ange Postecoglou,1,3,0,0
+2014-06-12,2014,Brazil,Group stage,Brazil,Croatia,3,1,0.0,0.0,62103,Luiz Felipe Scolari,Niko Kovač,2,2,0,0
+2010-07-11,2010,South Africa,Final,Netherlands,Spain,0,1,0.0,0.0,84490,Bert van Marwijk,Vicente del Bosque,8,5,0,0
+2010-07-10,2010,South Africa,Third-place match,Uruguay,Germany,2,3,0.0,0.0,36254,Óscar Tabárez,Joachim Löw,1,2,0,0
+2010-07-07,2010,South Africa,Semi-finals,Germany,Spain,0,1,0.0,0.0,60960,Joachim Löw,Vicente del Bosque,0,0,0,0
+2010-07-06,2010,South Africa,Semi-finals,Uruguay,Netherlands,2,3,0.0,0.0,62479,Óscar Tabárez,Bert van Marwijk,2,3,0,0
+2010-07-03,2010,South Africa,Quarter-finals,Argentina,Germany,0,4,0.0,0.0,64100,Diego Maradona,Joachim Löw,2,1,0,0
+2010-07-03,2010,South Africa,Quarter-finals,Paraguay,Spain,0,1,0.0,0.0,55359,Gerardo Martino,Vicente del Bosque,4,2,0,0
+2010-07-02,2010,South Africa,Quarter-finals,Netherlands,Brazil,2,1,0.0,0.0,40186,Bert van Marwijk,Dunga,4,1,0,0
+2010-07-02,2010,South Africa,Quarter-finals,Uruguay,Ghana,1,1,0.0,0.0,84017,Óscar Tabárez,Milovan Rajevac,3,3,2,0
+2010-06-29,2010,South Africa,Round of 16,Paraguay,Japan,0,0,0.0,0.0,36742,Gerardo Martino,Takeshi Okada,1,4,0,0
+2010-06-29,2010,South Africa,Round of 16,Spain,Portugal,1,0,0.0,0.0,62955,Vicente del Bosque,Carlos Queiroz,1,1,0,2
+2010-06-28,2010,South Africa,Round of 16,Netherlands,Slovakia,2,1,0.0,0.0,61962,Bert van Marwijk,Vladimír Weiss,2,2,0,0
+2010-06-28,2010,South Africa,Round of 16,Brazil,Chile,3,0,0.0,0.0,54096,Dunga,Marcelo Bielsa,2,3,0,0
+2010-06-27,2010,South Africa,Round of 16,Germany,England,4,1,0.0,0.0,40510,Joachim Löw,Fabio Capello,1,1,0,0
+2010-06-27,2010,South Africa,Round of 16,Argentina,Mexico,3,1,0.0,0.0,84377,Diego Maradona,Javier Aguirre,0,1,0,0
+2010-06-26,2010,South Africa,Round of 16,Uruguay,South Korea,2,1,0.0,0.0,30597,Óscar Tabárez,Huh Jung-moo,0,3,0,0
+2010-06-26,2010,South Africa,Round of 16,USA,Ghana,1,2,0.0,0.0,34976,Bob Bradley,Milovan Rajevac,3,2,0,0
+2010-06-25,2010,South Africa,Group stage,Portugal,Brazil,0,0,0.0,0.0,62712,Carlos Queiroz,Dunga,4,3,0,0
+2010-06-25,2010,South Africa,Group stage,North Korea,Ivory Coast,0,3,0.0,0.0,34763,Kim Jong-hun,Sven-Göran Eriksson,0,0,0,0
+2010-06-25,2010,South Africa,Group stage,Chile,Spain,1,2,0.0,0.0,41958,Marcelo Bielsa,Vicente del Bosque,3,0,0,0
+2010-06-25,2010,South Africa,Group stage,Switzerland,Honduras,0,0,0.0,0.0,28042,Ottmar Hitzfeld,Reinaldo Rueda,1,4,0,0
+2010-06-24,2010,South Africa,Group stage,Paraguay,New Zealand,0,0,0.0,0.0,34850,Gerardo Martino,Ricki Herbert,2,1,0,0
+2010-06-24,2010,South Africa,Group stage,Slovakia,Italy,3,2,0.0,0.0,53412,Vladimír Weiss,Marcello Lippi,4,4,0,0
+2010-06-24,2010,South Africa,Group stage,Denmark,Japan,1,3,0.0,0.0,27967,Morten Olsen,Takeshi Okada,3,2,0,0
+2010-06-24,2010,South Africa,Group stage,Cameroon,Netherlands,1,2,0.0,0.0,63093,Paul Le Guen,Bert van Marwijk,2,3,0,0
+2010-06-23,2010,South Africa,Group stage,Slovenia,England,0,1,0.0,0.0,36893,Matjaž Kek,Fabio Capello,3,1,0,0
+2010-06-23,2010,South Africa,Group stage,USA,Algeria,1,0,0.0,0.0,35827,Bob Bradley,Rabah Saâdane,2,3,0,0
+2010-06-23,2010,South Africa,Group stage,Ghana,Germany,0,1,0.0,0.0,83391,Milovan Rajevac,Joachim Löw,1,1,0,0
+2010-06-23,2010,South Africa,Group stage,Australia,Serbia,2,1,0.0,0.0,37836,Pim Verbeek,Radomir Antić,3,2,0,0
+2010-06-22,2010,South Africa,Group stage,Mexico,Uruguay,0,1,0.0,0.0,33425,Javier Aguirre,Óscar Tabárez,2,1,0,0
+2010-06-22,2010,South Africa,Group stage,France,South Africa,1,2,0.0,0.0,39415,Raymond Domenech,Carlos Alberto Parreira,1,0,2,0
+2010-06-22,2010,South Africa,Group stage,Nigeria,South Korea,2,2,0.0,0.0,61874,Lars Lagerbäck,Huh Jung-moo,3,1,0,0
+2010-06-22,2010,South Africa,Group stage,Greece,Argentina,0,2,0.0,0.0,38891,Otto Rehhagel,Diego Maradona,1,1,0,0
+2010-06-21,2010,South Africa,Group stage,Portugal,North Korea,7,0,0.0,0.0,63644,Carlos Queiroz,Kim Jong-hun,2,2,0,0
+2010-06-21,2010,South Africa,Group stage,Chile,Switzerland,1,0,0.0,0.0,34872,Marcelo Bielsa,Ottmar Hitzfeld,6,3,0,0
+2010-06-21,2010,South Africa,Group stage,Spain,Honduras,2,0,0.0,0.0,54386,Vicente del Bosque,Reinaldo Rueda,0,2,0,0
+2010-06-20,2010,South Africa,Group stage,Slovakia,Paraguay,0,2,0.0,0.0,26643,Vladimír Weiss,Gerardo Martino,3,1,0,0
+2010-06-20,2010,South Africa,Group stage,Italy,New Zealand,1,1,0.0,0.0,38229,Marcello Lippi,Ricki Herbert,0,3,0,0
+2010-06-20,2010,South Africa,Group stage,Brazil,Ivory Coast,3,1,0.0,0.0,84455,Dunga,Sven-Göran Eriksson,1,2,0,0
+2010-06-19,2010,South Africa,Group stage,Netherlands,Japan,1,0,0.0,0.0,62010,Bert van Marwijk,Takeshi Okada,1,0,0,0
+2010-06-19,2010,South Africa,Group stage,Ghana,Australia,1,1,0.0,0.0,34812,Milovan Rajevac,Pim Verbeek,3,1,0,2
+2010-06-19,2010,South Africa,Group stage,Cameroon,Denmark,1,2,0.0,0.0,38074,Paul Le Guen,Morten Olsen,2,2,0,0
+2010-06-18,2010,South Africa,Group stage,Germany,Serbia,0,1,0.0,0.0,38294,Joachim Löw,Radomir Antić,4,4,0,0
+2010-06-18,2010,South Africa,Group stage,Slovenia,USA,2,2,0.0,0.0,45573,Matjaž Kek,Bob Bradley,4,1,0,0
+2010-06-18,2010,South Africa,Group stage,England,Algeria,0,0,0.0,0.0,64100,Fabio Capello,Rabah Saâdane,1,1,0,0
+2010-06-17,2010,South Africa,Group stage,Argentina,South Korea,4,1,0.0,0.0,82174,Diego Maradona,Huh Jung-moo,3,2,0,0
+2010-06-17,2010,South Africa,Group stage,Greece,Nigeria,2,1,0.0,0.0,31593,Otto Rehhagel,Lars Lagerbäck,3,1,0,0
+2010-06-17,2010,South Africa,Group stage,France,Mexico,0,2,0.0,0.0,35370,Raymond Domenech,Javier Aguirre,2,4,0,0
+2010-06-16,2010,South Africa,Group stage,Honduras,Chile,0,1,0.0,0.0,32664,Reinaldo Rueda,Marcelo Bielsa,1,2,0,0
+2010-06-16,2010,South Africa,Group stage,Spain,Switzerland,0,1,0.0,0.0,62453,Vicente del Bosque,Ottmar Hitzfeld,0,4,0,0
+2010-06-16,2010,South Africa,Group stage,South Africa,Uruguay,0,3,0.0,0.0,42658,Carlos Alberto Parreira,Óscar Tabárez,3,0,0,0
+2010-06-15,2010,South Africa,Group stage,New Zealand,Slovakia,1,1,0.0,0.0,23871,Ricki Herbert,Vladimír Weiss,2,1,0,0
+2010-06-15,2010,South Africa,Group stage,Ivory Coast,Portugal,0,0,0.0,0.0,37034,Sven-Göran Eriksson,Carlos Queiroz,2,1,0,0
+2010-06-15,2010,South Africa,Group stage,Brazil,North Korea,2,1,0.0,0.0,54331,Dunga,Kim Jong-hun,1,0,0,0
+2010-06-14,2010,South Africa,Group stage,Netherlands,Denmark,2,0,0.0,0.0,83465,Bert van Marwijk,Morten Olsen,2,1,0,0
+2010-06-14,2010,South Africa,Group stage,Japan,Cameroon,1,0,0.0,0.0,30620,Takeshi Okada,Paul Le Guen,1,1,0,0
+2010-06-14,2010,South Africa,Group stage,Italy,Paraguay,1,1,0.0,0.0,62869,Marcello Lippi,Gerardo Martino,1,1,0,0
+2010-06-13,2010,South Africa,Group stage,Algeria,Slovenia,0,1,0.0,0.0,30325,Rabah Saâdane,Matjaž Kek,2,1,0,0
+2010-06-13,2010,South Africa,Group stage,Serbia,Ghana,0,1,0.0,0.0,38833,Radomir Antić,Milovan Rajevac,2,2,0,0
+2010-06-13,2010,South Africa,Group stage,Germany,Australia,4,0,0.0,0.0,62660,Joachim Löw,Pim Verbeek,1,3,0,2
+2010-06-12,2010,South Africa,Group stage,South Korea,Greece,2,0,0.0,0.0,31513,Huh Jung-moo,Otto Rehhagel,0,1,0,0
+2010-06-12,2010,South Africa,Group stage,Argentina,Nigeria,1,0,0.0,0.0,55686,Diego Maradona,Lars Lagerbäck,1,1,0,0
+2010-06-12,2010,South Africa,Group stage,England,USA,1,1,0.0,0.0,38646,Fabio Capello,Bob Bradley,2,3,0,0
+2010-06-11,2010,South Africa,Group stage,South Africa,Mexico,1,1,0.0,0.0,84490,Carlos Alberto Parreira,Javier Aguirre,2,2,0,0
+2010-06-11,2010,South Africa,Group stage,Uruguay,France,0,0,0.0,0.0,64100,Óscar Tabárez,Raymond Domenech,3,3,2,0
+2006-07-09,2006,Germany,Final,Italy,France,1,1,0.0,0.0,69000,Marcello Lippi,Raymond Domenech,1,3,0,2
+2006-07-08,2006,Germany,Third-place match,Germany,Portugal,3,1,0.0,0.0,52000,Jürgen Klinsmann,Luiz Felipe Scolari,2,3,0,0
+2006-07-05,2006,Germany,Semi-finals,Portugal,France,0,1,0.0,0.0,66000,Luiz Felipe Scolari,Raymond Domenech,1,1,0,0
+2006-07-04,2006,Germany,Semi-finals,Germany,Italy,0,2,0.0,0.0,65000,Jürgen Klinsmann,Marcello Lippi,2,1,0,0
+2006-07-01,2006,Germany,Quarter-finals,England,Portugal,0,0,0.0,0.0,52000,Sven-Göran Eriksson,Luiz Felipe Scolari,2,2,2,0
+2006-07-01,2006,Germany,Quarter-finals,Brazil,France,0,1,0.0,0.0,48000,Carlos Alberto Parreira,Raymond Domenech,4,3,0,0
+2006-06-30,2006,Germany,Quarter-finals,Germany,Argentina,1,1,0.0,0.0,72000,Jürgen Klinsmann,José Pékerman,3,4,0,0
+2006-06-30,2006,Germany,Quarter-finals,Italy,Ukraine,3,0,0.0,0.0,50000,Marcello Lippi,Oleh Blokhin,0,3,0,0
+2006-06-27,2006,Germany,Round of 16,Brazil,Ghana,3,0,0.0,0.0,65000,Carlos Alberto Parreira,Ratomir Dujković,2,5,0,0
+2006-06-27,2006,Germany,Round of 16,Spain,France,1,3,0.0,0.0,43000,Luis Aragonés,Raymond Domenech,1,3,0,0
+2006-06-26,2006,Germany,Round of 16,Italy,Australia,1,0,0.0,0.0,46000,Marcello Lippi,Guus Hiddink,3,3,2,0
+2006-06-26,2006,Germany,Round of 16,Switzerland,Ukraine,0,0,0.0,0.0,45000,Köbi Kuhn,Oleh Blokhin,1,0,0,0
+2006-06-25,2006,Germany,Round of 16,England,Ecuador,1,0,0.0,0.0,52000,Sven-Göran Eriksson,Luis Fernando Suárez,3,3,0,0
+2006-06-25,2006,Germany,Round of 16,Portugal,Netherlands,1,0,0.0,0.0,41000,Luiz Felipe Scolari,Marco van Basten,7,5,0,0
+2006-06-24,2006,Germany,Round of 16,Germany,Sweden,2,0,0.0,0.0,66000,Jürgen Klinsmann,Lars Lagerbäck,1,3,0,0
+2006-06-24,2006,Germany,Round of 16,Argentina,Mexico,2,1,0.0,0.0,43000,José Pékerman,Ricardo La Volpe,2,4,0,0
+2006-06-23,2006,Germany,Group stage,Saudi Arabia,Spain,0,1,0.0,0.0,46000,Marcos Paquetá,Luis Aragonés,2,3,0,0
+2006-06-23,2006,Germany,Group stage,Ukraine,Tunisia,1,0,0.0,0.0,72000,Oleh Blokhin,Roger Lemerre,4,3,0,0
+2006-06-23,2006,Germany,Group stage,Togo,France,0,2,0.0,0.0,45000,Otto Pfister,Raymond Domenech,3,1,0,0
+2006-06-23,2006,Germany,Group stage,Switzerland,South Korea,2,0,0.0,0.0,43000,Köbi Kuhn,Dick Advocaat,5,5,0,0
+2006-06-22,2006,Germany,Group stage,Ghana,USA,2,1,0.0,0.0,41000,Ratomir Dujković,Bruce Arena,4,1,0,0
+2006-06-22,2006,Germany,Group stage,Czechia,Italy,0,2,0.0,0.0,50000,Karel Brückner,Marcello Lippi,1,1,0,0
+2006-06-22,2006,Germany,Group stage,Japan,Brazil,1,4,0.0,0.0,65000,Zico,Carlos Alberto Parreira,1,1,0,0
+2006-06-22,2006,Germany,Group stage,Croatia,Australia,2,2,0.0,0.0,52000,Zlatko Kranjčar,Guus Hiddink,4,1,0,0
+2006-06-21,2006,Germany,Group stage,Portugal,Mexico,2,1,0.0,0.0,52000,Luiz Felipe Scolari,Ricardo La Volpe,4,4,0,0
+2006-06-21,2006,Germany,Group stage,Iran,Angola,1,1,0.0,0.0,38000,Branko Ivanković,Oliveira Gonçalves,3,3,0,0
+2006-06-21,2006,Germany,Group stage,Ivory Coast,Serbia and Montenegro,3,2,0.0,0.0,66000,Henri Michel,Ilija Petković,3,4,0,0
+2006-06-21,2006,Germany,Group stage,Netherlands,Argentina,0,0,0.0,0.0,48000,Marco van Basten,José Pékerman,3,2,0,0
+2006-06-20,2006,Germany,Group stage,Costa Rica,Poland,1,2,0.0,0.0,43000,Alexandre Guimarães,Paweł Janas,5,5,0,0
+2006-06-20,2006,Germany,Group stage,Ecuador,Germany,0,3,0.0,0.0,72000,Luis Fernando Suárez,Jürgen Klinsmann,1,1,0,0
+2006-06-20,2006,Germany,Group stage,Paraguay,Trinidad & Tobago,2,0,0.0,0.0,46000,Aníbal Ruiz,Leo Beenhakker,2,2,0,0
+2006-06-20,2006,Germany,Group stage,Sweden,England,2,2,0.0,0.0,45000,Lars Lagerbäck,Sven-Göran Eriksson,2,1,0,0
+2006-06-19,2006,Germany,Group stage,Togo,Switzerland,0,2,0.0,0.0,65000,Otto Pfister,Köbi Kuhn,4,0,0,0
+2006-06-19,2006,Germany,Group stage,Saudi Arabia,Ukraine,0,4,0.0,0.0,50000,Marcos Paquetá,Oleh Blokhin,3,3,0,0
+2006-06-19,2006,Germany,Group stage,Spain,Tunisia,3,1,0.0,0.0,52000,Luis Aragonés,Roger Lemerre,2,6,0,0
+2006-06-18,2006,Germany,Group stage,Japan,Croatia,0,0,0.0,0.0,41000,Zico,Zlatko Kranjčar,3,2,0,0
+2006-06-18,2006,Germany,Group stage,Brazil,Australia,2,0,0.0,0.0,66000,Carlos Alberto Parreira,Guus Hiddink,3,2,0,0
+2006-06-18,2006,Germany,Group stage,France,South Korea,1,1,0.0,0.0,43000,Raymond Domenech,Dick Advocaat,2,2,0,0
+2006-06-17,2006,Germany,Group stage,Portugal,Iran,2,0,0.0,0.0,48000,Luiz Felipe Scolari,Branko Ivanković,3,4,0,0
+2006-06-17,2006,Germany,Group stage,Czechia,Ghana,0,2,0.0,0.0,45000,Karel Brückner,Ratomir Dujković,1,6,2,0
+2006-06-17,2006,Germany,Group stage,Italy,USA,1,1,0.0,0.0,46000,Marcello Lippi,Bruce Arena,2,1,2,2
+2006-06-16,2006,Germany,Group stage,Argentina,Serbia and Montenegro,6,0,0.0,0.0,52000,José Pékerman,Ilija Petković,1,3,0,2
+2006-06-16,2006,Germany,Group stage,Netherlands,Ivory Coast,2,1,0.0,0.0,52000,Marco van Basten,Henri Michel,4,3,0,0
+2006-06-16,2006,Germany,Group stage,Mexico,Angola,0,0,0.0,0.0,43000,Ricardo La Volpe,Oliveira Gonçalves,1,4,0,0
+2006-06-15,2006,Germany,Group stage,Ecuador,Costa Rica,3,0,0.0,0.0,50000,Luis Fernando Suárez,Alexandre Guimarães,3,2,0,0
+2006-06-15,2006,Germany,Group stage,England,Trinidad & Tobago,2,0,0.0,0.0,41000,Sven-Göran Eriksson,Leo Beenhakker,1,5,0,0
+2006-06-15,2006,Germany,Group stage,Sweden,Paraguay,1,0,0.0,0.0,72000,Lars Lagerbäck,Aníbal Ruiz,3,5,0,0
+2006-06-14,2006,Germany,Group stage,Spain,Ukraine,4,0,0.0,0.0,43000,Luis Aragonés,Oleh Blokhin,0,2,0,2
+2006-06-14,2006,Germany,Group stage,Tunisia,Saudi Arabia,2,2,0.0,0.0,66000,Roger Lemerre,Marcos Paquetá,4,0,0,0
+2006-06-14,2006,Germany,Group stage,Germany,Poland,1,0,0.0,0.0,65000,Jürgen Klinsmann,Paweł Janas,3,3,0,0
+2006-06-13,2006,Germany,Group stage,South Korea,Togo,2,1,0.0,0.0,48000,Dick Advocaat,Otto Pfister,2,3,0,0
+2006-06-13,2006,Germany,Group stage,France,Switzerland,0,0,0.0,0.0,52000,Raymond Domenech,Köbi Kuhn,3,5,0,0
+2006-06-13,2006,Germany,Group stage,Brazil,Croatia,1,0,0.0,0.0,72000,Carlos Alberto Parreira,Zlatko Kranjčar,1,3,0,0
+2006-06-12,2006,Germany,Group stage,Australia,Japan,3,1,0.0,0.0,46000,Guus Hiddink,Zico,4,3,0,0
+2006-06-12,2006,Germany,Group stage,USA,Czechia,0,3,0.0,0.0,52000,Bruce Arena,Karel Brückner,2,4,0,0
+2006-06-12,2006,Germany,Group stage,Italy,Ghana,2,0,0.0,0.0,43000,Marcello Lippi,Ratomir Dujković,3,2,0,0
+2006-06-11,2006,Germany,Group stage,Serbia and Montenegro,Netherlands,0,1,0.0,0.0,37216,Ilija Petković,Marco van Basten,4,2,0,0
+2006-06-11,2006,Germany,Group stage,Mexico,Iran,3,1,0.0,0.0,41000,Ricardo La Volpe,Branko Ivanković,2,1,0,0
+2006-06-11,2006,Germany,Group stage,Angola,Portugal,0,1,0.0,0.0,45000,Oliveira Gonçalves,Luiz Felipe Scolari,3,2,0,0
+2006-06-10,2006,Germany,Group stage,England,Paraguay,1,0,0.0,0.0,48000,Sven-Göran Eriksson,Aníbal Ruiz,2,1,0,0
+2006-06-10,2006,Germany,Group stage,Trinidad & Tobago,Sweden,0,0,0.0,0.0,62959,Leo Beenhakker,Lars Lagerbäck,2,1,0,0
+2006-06-10,2006,Germany,Group stage,Argentina,Ivory Coast,2,1,0.0,0.0,49480,José Pékerman,Henri Michel,3,2,0,0
+2006-06-09,2006,Germany,Group stage,Germany,Costa Rica,4,2,0.0,0.0,64950,Jürgen Klinsmann,Alexandre Guimarães,0,1,0,0
+2006-06-09,2006,Germany,Group stage,Poland,Ecuador,0,2,0.0,0.0,52000,Paweł Janas,Luis Fernando Suárez,1,2,0,0
+2002-06-30,2002,"Korea Republic, Japan",Final,Germany,Brazil,0,2,0.0,0.0,69029,Rudi Völler,Luiz Felipe Scolari,1,1,0,0
+2002-06-29,2002,"Korea Republic, Japan",Third-place match,South Korea,Turkey,2,3,0.0,0.0,63483,Guus Hiddink,Şenol Güneş,1,2,0,0
+2002-06-26,2002,"Korea Republic, Japan",Semi-finals,Brazil,Turkey,1,0,0.0,0.0,61058,Luiz Felipe Scolari,Şenol Güneş,1,2,0,0
+2002-06-25,2002,"Korea Republic, Japan",Semi-finals,Germany,South Korea,1,0,0.0,0.0,65625,Rudi Völler,Guus Hiddink,2,1,0,0
+2002-06-22,2002,"Korea Republic, Japan",Quarter-finals,Spain,South Korea,0,0,0.0,0.0,42114,José Antonio Camacho,Guus Hiddink,2,1,0,0
+2002-06-22,2002,"Korea Republic, Japan",Quarter-finals,Senegal,Turkey,0,1,0.0,0.0,44233,Bruno Metsu,Şenol Güneş,2,2,0,0
+2002-06-21,2002,"Korea Republic, Japan",Quarter-finals,England,Brazil,1,2,0.0,0.0,47436,Sven-Göran Eriksson,Luiz Felipe Scolari,2,0,0,2
+2002-06-21,2002,"Korea Republic, Japan",Quarter-finals,Germany,USA,1,0,0.0,0.0,37337,Rudi Völler,Bruce Arena,2,5,0,0
+2002-06-18,2002,"Korea Republic, Japan",Round of 16,Japan,Turkey,0,1,0.0,0.0,45666,Philippe Troussier,Şenol Güneş,1,3,0,0
+2002-06-18,2002,"Korea Republic, Japan",Round of 16,South Korea,Italy,2,1,0.0,0.0,38588,Guus Hiddink,Giovanni Trapattoni,4,4,0,0
+2002-06-17,2002,"Korea Republic, Japan",Round of 16,Mexico,USA,0,2,0.0,0.0,36380,Javier Aguirre,Bruce Arena,5,5,2,0
+2002-06-17,2002,"Korea Republic, Japan",Round of 16,Brazil,Belgium,2,0,0.0,0.0,40440,Luiz Felipe Scolari,Robert Waseige,1,1,0,0
+2002-06-16,2002,"Korea Republic, Japan",Round of 16,Sweden,Senegal,1,2,0.0,0.0,39747,Lars Lagerbäck,Bruno Metsu,0,2,0,0
+2002-06-16,2002,"Korea Republic, Japan",Round of 16,Spain,Ireland,1,1,0.0,0.0,38926,José Antonio Camacho,Mick McCarthy,3,0,0,0
+2002-06-15,2002,"Korea Republic, Japan",Round of 16,Germany,Paraguay,1,0,0.0,0.0,25176,Rudi Völler,Cesare Maldini,3,2,0,2
+2002-06-15,2002,"Korea Republic, Japan",Round of 16,Denmark,England,0,3,0.0,0.0,40582,Morten Olsen,Sven-Göran Eriksson,1,1,0,0
+2002-06-14,2002,"Korea Republic, Japan",Group stage,Tunisia,Japan,0,2,0.0,0.0,45213,Ammar Souayah,Philippe Troussier,2,0,0,0
+2002-06-14,2002,"Korea Republic, Japan",Group stage,Belgium,Russia,3,2,0.0,0.0,46640,Robert Waseige,Oleg Romantsev,1,4,0,0
+2002-06-14,2002,"Korea Republic, Japan",Group stage,Portugal,South Korea,0,1,0.0,0.0,50239,António Luís Alves Ribeiro Oliveira,Guus Hiddink,2,4,2,0
+2002-06-14,2002,"Korea Republic, Japan",Group stage,Poland,USA,3,1,0.0,0.0,26482,Jerzy Engel,Bruce Arena,4,1,0,0
+2002-06-13,2002,"Korea Republic, Japan",Group stage,Costa Rica,Brazil,2,5,0.0,0.0,38524,Alexandre Guimarães,Luiz Felipe Scolari,0,1,0,0
+2002-06-13,2002,"Korea Republic, Japan",Group stage,Turkey,China,3,0,0.0,0.0,43605,Şenol Güneş,Bora Milutinović,3,2,0,2
+2002-06-13,2002,"Korea Republic, Japan",Group stage,Mexico,Italy,1,1,0.0,0.0,39291,Javier Aguirre,Giovanni Trapattoni,2,5,0,0
+2002-06-13,2002,"Korea Republic, Japan",Group stage,Ecuador,Croatia,1,0,0.0,0.0,65862,Hernán Darío Gómez,Mirko Jozić,1,2,0,0
+2002-06-12,2002,"Korea Republic, Japan",Group stage,Sweden,Argentina,1,1,0.0,0.0,45777,Lars Lagerbäck,Marcelo Bielsa,2,3,0,0
+2002-06-12,2002,"Korea Republic, Japan",Group stage,Nigeria,England,0,0,0.0,0.0,44864,Festus Onigbinde,Sven-Göran Eriksson,0,0,0,0
+2002-06-12,2002,"Korea Republic, Japan",Group stage,South Africa,Spain,2,3,0.0,0.0,31024,Jomo Sono,José Antonio Camacho,4,0,0,0
+2002-06-12,2002,"Korea Republic, Japan",Group stage,Slovenia,Paraguay,1,3,0.0,0.0,30176,Srečko Katanec,Cesare Maldini,4,1,2,0
+2002-06-11,2002,"Korea Republic, Japan",Group stage,Denmark,France,2,0,0.0,0.0,48100,Morten Olsen,Roger Lemerre,2,1,0,0
+2002-06-11,2002,"Korea Republic, Japan",Group stage,Senegal,Uruguay,3,3,0.0,0.0,33681,Bruno Metsu,Víctor Púa,7,5,0,0
+2002-06-11,2002,"Korea Republic, Japan",Group stage,Saudi Arabia,Ireland,0,3,0.0,0.0,65320,Nasser Al-Johar,Mick McCarthy,1,1,0,0
+2002-06-11,2002,"Korea Republic, Japan",Group stage,Cameroon,Germany,0,2,0.0,0.0,47085,Winfried Schäfer,Rudi Völler,7,7,0,0
+2002-06-10,2002,"Korea Republic, Japan",Group stage,South Korea,USA,1,1,0.0,0.0,60778,Guus Hiddink,Bruce Arena,1,2,0,0
+2002-06-10,2002,"Korea Republic, Japan",Group stage,Tunisia,Belgium,1,1,0.0,0.0,39700,Ammar Souayah,Robert Waseige,4,1,0,0
+2002-06-10,2002,"Korea Republic, Japan",Group stage,Portugal,Poland,4,0,0.0,0.0,31000,António Luís Alves Ribeiro Oliveira,Jerzy Engel,3,2,0,0
+2002-06-09,2002,"Korea Republic, Japan",Group stage,Mexico,Ecuador,2,1,0.0,0.0,45610,Javier Aguirre,Hernán Darío Gómez,1,5,0,0
+2002-06-09,2002,"Korea Republic, Japan",Group stage,Costa Rica,Turkey,1,1,0.0,0.0,42299,Alexandre Guimarães,Şenol Güneş,2,3,0,0
+2002-06-09,2002,"Korea Republic, Japan",Group stage,Japan,Russia,1,0,0.0,0.0,66108,Philippe Troussier,Oleg Romantsev,3,3,0,0
+2002-06-08,2002,"Korea Republic, Japan",Group stage,South Africa,Slovenia,1,0,0.0,0.0,47226,Jomo Sono,Srečko Katanec,2,4,0,0
+2002-06-08,2002,"Korea Republic, Japan",Group stage,Italy,Croatia,1,2,0.0,0.0,36472,Giovanni Trapattoni,Mirko Jozić,1,1,0,0
+2002-06-08,2002,"Korea Republic, Japan",Group stage,Brazil,China,4,0,0.0,0.0,36750,Luiz Felipe Scolari,Bora Milutinović,2,0,0,0
+2002-06-07,2002,"Korea Republic, Japan",Group stage,Sweden,Nigeria,2,1,0.0,0.0,36194,Tommy Söderberg,Festus Onigbinde,2,1,0,0
+2002-06-07,2002,"Korea Republic, Japan",Group stage,Spain,Paraguay,3,1,0.0,0.0,24000,José Antonio Camacho,Cesare Maldini,1,3,0,0
+2002-06-07,2002,"Korea Republic, Japan",Group stage,Argentina,England,0,1,0.0,0.0,35927,Marcelo Bielsa,Sven-Göran Eriksson,1,2,0,0
+2002-06-06,2002,"Korea Republic, Japan",Group stage,Denmark,Senegal,1,1,0.0,0.0,43500,Morten Olsen,Bruno Metsu,4,2,0,0
+2002-06-06,2002,"Korea Republic, Japan",Group stage,Cameroon,Saudi Arabia,1,0,0.0,0.0,52328,Winfried Schäfer,Nasser Al-Johar,1,1,0,0
+2002-06-06,2002,"Korea Republic, Japan",Group stage,France,Uruguay,0,0,0.0,0.0,38070,Roger Lemerre,Víctor Púa,1,4,2,0
+2002-06-05,2002,"Korea Republic, Japan",Group stage,Russia,Tunisia,2,0,0.0,0.0,30957,Oleg Romantsev,Ammar Souayah,2,2,0,0
+2002-06-05,2002,"Korea Republic, Japan",Group stage,USA,Portugal,3,2,0.0,0.0,37306,Bruce Arena,António Luís Alves Ribeiro Oliveira,1,2,0,0
+2002-06-05,2002,"Korea Republic, Japan",Group stage,Germany,Ireland,1,1,0.0,0.0,35854,Rudi Völler,Mick McCarthy,0,0,0,0
+2002-06-04,2002,"Korea Republic, Japan",Group stage,China,Costa Rica,0,2,0.0,0.0,27217,Bora Milutinović,Alexandre Guimarães,3,4,0,0
+2002-06-04,2002,"Korea Republic, Japan",Group stage,Japan,Belgium,2,2,0.0,0.0,55256,Philippe Troussier,Robert Waseige,2,3,0,0
+2002-06-04,2002,"Korea Republic, Japan",Group stage,South Korea,Poland,2,0,0.0,0.0,48760,Guus Hiddink,Jerzy Engel,2,3,0,0
+2002-06-03,2002,"Korea Republic, Japan",Group stage,Croatia,Mexico,0,1,0.0,0.0,32239,Mirko Jozić,Javier Aguirre,0,0,2,0
+2002-06-03,2002,"Korea Republic, Japan",Group stage,Brazil,Turkey,2,1,0.0,0.0,33842,Luiz Felipe Scolari,Şenol Güneş,1,3,0,0
+2002-06-03,2002,"Korea Republic, Japan",Group stage,Italy,Ecuador,2,0,0.0,0.0,31081,Giovanni Trapattoni,Hernán Darío Gómez,1,3,0,0
+2002-06-02,2002,"Korea Republic, Japan",Group stage,Argentina,Nigeria,1,0,0.0,0.0,34050,Marcelo Bielsa,Festus Onigbinde,2,1,0,0
+2002-06-02,2002,"Korea Republic, Japan",Group stage,Paraguay,South Africa,2,2,0.0,0.0,25186,Cesare Maldini,Jomo Sono,4,4,0,0
+2002-06-02,2002,"Korea Republic, Japan",Group stage,England,Sweden,1,1,0.0,0.0,52721,Sven-Göran Eriksson,Tommy Söderberg,1,2,0,0
+2002-06-02,2002,"Korea Republic, Japan",Group stage,Spain,Slovenia,3,1,0.0,0.0,28588,José Antonio Camacho,Srečko Katanec,1,2,0,0
+2002-06-01,2002,"Korea Republic, Japan",Group stage,Ireland,Cameroon,1,1,0.0,0.0,33679,Mick McCarthy,Winfried Schäfer,3,1,0,0
+2002-06-01,2002,"Korea Republic, Japan",Group stage,Uruguay,Denmark,1,2,0.0,0.0,30157,Víctor Púa,Morten Olsen,1,2,0,0
+2002-06-01,2002,"Korea Republic, Japan",Group stage,Germany,Saudi Arabia,8,0,0.0,0.0,32218,Rudi Völler,Nasser Al-Johar,2,1,0,0
+2002-05-31,2002,"Korea Republic, Japan",Group stage,France,Senegal,0,1,0.0,0.0,62561,Roger Lemerre,Bruno Metsu,1,1,0,0
+1998-07-12,1998,France,Final,Brazil,France,0,3,0.0,0.0,80000,Mário Zagallo,Aimé Jacquet,1,3,0,0
+1998-07-11,1998,France,Third-place match,Netherlands,Croatia,1,2,0.0,0.0,44000,Guus Hiddink,Miroslav Blažević,2,4,0,0
+1998-07-08,1998,France,Semi-finals,France,Croatia,2,1,0.0,0.0,80000,Aimé Jacquet,Miroslav Blažević,0,3,2,0
+1998-07-07,1998,France,Semi-finals,Brazil,Netherlands,1,1,0.0,0.0,60000,Mário Zagallo,Guus Hiddink,2,4,0,0
+1998-07-04,1998,France,Quarter-finals,Netherlands,Argentina,2,1,0.0,0.0,60000,Guus Hiddink,Daniel Passarella,2,3,0,0
+1998-07-04,1998,France,Quarter-finals,Germany,Croatia,0,3,0.0,0.0,43300,Berti Vogts,Miroslav Blažević,2,2,2,0
+1998-07-03,1998,France,Quarter-finals,Italy,France,0,0,0.0,0.0,80000,Cesare Maldini,Aimé Jacquet,3,2,0,0
+1998-07-03,1998,France,Quarter-finals,Brazil,Denmark,3,2,0.0,0.0,49500,Mário Zagallo,Bo Johansson,3,3,0,0
+1998-06-30,1998,France,Round of 16,Romania,Croatia,0,1,0.0,0.0,31800,Anghel Iordănescu,Miroslav Blažević,3,2,0,0
+1998-06-30,1998,France,Round of 16,Argentina,England,2,2,0.0,0.0,30600,Daniel Passarella,Glenn Hoddle,4,2,0,2
+1998-06-29,1998,France,Round of 16,Germany,Mexico,2,1,0.0,0.0,29800,Berti Vogts,Manuel Lapuente,4,2,0,0
+1998-06-29,1998,France,Round of 16,Netherlands,FR Yugoslavia,2,1,0.0,0.0,33000,Guus Hiddink,Slobodan Santrač,0,3,0,0
+1998-06-28,1998,France,Round of 16,France,Paraguay,1,0,0.0,0.0,31800,Aimé Jacquet,Paulo César Carpegiani,0,5,0,0
+1998-06-28,1998,France,Round of 16,Nigeria,Denmark,1,4,0.0,0.0,77000,Bora Milutinović,Bo Johansson,1,1,0,0
+1998-06-27,1998,France,Round of 16,Italy,Norway,1,0,0.0,0.0,55000,Cesare Maldini,Egil Olsen,3,3,0,0
+1998-06-27,1998,France,Round of 16,Brazil,Chile,4,1,0.0,0.0,45500,Mário Zagallo,Nelson Acosta,2,2,0,0
+1998-06-26,1998,France,Group stage,Argentina,Croatia,1,0,0.0,0.0,31800,Daniel Passarella,Miroslav Blažević,3,4,0,0
+1998-06-26,1998,France,Group stage,Japan,Jamaica,1,2,0.0,0.0,39100,Takeshi Okada,René Simões,1,2,0,0
+1998-06-26,1998,France,Group stage,Romania,Tunisia,1,1,0.0,0.0,80000,Anghel Iordănescu,Ali Selmi,0,2,0,0
+1998-06-26,1998,France,Group stage,Colombia,England,0,2,0.0,0.0,42000,Hernán Darío Gómez,Glenn Hoddle,3,2,0,0
+1998-06-25,1998,France,Group stage,Netherlands,Mexico,2,2,0.0,0.0,30600,Guus Hiddink,Manuel Lapuente,2,4,0,2
+1998-06-25,1998,France,Group stage,Belgium,South Korea,1,1,0.0,0.0,45500,Georges Leekens,Kim Pyung-seok,1,4,0,0
+1998-06-25,1998,France,Group stage,USA,FR Yugoslavia,0,1,0.0,0.0,38500,Steve Sampson,Slobodan Santrač,1,2,0,0
+1998-06-25,1998,France,Group stage,Germany,Iran,2,0,0.0,0.0,35500,Berti Vogts,Jalal Talebi,2,1,0,0
+1998-06-24,1998,France,Group stage,South Africa,Saudi Arabia,2,2,0.0,0.0,31800,Philippe Troussier,Mohammed Al-Kharashy,2,1,0,0
+1998-06-24,1998,France,Group stage,France,Denmark,2,1,0.0,0.0,39100,Aimé Jacquet,Bo Johansson,2,2,0,0
+1998-06-24,1998,France,Group stage,Spain,Bulgaria,6,1,0.0,0.0,41275,Javier Clemente,Hristo Bonev,2,2,0,0
+1998-06-24,1998,France,Group stage,Nigeria,Paraguay,1,3,0.0,0.0,33400,Bora Milutinović,Paulo César Carpegiani,2,0,0,0
+1998-06-23,1998,France,Group stage,Italy,Austria,2,1,0.0,0.0,80000,Cesare Maldini,Herbert Prohaska,1,4,0,0
+1998-06-23,1998,France,Group stage,Chile,Cameroon,1,1,0.0,0.0,39500,Nelson Acosta,Claude Le Roy,4,1,0,3
+1998-06-23,1998,France,Group stage,Brazil,Norway,1,2,0.0,0.0,57000,Mário Zagallo,Egil Olsen,0,2,0,0
+1998-06-23,1998,France,Group stage,Scotland,Morocco,0,3,0.0,0.0,36000,Craig Brown,Henri Michel,1,1,2,0
+1998-06-22,1998,France,Group stage,Colombia,Tunisia,1,0,0.0,0.0,35500,Hernán Darío Gómez,Henryk Kasperczak,1,3,0,0
+1998-06-22,1998,France,Group stage,Romania,England,2,1,0.0,0.0,33140,Anghel Iordănescu,Glenn Hoddle,4,0,0,0
+1998-06-21,1998,France,Group stage,Germany,FR Yugoslavia,2,2,0.0,0.0,41275,Berti Vogts,Slobodan Santrač,1,0,0,0
+1998-06-21,1998,France,Group stage,Argentina,Jamaica,5,0,0.0,0.0,45500,Daniel Passarella,René Simões,1,2,0,0
+1998-06-21,1998,France,Group stage,USA,Iran,1,2,0.0,0.0,43300,Steve Sampson,Jalal Talebi,1,2,0,0
+1998-06-20,1998,France,Group stage,Japan,Croatia,0,1,0.0,0.0,35500,Takeshi Okada,Miroslav Blažević,3,2,0,0
+1998-06-20,1998,France,Group stage,Belgium,Mexico,2,2,0.0,0.0,31800,Georges Leekens,Manuel Lapuente,1,2,2,2
+1998-06-20,1998,France,Group stage,Netherlands,South Korea,5,0,0.0,0.0,55000,Guus Hiddink,Cha Bum-kun,0,2,0,0
+1998-06-19,1998,France,Group stage,Nigeria,Bulgaria,1,0,0.0,0.0,48000,Bora Milutinović,Hristo Bonev,4,2,0,0
+1998-06-19,1998,France,Group stage,Spain,Paraguay,0,0,0.0,0.0,36000,Javier Clemente,Paulo César Carpegiani,2,2,0,0
+1998-06-18,1998,France,Group stage,South Africa,Denmark,1,1,0.0,0.0,33500,Philippe Troussier,Bo Johansson,4,3,2,3
+1998-06-18,1998,France,Group stage,France,Saudi Arabia,4,0,0.0,0.0,80000,Aimé Jacquet,Carlos Alberto Parreira,2,2,2,2
+1998-06-17,1998,France,Group stage,Chile,Austria,1,1,0.0,0.0,36000,Nelson Acosta,Herbert Prohaska,4,1,0,0
+1998-06-17,1998,France,Group stage,Italy,Cameroon,3,0,0.0,0.0,35500,Cesare Maldini,Claude Le Roy,2,4,0,2
+1998-06-16,1998,France,Group stage,Scotland,Norway,1,1,0.0,0.0,31800,Craig Brown,Egil Olsen,2,2,0,0
+1998-06-16,1998,France,Group stage,Brazil,Morocco,3,0,0.0,0.0,38500,Mário Zagallo,Henri Michel,2,2,0,0
+1998-06-15,1998,France,Group stage,England,Tunisia,2,0,0.0,0.0,54587,Glenn Hoddle,Henryk Kasperczak,1,3,0,0
+1998-06-15,1998,France,Group stage,Romania,Colombia,1,0,0.0,0.0,43300,Anghel Iordănescu,Hernán Darío Gómez,3,1,0,0
+1998-06-15,1998,France,Group stage,Germany,USA,2,0,0.0,0.0,49000,Berti Vogts,Steve Sampson,3,2,0,0
+1998-06-14,1998,France,Group stage,Argentina,Japan,1,0,0.0,0.0,33500,Daniel Passarella,Takeshi Okada,0,3,0,0
+1998-06-14,1998,France,Group stage,FR Yugoslavia,Iran,1,0,0.0,0.0,36000,Slobodan Santrač,Jalal Talebi,2,0,0,0
+1998-06-14,1998,France,Group stage,Jamaica,Croatia,1,3,0.0,0.0,38100,René Simões,Miroslav Blažević,1,2,0,0
+1998-06-13,1998,France,Group stage,Spain,Nigeria,2,3,0.0,0.0,38000,Javier Clemente,Bora Milutinović,3,1,0,0
+1998-06-13,1998,France,Group stage,South Korea,Mexico,1,3,0.0,0.0,39100,Cha Bum-kun,Manuel Lapuente,1,2,2,0
+1998-06-13,1998,France,Group stage,Netherlands,Belgium,0,0,0.0,0.0,77000,Guus Hiddink,Georges Leekens,0,2,2,0
+1998-06-12,1998,France,Group stage,Paraguay,Bulgaria,0,0,0.0,0.0,27650,Paulo César Carpegiani,Hristo Bonev,1,3,0,0
+1998-06-12,1998,France,Group stage,Saudi Arabia,Denmark,0,1,0.0,0.0,38100,Carlos Alberto Parreira,Bo Johansson,1,3,0,0
+1998-06-12,1998,France,Group stage,France,South Africa,3,0,0.0,0.0,55000,Aimé Jacquet,Philippe Troussier,3,1,0,0
+1998-06-11,1998,France,Group stage,Italy,Chile,2,2,0.0,0.0,35200,Cesare Maldini,Nelson Acosta,2,3,0,0
+1998-06-11,1998,France,Group stage,Cameroon,Austria,1,1,0.0,0.0,36500,Claude Le Roy,Herbert Prohaska,1,1,0,0
+1998-06-10,1998,France,Group stage,Brazil,Scotland,2,1,0.0,0.0,80000,Mário Zagallo,Craig Brown,2,1,0,0
+1998-06-10,1998,France,Group stage,Morocco,Norway,2,2,0.0,0.0,29750,Henri Michel,Egil Olsen,1,0,0,0
+1994-07-17,1994,United States,Final,Brazil,Italy,0,0,0.0,0.0,94194,Carlos Alberto Parreira,Arrigo Sacchi,2,2,0,0
+1994-07-16,1994,United States,Third-place match,Sweden,Bulgaria,4,0,0.0,0.0,91500,Tommy Svensson,Dimitar Penev,1,1,0,0
+1994-07-13,1994,United States,Semi-finals,Bulgaria,Italy,1,2,0.0,0.0,74110,Dimitar Penev,Arrigo Sacchi,3,2,0,0
+1994-07-13,1994,United States,Semi-finals,Sweden,Brazil,0,1,0.0,0.0,91856,Tommy Svensson,Carlos Alberto Parreira,2,1,2,0
+1994-07-10,1994,United States,Quarter-finals,Bulgaria,Germany,2,1,0.0,0.0,72000,Dimitar Penev,Berti Vogts,3,5,0,0
+1994-07-10,1994,United States,Quarter-finals,Romania,Sweden,2,2,0.0,0.0,83500,Anghel Iordanescu,Tommy Svensson,3,2,0,0
+1994-07-09,1994,United States,Quarter-finals,Italy,Spain,2,1,0.0,0.0,53400,Arrigo Sacchi,Javier Clemente,0,2,0,0
+1994-07-09,1994,United States,Quarter-finals,Netherlands,Brazil,2,3,0.0,0.0,63500,Dick Advocaat,Carlos Alberto Parreira,2,1,0,0
+1994-07-05,1994,United States,Round of 16,Nigeria,Italy,1,2,0.0,0.0,54367,Clemens Westerhof,Arrigo Sacchi,4,5,0,2
+1994-07-05,1994,United States,Round of 16,Mexico,Bulgaria,1,1,0.0,0.0,71030,Miguel Mejia Baron,Dimitar Penev,4,4,0,0
+1994-07-04,1994,United States,Round of 16,Netherlands,Ireland,2,0,0.0,0.0,61355,Dick Advocaat,Jack Charlton,1,0,0,0
+1994-07-04,1994,United States,Round of 16,Brazil,USA,1,0,0.0,0.0,84147,Carlos Alberto Parreira,Bora Milutinovic,2,4,2,0
+1994-07-03,1994,United States,Round of 16,Saudi Arabia,Sweden,1,3,0.0,0.0,60277,Jorge Solari,Tommy Svensson,1,3,0,0
+1994-07-03,1994,United States,Round of 16,Romania,Argentina,3,2,0.0,0.0,90469,Anghel Iordanescu,Alfio Basile,3,4,0,0
+1994-07-02,1994,United States,Round of 16,Germany,Belgium,3,2,0.0,0.0,60246,Berti Vogts,Paul Van Himst,2,1,0,0
+1994-07-02,1994,United States,Round of 16,Spain,Switzerland,3,0,0.0,0.0,53121,Javier Clemente,Roy Hodgson,4,4,0,0
+1994-06-30,1994,United States,Group stage,Greece,Nigeria,0,2,0.0,0.0,53001,Alkis Panagoulias,Clemens Westerhof,2,2,0,0
+1994-06-30,1994,United States,Group stage,Argentina,Bulgaria,0,2,0.0,0.0,63998,Alfio Basile,Dimitar Penev,3,5,0,0
+1994-06-29,1994,United States,Group stage,Morocco,Netherlands,1,2,0.0,0.0,60578,Abdellah Blinda,Dick Advocaat,5,2,0,0
+1994-06-29,1994,United States,Group stage,Belgium,Saudi Arabia,0,1,0.0,0.0,52959,Paul Van Himst,Jorge Solari,2,2,0,0
+1994-06-28,1994,United States,Group stage,Italy,Mexico,1,1,0.0,0.0,52535,Arrigo Sacchi,Miguel Mejia Baron,1,3,0,0
+1994-06-28,1994,United States,Group stage,Ireland,Norway,0,0,0.0,0.0,72404,Jack Charlton,Egil Olsen,3,2,0,0
+1994-06-28,1994,United States,Group stage,Russia,Cameroon,6,1,0.0,0.0,74914,Pavel Sadyrin,Henri Michel,3,2,0,0
+1994-06-28,1994,United States,Group stage,Brazil,Sweden,1,1,0.0,0.0,77217,Carlos Alberto Parreira,Tommy Svensson,1,1,0,0
+1994-06-27,1994,United States,Group stage,Germany,South Korea,3,2,0.0,0.0,63998,Berti Vogts,Ho Kon Kim,3,1,0,0
+1994-06-27,1994,United States,Group stage,Bolivia,Spain,1,3,0.0,0.0,63089,Xavier Azkargorta Uriarte,Javier Clemente,0,2,0,0
+1994-06-26,1994,United States,Group stage,Bulgaria,Greece,4,0,0.0,0.0,63160,Dimitar Penev,Alkis Panagoulias,4,4,0,0
+1994-06-26,1994,United States,Group stage,USA,Romania,0,1,0.0,0.0,93869,Bora Milutinovic,Anghel Iordanescu,2,2,0,0
+1994-06-26,1994,United States,Group stage,Switzerland,Colombia,0,2,0.0,0.0,83401,Roy Hodgson,Francisco Maturana,2,3,0,0
+1994-06-25,1994,United States,Group stage,Belgium,Netherlands,1,0,0.0,0.0,62387,Paul Van Himst,Dick Advocaat,1,5,0,0
+1994-06-25,1994,United States,Group stage,Saudi Arabia,Morocco,2,1,0.0,0.0,76322,Jorge Solari,Abdellah Blinda,4,2,0,0
+1994-06-25,1994,United States,Group stage,Argentina,Nigeria,2,1,0.0,0.0,54453,Alfio Basile,Clemens Westerhof,1,2,0,0
+1994-06-24,1994,United States,Group stage,Mexico,Ireland,2,1,0.0,0.0,60790,Miguel Mejia Baron,Jack Charlton,2,2,0,0
+1994-06-24,1994,United States,Group stage,Brazil,Cameroon,3,0,0.0,0.0,83401,Carlos Alberto Parreira,Henri Michel,1,2,0,2
+1994-06-24,1994,United States,Group stage,Sweden,Russia,3,1,0.0,0.0,71528,Tommy Svensson,Pavel Sadyrin,3,2,0,0
+1994-06-23,1994,United States,Group stage,Italy,Norway,1,0,0.0,0.0,74624,Arrigo Sacchi,Egil Olsen,1,2,2,0
+1994-06-23,1994,United States,Group stage,South Korea,Bolivia,0,0,0.0,0.0,54453,Ho Kon Kim,Xavier Azkargorta Uriarte,3,3,0,0
+1994-06-22,1994,United States,Group stage,Romania,Switzerland,1,4,0.0,0.0,61428,Anghel Iordanescu,Roy Hodgson,3,0,2,0
+1994-06-22,1994,United States,Group stage,USA,Colombia,2,1,0.0,0.0,93869,Bora Milutinovic,Francisco Maturana,1,1,0,0
+1994-06-21,1994,United States,Group stage,Argentina,Greece,4,0,0.0,0.0,54456,Alfio Basile,Alkis Panagoulias,1,2,0,0
+1994-06-21,1994,United States,Group stage,Germany,Spain,1,1,0.0,0.0,63113,Berti Vogts,Javier Clemente,1,3,0,0
+1994-06-21,1994,United States,Group stage,Nigeria,Bulgaria,3,0,0.0,0.0,44132,Clemens Westerhof,Dimitar Penev,1,1,0,0
+1994-06-20,1994,United States,Group stage,Brazil,Russia,2,0,0.0,0.0,81061,Carlos Alberto Parreira,Pavel Sadyrin,0,3,0,0
+1994-06-20,1994,United States,Group stage,Netherlands,Saudi Arabia,2,1,0.0,0.0,50535,Dick Advocaat,Jorge Solari,2,3,0,0
+1994-06-19,1994,United States,Group stage,Belgium,Morocco,1,0,0.0,0.0,61219,Paul Van Himst,Abdellah Blinda,2,3,0,0
+1994-06-19,1994,United States,Group stage,Norway,Mexico,1,0,0.0,0.0,52395,Egil Olsen,Miguel Mejia Baron,2,1,0,0
+1994-06-19,1994,United States,Group stage,Cameroon,Sweden,2,2,0.0,0.0,93194,Henri Michel,Tommy Svensson,1,1,0,0
+1994-06-18,1994,United States,Group stage,USA,Switzerland,1,1,0.0,0.0,73425,Bora Milutinovic,Roy Hodgson,1,2,0,0
+1994-06-18,1994,United States,Group stage,Italy,Ireland,0,1,0.0,0.0,75338,Arrigo Sacchi,Jack Charlton,0,3,0,0
+1994-06-18,1994,United States,Group stage,Colombia,Romania,1,3,0.0,0.0,91856,Francisco Maturana,Anghel Iordanescu,3,1,0,0
+1994-06-17,1994,United States,Group stage,Germany,Bolivia,1,0,0.0,0.0,63117,Berti Vogts,Xavier Azkargorta Uriarte,2,4,0,2
+1994-06-17,1994,United States,Group stage,Spain,South Korea,2,2,0.0,0.0,56247,Javier Clemente,Ho Kon Kim,2,2,2,0
+1990-07-08,1990,Italy,Final,West Germany,Argentina,1,0,0.0,0.0,73603,Franz Beckenbauer,Carlos Bilardo,1,3,0,3
+1990-07-07,1990,Italy,Third-place match,Italy,England,2,1,0.0,0.0,51426,Azeglio Vicini,Bobby Robson,0,0,0,0
+1990-07-04,1990,Italy,Semi-finals,West Germany,England,1,1,0.0,0.0,62628,Franz Beckenbauer,Bobby Robson,1,2,0,0
+1990-07-03,1990,Italy,Semi-finals,Italy,Argentina,1,1,0.0,0.0,59978,Azeglio Vicini,Carlos Bilardo,1,5,0,0
+1990-07-01,1990,Italy,Quarter-finals,West Germany,Czechoslovakia,1,0,0.0,0.0,73347,Franz Beckenbauer,Jozef Venglos,1,4,0,2
+1990-07-01,1990,Italy,Quarter-finals,England,Cameroon,3,2,0.0,0.0,55205,Bobby Robson,Valeri Nepomnyashchi,1,3,0,0
+1990-06-30,1990,Italy,Quarter-finals,Yugoslavia,Argentina,0,0,0.0,0.0,38971,Ivica Osim,Carlos Bilardo,1,4,2,0
+1990-06-30,1990,Italy,Quarter-finals,Italy,Ireland,1,0,0.0,0.0,73303,Azeglio Vicini,Jack Charlton,1,1,0,0
+1990-06-26,1990,Italy,Round of 16,Spain,Yugoslavia,1,2,0.0,0.0,35500,Luis Suarez,Ivica Osim,2,3,0,0
+1990-06-26,1990,Italy,Round of 16,England,Belgium,1,0,0.0,0.0,34520,Bobby Robson,Guy Thys,1,0,0,0
+1990-06-25,1990,Italy,Round of 16,Ireland,Romania,0,0,0.0,0.0,31818,Jack Charlton,Emerich Jenei,2,2,0,0
+1990-06-25,1990,Italy,Round of 16,Italy,Uruguay,2,0,0.0,0.0,73303,Azeglio Vicini,Oscar Tabarez,1,4,0,0
+1990-06-24,1990,Italy,Round of 16,Brazil,Argentina,0,1,0.0,0.0,61381,Sebastiao Lazaroni,Carlos Bilardo,2,3,2,0
+1990-06-24,1990,Italy,Round of 16,West Germany,Netherlands,2,1,0.0,0.0,74559,Franz Beckenbauer,Leo Beenhakker,2,3,2,2
+1990-06-23,1990,Italy,Round of 16,Cameroon,Colombia,2,1,0.0,0.0,50026,Valeri Nepomnyashchi,Francisco Maturana,4,2,0,0
+1990-06-23,1990,Italy,Round of 16,Czechoslovakia,Costa Rica,4,1,0.0,0.0,47673,Jozef Venglos,Bora Milutinovic,3,2,0,0
+1990-06-21,1990,Italy,Group stage,Belgium,Spain,1,2,0.0,0.0,35950,Guy Thys,Luis Suarez,0,0,0,0
+1990-06-21,1990,Italy,Group stage,South Korea,Uruguay,0,1,0.0,0.0,29039,Hoe Taik Lee,Oscar Tabarez,2,2,2,0
+1990-06-21,1990,Italy,Group stage,Ireland,Netherlands,1,1,0.0,0.0,33288,Jack Charlton,Leo Beenhakker,0,1,0,0
+1990-06-21,1990,Italy,Group stage,England,Egypt,1,0,0.0,0.0,34959,Bobby Robson,Mahmoud El Gohary,1,2,0,0
+1990-06-20,1990,Italy,Group stage,Sweden,Costa Rica,1,2,0.0,0.0,30223,Olle Nordin,Bora Milutinovic,2,2,0,0
+1990-06-20,1990,Italy,Group stage,Brazil,Scotland,1,0,0.0,0.0,62502,Sebastiao Lazaroni,Andy Roxburgh,0,2,0,0
+1990-06-19,1990,Italy,Group stage,West Germany,Colombia,1,1,0.0,0.0,72510,Franz Beckenbauer,Francisco Maturana,1,3,0,0
+1990-06-19,1990,Italy,Group stage,Yugoslavia,United Arab Emirates,4,1,0.0,0.0,27833,Ivica Osim,Carlos Alberto Parreira,3,1,0,0
+1990-06-19,1990,Italy,Group stage,Austria,USA,2,1,0.0,0.0,34857,Josef Hickersberger,Bob Gansler,5,4,2,0
+1990-06-19,1990,Italy,Group stage,Italy,Czechoslovakia,2,0,0.0,0.0,73303,Azeglio Vicini,Jozef Venglos,2,2,0,0
+1990-06-18,1990,Italy,Group stage,Argentina,Romania,1,1,0.0,0.0,52733,Carlos Bilardo,Emerich Jenei,2,3,0,0
+1990-06-18,1990,Italy,Group stage,Cameroon,Soviet Union,0,4,0.0,0.0,37307,Valeri Nepomnyashchi,Valeriy Lobanovskyi,2,1,0,0
+1990-06-17,1990,Italy,Group stage,Ireland,Egypt,0,0,0.0,0.0,33288,Jack Charlton,Mahmoud El Gohary,1,1,0,0
+1990-06-17,1990,Italy,Group stage,Belgium,Uruguay,3,1,0.0,0.0,33759,Guy Thys,Oscar Tabarez,1,1,0,0
+1990-06-17,1990,Italy,Group stage,South Korea,Spain,1,3,0.0,0.0,32733,Hoe Taik Lee,Luis Suarez,3,0,0,0
+1990-06-16,1990,Italy,Group stage,Brazil,Costa Rica,1,0,0.0,0.0,58007,Sebastiao Lazaroni,Bora Milutinovic,2,2,0,0
+1990-06-16,1990,Italy,Group stage,England,Netherlands,0,0,0.0,0.0,35267,Bobby Robson,Leo Beenhakker,0,0,0,0
+1990-06-16,1990,Italy,Group stage,Sweden,Scotland,1,2,0.0,0.0,31823,Olle Nordin,Andy Roxburgh,1,1,0,0
+1990-06-15,1990,Italy,Group stage,Austria,Czechoslovakia,0,1,0.0,0.0,38962,Josef Hickersberger,Jozef Venglos,3,2,0,0
+1990-06-15,1990,Italy,Group stage,West Germany,United Arab Emirates,5,1,0.0,0.0,71169,Franz Beckenbauer,Carlos Alberto Parreira,1,2,0,0
+1990-06-14,1990,Italy,Group stage,Yugoslavia,Colombia,1,0,0.0,0.0,32257,Ivica Osim,Francisco Maturana,1,0,0,0
+1990-06-14,1990,Italy,Group stage,Cameroon,Romania,2,1,0.0,0.0,38687,Valeri Nepomnyashchi,Emerich Jenei,2,1,0,0
+1990-06-14,1990,Italy,Group stage,Italy,USA,1,0,0.0,0.0,73423,Azeglio Vicini,Bob Gansler,1,1,0,0
+1990-06-13,1990,Italy,Group stage,Uruguay,Spain,0,0,0.0,0.0,35713,Oscar Tabarez,Luis Suarez,2,2,0,0
+1990-06-13,1990,Italy,Group stage,Argentina,Soviet Union,2,0,0.0,0.0,55759,Carlos Bilardo,Valeriy Lobanovskyi,5,1,0,2
+1990-06-12,1990,Italy,Group stage,Belgium,South Korea,2,0,0.0,0.0,32790,Guy Thys,Hoe Taik Lee,0,1,0,0
+1990-06-12,1990,Italy,Group stage,Netherlands,Egypt,1,1,0.0,0.0,33288,Leo Beenhakker,Mahmoud El Gohary,1,1,0,0
+1990-06-11,1990,Italy,Group stage,Costa Rica,Scotland,1,0,0.0,0.0,30867,Bora Milutinovic,Andy Roxburgh,0,0,0,0
+1990-06-11,1990,Italy,Group stage,England,Ireland,1,1,0.0,0.0,35238,Bobby Robson,Jack Charlton,1,0,0,0
+1990-06-10,1990,Italy,Group stage,USA,Czechoslovakia,1,5,0.0,0.0,33266,Bob Gansler,Jozef Venglos,2,2,2,0
+1990-06-10,1990,Italy,Group stage,West Germany,Yugoslavia,4,1,0.0,0.0,74765,Franz Beckenbauer,Ivica Osim,1,0,0,0
+1990-06-10,1990,Italy,Group stage,Brazil,Sweden,2,1,0.0,0.0,62628,Sebastiao Lazaroni,Olle Nordin,3,1,0,0
+1990-06-09,1990,Italy,Group stage,United Arab Emirates,Colombia,0,2,0.0,0.0,30791,Carlos Alberto Parreira,Francisco Maturana,3,0,0,0
+1990-06-09,1990,Italy,Group stage,Soviet Union,Romania,0,2,0.0,0.0,42907,Valeriy Lobanovskyi,Emerich Jenei,1,1,0,0
+1990-06-09,1990,Italy,Group stage,Italy,Austria,1,0,0.0,0.0,73303,Azeglio Vicini,Josef Hickersberger,0,1,0,0
+1990-06-08,1990,Italy,Group stage,Argentina,Cameroon,0,1,0.0,0.0,73780,Carlos Bilardo,Valeri Nepomnyashchi,1,3,0,3
+1986-06-29,1986,Mexico,Final,Argentina,West Germany,3,2,0.0,0.0,114600,Carlos Bilardo,Franz Beckenbauer,4,2,0,0
+1986-06-28,1986,Mexico,Third-place match,France,Belgium,4,2,0.0,0.0,21000,Henri Michel,Guy Thys,0,1,0,0
+1986-06-25,1986,Mexico,Semi-finals,France,West Germany,0,2,0.0,0.0,45000,Henri Michel,Franz Beckenbauer,1,1,0,0
+1986-06-25,1986,Mexico,Semi-finals,Argentina,Belgium,2,0,0.0,0.0,114500,Carlos Bilardo,Guy Thys,1,1,0,0
+1986-06-22,1986,Mexico,Quarter-finals,Argentina,England,2,1,0.0,0.0,114580,Carlos Bilardo,Bobby Robson,1,1,0,0
+1986-06-22,1986,Mexico,Quarter-finals,Spain,Belgium,1,1,0.0,0.0,45000,Miguel Munoz,Guy Thys,2,2,0,0
+1986-06-21,1986,Mexico,Quarter-finals,Brazil,France,1,1,0.0,0.0,65000,Tele Santana,Henri Michel,0,0,0,0
+1986-06-21,1986,Mexico,Quarter-finals,West Germany,Mexico,0,0,0.0,0.0,41700,Franz Beckenbauer,Bora Milutinovic,3,5,2,2
+1986-06-18,1986,Mexico,Round of 16,England,Paraguay,3,0,0.0,0.0,98728,Bobby Robson,Cayetano Re,2,1,0,0
+1986-06-18,1986,Mexico,Round of 16,Denmark,Spain,1,5,0.0,0.0,38500,Sepp Piontek,Miguel Munoz,1,3,0,0
+1986-06-17,1986,Mexico,Round of 16,Italy,France,0,2,0.0,0.0,70000,Enzo Bearzot,Henri Michel,2,1,0,0
+1986-06-17,1986,Mexico,Round of 16,Morocco,West Germany,0,1,0.0,0.0,19800,Jose Faria,Franz Beckenbauer,2,0,0,0
+1986-06-16,1986,Mexico,Round of 16,Brazil,Poland,4,0,0.0,0.0,45000,Tele Santana,Antoni Piechniczek,2,3,0,0
+1986-06-16,1986,Mexico,Round of 16,Argentina,Uruguay,1,0,0.0,0.0,26000,Carlos Bilardo,Omar Borras,3,4,0,0
+1986-06-15,1986,Mexico,Round of 16,Mexico,Bulgaria,2,0,0.0,0.0,114580,Bora Milutinovic,Ivan Vutsov,0,1,0,0
+1986-06-15,1986,Mexico,Round of 16,Soviet Union,Belgium,3,4,0.0,0.0,32277,Valeriy Lobanovskyi,Guy Thys,0,1,0,0
+1986-06-13,1986,Mexico,Group stage,Scotland,Uruguay,0,0,0.0,0.0,20000,Alex Ferguson,Omar Borras,2,3,0,2
+1986-06-13,1986,Mexico,Group stage,Denmark,West Germany,2,0,0.0,0.0,36000,Sepp Piontek,Franz Beckenbauer,1,2,2,0
+1986-06-12,1986,Mexico,Group stage,Algeria,Spain,0,3,0.0,0.0,23980,Rabah Saadane,Miguel Munoz,1,1,0,0
+1986-06-12,1986,Mexico,Group stage,Northern Ireland,Brazil,0,3,0.0,0.0,51000,Billy Bingham,Tele Santana,1,0,0,0
+1986-06-11,1986,Mexico,Group stage,Paraguay,Belgium,2,2,0.0,0.0,16000,Cayetano Re,Guy Thys,1,1,0,0
+1986-06-11,1986,Mexico,Group stage,Iraq,Mexico,0,1,0.0,0.0,103763,Evaristo,Bora Milutinovic,2,0,0,0
+1986-06-11,1986,Mexico,Group stage,England,Poland,3,0,0.0,0.0,22700,Bobby Robson,Antoni Piechniczek,1,0,0,0
+1986-06-11,1986,Mexico,Group stage,Portugal,Morocco,1,3,0.0,0.0,28000,Jose Torres,Jose Faria,1,0,0,0
+1986-06-10,1986,Mexico,Group stage,Argentina,Bulgaria,2,0,0.0,0.0,65000,Carlos Bilardo,Ivan Vutsov,1,0,0,0
+1986-06-10,1986,Mexico,Group stage,South Korea,Italy,2,3,0.0,0.0,20000,Jung Nam Kim,Enzo Bearzot,3,3,0,0
+1986-06-09,1986,Mexico,Group stage,Soviet Union,Canada,2,0,0.0,0.0,14200,Valeriy Lobanovskyi,Tony Waiters,0,0,0,0
+1986-06-09,1986,Mexico,Group stage,Hungary,France,0,3,0.0,0.0,31420,Gyorgy Mezey,Henri Michel,0,2,0,0
+1986-06-08,1986,Mexico,Group stage,West Germany,Scotland,2,1,0.0,0.0,30000,Franz Beckenbauer,Alex Ferguson,0,3,0,0
+1986-06-08,1986,Mexico,Group stage,Iraq,Belgium,1,2,0.0,0.0,20000,Evaristo,Guy Thys,6,1,0,0
+1986-06-08,1986,Mexico,Group stage,Denmark,Uruguay,6,1,0.0,0.0,26500,Sepp Piontek,Omar Borras,1,2,0,2
+1986-06-07,1986,Mexico,Group stage,Mexico,Paraguay,1,1,0.0,0.0,114600,Bora Milutinovic,Cayetano Re,3,2,0,0
+1986-06-07,1986,Mexico,Group stage,Northern Ireland,Spain,1,2,0.0,0.0,28000,Billy Bingham,Miguel Munoz,1,1,0,0
+1986-06-07,1986,Mexico,Group stage,Poland,Portugal,1,0,0.0,0.0,19915,Antoni Piechniczek,Jose Torres,2,0,0,0
+1986-06-06,1986,Mexico,Group stage,Brazil,Algeria,1,0,0.0,0.0,48000,Tele Santana,Rabah Saadane,0,0,0,0
+1986-06-06,1986,Mexico,Group stage,Hungary,Canada,2,0,0.0,0.0,13800,Gyorgy Mezey,Tony Waiters,0,2,0,2
+1986-06-06,1986,Mexico,Group stage,England,Morocco,0,0,0.0,0.0,20200,Bobby Robson,Jose Faria,2,2,2,0
+1986-06-05,1986,Mexico,Group stage,Italy,Argentina,1,1,0.0,0.0,32000,Enzo Bearzot,Carlos Bilardo,1,2,0,0
+1986-06-05,1986,Mexico,Group stage,France,Soviet Union,1,1,0.0,0.0,36540,Henri Michel,Valeriy Lobanovskyi,2,2,0,0
+1986-06-05,1986,Mexico,Group stage,South Korea,Bulgaria,1,1,0.0,0.0,45000,Jung Nam Kim,Ivan Vutsov,2,1,0,0
+1986-06-04,1986,Mexico,Group stage,Paraguay,Iraq,1,0,0.0,0.0,24000,Cayetano Re,Evaristo,1,1,0,0
+1986-06-04,1986,Mexico,Group stage,Uruguay,West Germany,1,1,0.0,0.0,30500,Omar Borras,Franz Beckenbauer,2,0,0,0
+1986-06-04,1986,Mexico,Group stage,Scotland,Denmark,0,1,0.0,0.0,18000,Alex Ferguson,Sepp Piontek,0,1,0,0
+1986-06-03,1986,Mexico,Group stage,Belgium,Mexico,1,2,0.0,0.0,110000,Guy Thys,Bora Milutinovic,1,2,0,0
+1986-06-03,1986,Mexico,Group stage,Algeria,Northern Ireland,1,1,0.0,0.0,22000,Rabah Saadane,Billy Bingham,1,3,0,0
+1986-06-03,1986,Mexico,Group stage,Portugal,England,1,0,0.0,0.0,23000,Jose Torres,Bobby Robson,1,2,0,0
+1986-06-02,1986,Mexico,Group stage,Soviet Union,Hungary,6,0,0.0,0.0,16500,Valeriy Lobanovskyi,Gyorgy Mezey,0,0,0,0
+1986-06-02,1986,Mexico,Group stage,Argentina,South Korea,3,1,0.0,0.0,60000,Carlos Bilardo,Jung Nam Kim,0,2,0,0
+1986-06-02,1986,Mexico,Group stage,Morocco,Poland,0,0,0.0,0.0,19900,Jose Faria,Antoni Piechniczek,1,0,0,0
+1986-06-01,1986,Mexico,Group stage,Spain,Brazil,0,1,0.0,0.0,35748,Miguel Munoz,Tele Santana,1,1,0,0
+1986-06-01,1986,Mexico,Group stage,Canada,France,0,1,0.0,0.0,65500,Tony Waiters,Henri Michel,0,0,0,0
+1986-05-31,1986,Mexico,Group stage,Bulgaria,Italy,1,1,0.0,0.0,96000,Ivan Vutsov,Enzo Bearzot,1,2,0,0
+1982-07-11,1982,Spain,Final,Italy,West Germany,3,1,0.0,0.0,90000,Enzo Bearzot,Jupp Derwall,2,3,0,0
+1982-07-10,1982,Spain,Third-place match,Poland,France,3,2,0.0,0.0,28000,Antoni Piechniczek,Michel Hidalgo,2,1,0,0
+1982-07-08,1982,Spain,Semi-finals,Poland,Italy,0,2,0.0,0.0,50000,Antoni Piechniczek,Enzo Bearzot,3,1,0,0
+1982-07-08,1982,Spain,Semi-finals,West Germany,France,3,3,0.0,0.0,70000,Jupp Derwall,Michel Hidalgo,1,2,0,0
+1982-07-05,1982,Spain,Second group stage,Italy,Brazil,3,2,0.0,0.0,44000,Enzo Bearzot,Tele Santana,2,0,0,0
+1982-07-05,1982,Spain,Second group stage,Spain,England,0,0,0.0,0.0,75000,Jose Santamaria,Ron Greenwood,0,1,0,0
+1982-07-04,1982,Spain,Second group stage,France,Northern Ireland,4,1,0.0,0.0,37000,Michel Hidalgo,Billy Bingham,1,1,0,0
+1982-07-04,1982,Spain,Second group stage,Poland,Soviet Union,0,0,0.0,0.0,65000,Antoni Piechniczek,Konstantin Beskov,2,3,0,0
+1982-07-02,1982,Spain,Second group stage,Argentina,Brazil,1,3,0.0,0.0,44000,Cesar Luis Menotti,Tele Santana,1,2,2,0
+1982-07-02,1982,Spain,Second group stage,West Germany,Spain,2,1,0.0,0.0,90089,Jupp Derwall,Jose Santamaria,2,3,0,0
+1982-07-01,1982,Spain,Second group stage,Austria,Northern Ireland,2,2,0.0,0.0,20000,Georg Schmidt,Billy Bingham,1,0,0,0
+1982-07-01,1982,Spain,Second group stage,Belgium,Soviet Union,0,1,0.0,0.0,45000,Guy Thys,Konstantin Beskov,0,1,0,0
+1982-06-29,1982,Spain,Second group stage,Italy,Argentina,2,1,0.0,0.0,43000,Enzo Bearzot,Cesar Luis Menotti,2,3,0,2
+1982-06-29,1982,Spain,Second group stage,West Germany,England,0,0,0.0,0.0,75000,Jupp Derwall,Ron Greenwood,1,0,0,0
+1982-06-28,1982,Spain,Second group stage,Austria,France,0,1,0.0,0.0,37000,Georg Schmidt,Michel Hidalgo,1,0,0,0
+1982-06-28,1982,Spain,Second group stage,Poland,Belgium,3,0,0.0,0.0,65000,Antoni Piechniczek,Guy Thys,1,0,0,0
+1982-06-25,1982,Spain,First group stage,England,Kuwait,1,0,0.0,0.0,39700,Ron Greenwood,Carlos Alberto Parreira,1,1,0,0
+1982-06-25,1982,Spain,First group stage,West Germany,Austria,1,0,0.0,0.0,41000,Jupp Derwall,Georg Schmidt,0,2,0,0
+1982-06-25,1982,Spain,First group stage,Northern Ireland,Spain,1,0,0.0,0.0,49562,Billy Bingham,Jose Santamaria,2,1,2,0
+1982-06-24,1982,Spain,First group stage,France,Czechoslovakia,1,1,0.0,0.0,28000,Michel Hidalgo,Jozef Venglos,1,1,0,2
+1982-06-24,1982,Spain,First group stage,Algeria,Chile,3,2,0.0,0.0,16000,Rachid Mekhloufi,Luis Alberto Santibanez,0,1,0,0
+1982-06-24,1982,Spain,First group stage,Honduras,Yugoslavia,0,1,0.0,0.0,25000,Jose De La Paz,Miljan Miljanic,1,1,2,0
+1982-06-23,1982,Spain,First group stage,Italy,Cameroon,1,1,0.0,0.0,20000,Enzo Bearzot,Jean Vincent,1,1,0,0
+1982-06-23,1982,Spain,First group stage,Argentina,El Salvador,2,0,0.0,0.0,32500,Cesar Luis Menotti,Mauricio Rodriguez,2,3,0,0
+1982-06-23,1982,Spain,First group stage,Brazil,New Zealand,4,0,0.0,0.0,43000,Tele Santana,John Adshead,0,0,0,0
+1982-06-22,1982,Spain,First group stage,Poland,Peru,5,1,0.0,0.0,25000,Antoni Piechniczek,Tim,0,1,0,0
+1982-06-22,1982,Spain,First group stage,Belgium,Hungary,1,1,0.0,0.0,37000,Guy Thys,Kalman Meszoly,2,0,0,0
+1982-06-22,1982,Spain,First group stage,Soviet Union,Scotland,2,2,0.0,0.0,45000,Konstantin Beskov,Jock Stein,0,1,0,0
+1982-06-21,1982,Spain,First group stage,Algeria,Austria,0,2,0.0,0.0,22000,Rachid Mekhloufi,Georg Schmidt,1,0,0,0
+1982-06-21,1982,Spain,First group stage,France,Kuwait,4,1,0.0,0.0,30043,Michel Hidalgo,Carlos Alberto Parreira,1,2,0,0
+1982-06-21,1982,Spain,First group stage,Honduras,Northern Ireland,1,1,0.0,0.0,15000,Jose De La Paz,Billy Bingham,0,0,0,0
+1982-06-20,1982,Spain,First group stage,West Germany,Chile,4,1,0.0,0.0,42000,Jupp Derwall,Luis Alberto Santibanez,0,2,0,0
+1982-06-20,1982,Spain,First group stage,England,Czechoslovakia,2,0,0.0,0.0,41123,Ron Greenwood,Jozef Venglos,0,1,0,0
+1982-06-20,1982,Spain,First group stage,Spain,Yugoslavia,2,1,0.0,0.0,48000,Jose Santamaria,Miljan Miljanic,2,2,0,0
+1982-06-19,1982,Spain,First group stage,Poland,Cameroon,0,0,0.0,0.0,19000,Antoni Piechniczek,Jean Vincent,1,2,0,0
+1982-06-19,1982,Spain,First group stage,Soviet Union,New Zealand,3,0,0.0,0.0,19000,Konstantin Beskov,John Adshead,0,0,0,0
+1982-06-19,1982,Spain,First group stage,Belgium,El Salvador,1,0,0.0,0.0,15000,Guy Thys,Mauricio Rodriguez,0,2,0,0
+1982-06-18,1982,Spain,First group stage,Italy,Peru,1,1,0.0,0.0,25000,Enzo Bearzot,Tim,1,1,0,0
+1982-06-18,1982,Spain,First group stage,Brazil,Scotland,4,1,0.0,0.0,47379,Tele Santana,Jock Stein,0,0,0,0
+1982-06-18,1982,Spain,First group stage,Argentina,Hungary,4,1,0.0,0.0,32093,Cesar Luis Menotti,Kalman Meszoly,0,0,0,0
+1982-06-17,1982,Spain,First group stage,Chile,Austria,0,1,0.0,0.0,22500,Luis Alberto Santibanez,Georg Schmidt,1,2,0,0
+1982-06-17,1982,Spain,First group stage,Czechoslovakia,Kuwait,1,1,0.0,0.0,25000,Jozef Venglos,Carlos Alberto Parreira,0,0,0,0
+1982-06-17,1982,Spain,First group stage,Yugoslavia,Northern Ireland,0,0,0.0,0.0,25000,Miljan Miljanic,Billy Bingham,0,1,0,0
+1982-06-16,1982,Spain,First group stage,England,France,3,1,0.0,0.0,44172,Ron Greenwood,Michel Hidalgo,1,0,0,0
+1982-06-16,1982,Spain,First group stage,West Germany,Algeria,1,2,0.0,0.0,42000,Jupp Derwall,Rachid Mekhloufi,1,1,0,0
+1982-06-16,1982,Spain,First group stage,Spain,Honduras,1,1,0.0,0.0,49562,Jose Santamaria,Jose De La Paz,0,0,0,0
+1982-06-15,1982,Spain,First group stage,Peru,Cameroon,0,0,0.0,0.0,11000,Tim,Jean Vincent,0,1,0,0
+1982-06-15,1982,Spain,First group stage,Hungary,El Salvador,10,1,0.0,0.0,23000,Kalman Meszoly,Mauricio Rodriguez,2,0,0,0
+1982-06-15,1982,Spain,First group stage,Scotland,New Zealand,5,2,0.0,0.0,36000,Jock Stein,John Adshead,0,0,0,0
+1982-06-14,1982,Spain,First group stage,Italy,Poland,0,0,0.0,0.0,33000,Enzo Bearzot,Antoni Piechniczek,2,1,0,0
+1982-06-14,1982,Spain,First group stage,Brazil,Soviet Union,2,1,0.0,0.0,68000,Tele Santana,Konstantin Beskov,0,0,0,0
+1982-06-13,1982,Spain,First group stage,Argentina,Belgium,0,1,0.0,0.0,95000,Cesar Luis Menotti,Guy Thys,1,1,0,0
+1978-06-25,1978,Argentina,Final,Argentina,Netherlands,3,1,0.0,0.0,71483,Cesar Luis Menotti,Ernst Happel,2,3,0,0
+1978-06-24,1978,Argentina,Third-place match,Brazil,Italy,2,1,0.0,0.0,69659,Claudio Coutinho,Enzo Bearzot,2,1,0,0
+1978-06-21,1978,Argentina,Second round,Netherlands,Italy,2,1,0.0,0.0,67433,Ernst Happel,Enzo Bearzot,2,3,0,0
+1978-06-21,1978,Argentina,Second round,Austria,West Germany,3,2,0.0,0.0,38318,Helmut Senekowitsch,Helmut Schoen,2,1,0,0
+1978-06-21,1978,Argentina,Second round,Brazil,Poland,3,1,0.0,0.0,39586,Claudio Coutinho,Jacek Gmoch,2,0,0,0
+1978-06-21,1978,Argentina,Second round,Argentina,Peru,6,0,0.0,0.0,37315,Cesar Luis Menotti,Marcos Calderon,0,2,0,0
+1978-06-18,1978,Argentina,Second round,Poland,Peru,1,0,0.0,0.0,35288,Jacek Gmoch,Marcos Calderon,2,2,0,0
+1978-06-18,1978,Argentina,Second round,West Germany,Netherlands,2,2,0.0,0.0,40750,Helmut Schoen,Ernst Happel,1,2,0,2
+1978-06-18,1978,Argentina,Second round,Italy,Austria,1,0,0.0,0.0,66695,Enzo Bearzot,Helmut Senekowitsch,0,0,0,0
+1978-06-18,1978,Argentina,Second round,Argentina,Brazil,0,0,0.0,0.0,37326,Cesar Luis Menotti,Claudio Coutinho,1,3,0,0
+1978-06-14,1978,Argentina,Second round,Netherlands,Austria,5,1,0.0,0.0,25050,Ernst Happel,Helmut Senekowitsch,0,0,0,0
+1978-06-14,1978,Argentina,Second round,West Germany,Italy,0,0,0.0,0.0,67547,Helmut Schoen,Enzo Bearzot,0,0,0,0
+1978-06-14,1978,Argentina,Second round,Brazil,Peru,3,0,0.0,0.0,31278,Claudio Coutinho,Marcos Calderon,1,1,0,0
+1978-06-14,1978,Argentina,Second round,Argentina,Poland,2,0,0.0,0.0,37091,Cesar Luis Menotti,Jacek Gmoch,1,1,0,0
+1978-06-11,1978,Argentina,First round,Brazil,Austria,1,0,0.0,0.0,35221,Claudio Coutinho,Helmut Senekowitsch,0,0,0,0
+1978-06-11,1978,Argentina,First round,Spain,Sweden,1,0,0.0,0.0,42132,Ladislao Kubala,Georg Ericson,0,1,0,0
+1978-06-11,1978,Argentina,First round,Peru,Iran,4,1,0.0,0.0,21262,Marcos Calderon,Heshmat Mohadjerani,0,1,0,0
+1978-06-11,1978,Argentina,First round,Scotland,Netherlands,3,2,0.0,0.0,35130,Alistair Macleod,Ernst Happel,1,0,0,0
+1978-06-10,1978,Argentina,First round,France,Hungary,3,1,0.0,0.0,23127,Michel Hidalgo,Lajos Baroti,0,0,0,0
+1978-06-10,1978,Argentina,First round,Poland,Mexico,3,1,0.0,0.0,22651,Jacek Gmoch,Jose Roca,0,0,0,0
+1978-06-10,1978,Argentina,First round,West Germany,Tunisia,0,0,0.0,0.0,30667,Helmut Schoen,Abdelmajid Chetali,1,1,0,0
+1978-06-10,1978,Argentina,First round,Italy,Argentina,1,0,0.0,0.0,71712,Enzo Bearzot,Cesar Luis Menotti,1,0,0,0
+1978-06-07,1978,Argentina,First round,Austria,Sweden,1,0,0.0,0.0,41424,Helmut Senekowitsch,Georg Ericson,0,0,0,0
+1978-06-07,1978,Argentina,First round,Brazil,Spain,0,0,0.0,0.0,34771,Claudio Coutinho,Ladislao Kubala,0,1,0,0
+1978-06-07,1978,Argentina,First round,Netherlands,Peru,0,0,0.0,0.0,28125,Ernst Happel,Marcos Calderon,1,1,0,0
+1978-06-07,1978,Argentina,First round,Scotland,Iran,1,1,0.0,0.0,7938,Alistair Macleod,Heshmat Mohadjerani,0,1,0,0
+1978-06-06,1978,Argentina,First round,Italy,Hungary,3,1,0.0,0.0,26533,Enzo Bearzot,Lajos Baroti,0,2,0,0
+1978-06-06,1978,Argentina,First round,West Germany,Mexico,6,0,0.0,0.0,35258,Helmut Schoen,Jose Roca,1,1,0,0
+1978-06-06,1978,Argentina,First round,Poland,Tunisia,1,0,0.0,0.0,9624,Jacek Gmoch,Abdelmajid Chetali,0,0,0,0
+1978-06-06,1978,Argentina,First round,Argentina,France,2,1,0.0,0.0,71666,Cesar Luis Menotti,Michel Hidalgo,0,1,0,0
+1978-06-03,1978,Argentina,First round,Sweden,Brazil,1,1,0.0,0.0,32569,Georg Ericson,Claudio Coutinho,0,1,0,0
+1978-06-03,1978,Argentina,First round,Austria,Spain,2,1,0.0,0.0,40841,Helmut Senekowitsch,Ladislao Kubala,0,0,0,0
+1978-06-03,1978,Argentina,First round,Peru,Scotland,3,1,0.0,0.0,37927,Marcos Calderon,Alistair Macleod,1,0,0,0
+1978-06-03,1978,Argentina,First round,Netherlands,Iran,3,0,0.0,0.0,33431,Ernst Happel,Heshmat Mohadjerani,0,1,0,0
+1978-06-02,1978,Argentina,First round,Italy,France,2,1,0.0,0.0,42373,Enzo Bearzot,Michel Hidalgo,1,2,0,0
+1978-06-02,1978,Argentina,First round,Tunisia,Mexico,3,1,0.0,0.0,17396,Abdelmajid Chetali,Jose Roca,0,0,0,0
+1978-06-02,1978,Argentina,First round,Argentina,Hungary,2,1,0.0,0.0,71615,Cesar Luis Menotti,Lajos Baroti,1,2,0,3
+1978-06-01,1978,Argentina,First round,West Germany,Poland,0,0,0.0,0.0,67579,Helmut Schoen,Jacek Gmoch,0,0,0,0
+1974-07-07,1974,Germany,Final,Netherlands,West Germany,1,2,0.0,0.0,78200,Rinus Michels,Helmut Schoen,3,1,0,0
+1974-07-06,1974,Germany,Third-place match,Brazil,Poland,0,1,0.0,0.0,77100,Mario Zagallo,Kazimierz Gorski,1,1,0,0
+1974-07-03,1974,Germany,Second round,Poland,West Germany,0,1,0.0,0.0,62000,Kazimierz Gorski,Helmut Schoen,0,0,0,0
+1974-07-03,1974,Germany,Second round,Netherlands,Brazil,2,0,0.0,0.0,53700,Rinus Michels,Mario Zagallo,2,3,0,2
+1974-07-03,1974,Germany,Second round,Argentina,Germany DR,1,1,0.0,0.0,54254,Vladislao Cap,Georg Buschner,1,1,0,0
+1974-07-03,1974,Germany,Second round,Sweden,Yugoslavia,2,1,0.0,0.0,41300,Georg Ericson,Miljan Miljanic,0,2,0,0
+1974-06-30,1974,Germany,Second round,Poland,Yugoslavia,2,1,0.0,0.0,58000,Kazimierz Gorski,Miljan Miljanic,0,0,0,0
+1974-06-30,1974,Germany,Second round,Argentina,Brazil,1,2,0.0,0.0,39400,Vladislao Cap,Mario Zagallo,1,0,0,0
+1974-06-30,1974,Germany,Second round,Germany DR,Netherlands,0,2,0.0,0.0,68348,Georg Buschner,Rinus Michels,0,0,0,0
+1974-06-30,1974,Germany,Second round,West Germany,Sweden,4,2,0.0,0.0,67800,Helmut Schoen,Georg Ericson,0,1,0,0
+1974-06-26,1974,Germany,Second round,Yugoslavia,West Germany,0,2,0.0,0.0,67385,Miljan Miljanic,Helmut Schoen,2,2,0,0
+1974-06-26,1974,Germany,Second round,Brazil,Germany DR,1,0,0.0,0.0,59863,Mario Zagallo,Georg Buschner,3,2,0,0
+1974-06-26,1974,Germany,Second round,Sweden,Poland,0,1,0.0,0.0,44955,Georg Ericson,Kazimierz Gorski,0,2,0,0
+1974-06-26,1974,Germany,Second round,Netherlands,Argentina,4,0,0.0,0.0,56548,Rinus Michels,Vladislao Cap,2,1,0,0
+1974-06-23,1974,Germany,First round,Bulgaria,Netherlands,1,4,0.0,0.0,53300,Hristo Mladenov,Rinus Michels,1,3,0,0
+1974-06-23,1974,Germany,First round,Poland,Italy,2,1,0.0,0.0,70100,Kazimierz Gorski,Ferruccio Valcareggi,2,1,0,0
+1974-06-23,1974,Germany,First round,Sweden,Uruguay,3,0,0.0,0.0,28300,Georg Ericson,Roberto Porta,0,1,0,0
+1974-06-23,1974,Germany,First round,Argentina,Haiti,4,1,0.0,0.0,25900,Vladislao Cap,Antoine Tassy,2,1,0,0
+1974-06-22,1974,Germany,First round,Scotland,Yugoslavia,1,1,0.0,0.0,56000,Willie Ormond,Miljan Miljanic,2,3,0,0
+1974-06-22,1974,Germany,First round,Australia,Chile,0,0,0.0,0.0,17400,Rale Rasic,Luis Alamos,1,0,2,0
+1974-06-22,1974,Germany,First round,Zaire,Brazil,0,3,0.0,0.0,36200,Blagoje Vidinic,Mario Zagallo,1,1,0,0
+1974-06-22,1974,Germany,First round,Germany DR,West Germany,1,0,0.0,0.0,60200,Georg Buschner,Helmut Schoen,3,0,0,0
+1974-06-19,1974,Germany,First round,Haiti,Poland,0,7,0.0,0.0,25300,Antoine Tassy,Kazimierz Gorski,1,0,0,0
+1974-06-19,1974,Germany,First round,Bulgaria,Uruguay,1,1,0.0,0.0,13400,Hristo Mladenov,Roberto Porta,1,1,0,0
+1974-06-19,1974,Germany,First round,Netherlands,Sweden,0,0,0.0,0.0,53700,Rinus Michels,Georg Ericson,1,4,0,0
+1974-06-19,1974,Germany,First round,Argentina,Italy,1,1,0.0,0.0,70100,Vladislao Cap,Ferruccio Valcareggi,1,1,0,0
+1974-06-18,1974,Germany,First round,Australia,West Germany,0,3,0.0,0.0,53300,Rale Rasic,Helmut Schoen,1,0,0,0
+1974-06-18,1974,Germany,First round,Yugoslavia,Zaire,9,0,0.0,0.0,31700,Miljan Miljanic,Blagoje Vidinic,1,0,0,2
+1974-06-18,1974,Germany,First round,Chile,Germany DR,1,1,0.0,0.0,28300,Luis Alamos,Georg Buschner,2,1,0,0
+1974-06-18,1974,Germany,First round,Scotland,Brazil,0,0,0.0,0.0,62000,Willie Ormond,Mario Zagallo,0,3,0,0
+1974-06-15,1974,Germany,First round,Uruguay,Netherlands,0,2,0.0,0.0,55100,Roberto Porta,Rinus Michels,3,0,2,0
+1974-06-15,1974,Germany,First round,Sweden,Bulgaria,0,0,0.0,0.0,23800,Georg Ericson,Hristo Mladenov,0,0,0,0
+1974-06-15,1974,Germany,First round,Italy,Haiti,3,1,0.0,0.0,53000,Ferruccio Valcareggi,Antoine Tassy,0,1,0,0
+1974-06-15,1974,Germany,First round,Poland,Argentina,3,2,0.0,0.0,32700,Kazimierz Gorski,Vladislao Cap,0,2,0,0
+1974-06-14,1974,Germany,First round,West Germany,Chile,1,0,0.0,0.0,81100,Helmut Schoen,Luis Alamos,0,3,0,2
+1974-06-14,1974,Germany,First round,Germany DR,Australia,2,0,0.0,0.0,17000,Georg Buschner,Rale Rasic,3,0,0,0
+1974-06-14,1974,Germany,First round,Zaire,Scotland,0,2,0.0,0.0,27000,Blagoje Vidinic,Willie Ormond,1,1,0,0
+1974-06-13,1974,Germany,First round,Brazil,Yugoslavia,0,0,0.0,0.0,62000,Mario Zagallo,Miljan Miljanic,0,2,0,0
+1970-06-21,1970,Mexico,Final,Brazil,Italy,4,1,0.0,0.0,107412,Mario Zagallo,Ferruccio Valcareggi,1,1,0,0
+1970-06-20,1970,Mexico,Third-place match,West Germany,Uruguay,1,0,0.0,0.0,104403,Helmut Schoen,Juan Hohberg,2,3,0,0
+1970-06-17,1970,Mexico,Semi-finals,Italy,West Germany,4,3,0.0,0.0,102444,Ferruccio Valcareggi,Helmut Schoen,3,2,0,0
+1970-06-17,1970,Mexico,Semi-finals,Brazil,Uruguay,3,1,0.0,0.0,51261,Mario Zagallo,Juan Hohberg,1,3,0,0
+1970-06-14,1970,Mexico,Quarter-finals,Brazil,Peru,4,2,0.0,0.0,54233,Mario Zagallo,Didi,0,0,0,0
+1970-06-14,1970,Mexico,Quarter-finals,Italy,Mexico,4,1,0.0,0.0,26851,Ferruccio Valcareggi,Raul Cardenas,1,0,0,0
+1970-06-14,1970,Mexico,Quarter-finals,Uruguay,Soviet Union,1,0,0.0,0.0,26085,Juan Hohberg,Gavril Kachalin,0,1,0,0
+1970-06-14,1970,Mexico,Quarter-finals,West Germany,England,3,2,0.0,0.0,23357,Helmut Schoen,Alf Ramsey,1,1,0,0
+1970-06-11,1970,Mexico,Group stage,Mexico,Belgium,1,0,0.0,0.0,108192,Raul Cardenas,Raymond Goethals,2,2,0,0
+1970-06-11,1970,Mexico,Group stage,Italy,Israel,0,0,0.0,0.0,9890,Ferruccio Valcareggi,Emmanuel Sheffer,1,2,0,0
+1970-06-11,1970,Mexico,Group stage,Bulgaria,Morocco,1,1,0.0,0.0,12299,Stefan Bozhkov,Blagoje Vidinic,0,0,0,0
+1970-06-11,1970,Mexico,Group stage,England,Czechoslovakia,1,0,0.0,0.0,49292,Alf Ramsey,Jozef Marko,0,1,0,0
+1970-06-10,1970,Mexico,Group stage,West Germany,Peru,3,1,0.0,0.0,17875,Helmut Schoen,Didi,0,0,0,0
+1970-06-10,1970,Mexico,Group stage,Brazil,Romania,3,2,0.0,0.0,50804,Mario Zagallo,Angelo Niculescu,0,2,0,0
+1970-06-10,1970,Mexico,Group stage,Sweden,Uruguay,1,0,0.0,0.0,18163,Orvar Bergmark,Juan Hohberg,0,0,0,0
+1970-06-10,1970,Mexico,Group stage,Soviet Union,El Salvador,2,0,0.0,0.0,89979,Gavril Kachalin,Hernan Carrasco,1,0,0,0
+1970-06-07,1970,Mexico,Group stage,Mexico,El Salvador,4,0,0.0,0.0,103058,Raul Cardenas,Hernan Carrasco,0,4,0,0
+1970-06-07,1970,Mexico,Group stage,Brazil,England,1,0,0.0,0.0,66843,Mario Zagallo,Alf Ramsey,0,1,0,0
+1970-06-07,1970,Mexico,Group stage,West Germany,Bulgaria,5,2,0.0,0.0,12710,Helmut Schoen,Stefan Bozhkov,0,0,0,0
+1970-06-07,1970,Mexico,Group stage,Sweden,Israel,1,1,0.0,0.0,9624,Orvar Bergmark,Emmanuel Sheffer,1,2,0,0
+1970-06-06,1970,Mexico,Group stage,Romania,Czechoslovakia,2,1,0.0,0.0,56818,Angelo Niculescu,Jozef Marko,1,1,0,0
+1970-06-06,1970,Mexico,Group stage,Uruguay,Italy,0,0,0.0,0.0,29968,Juan Hohberg,Ferruccio Valcareggi,1,0,0,0
+1970-06-06,1970,Mexico,Group stage,Soviet Union,Belgium,4,1,0.0,0.0,95261,Gavril Kachalin,Raymond Goethals,0,0,0,0
+1970-06-06,1970,Mexico,Group stage,Peru,Morocco,3,0,0.0,0.0,13537,Didi,Blagoje Vidinic,0,0,0,0
+1970-06-03,1970,Mexico,Group stage,Belgium,El Salvador,3,0,0.0,0.0,92205,Raymond Goethals,Hernan Carrasco,0,0,0,0
+1970-06-03,1970,Mexico,Group stage,Brazil,Czechoslovakia,4,1,0.0,0.0,52897,Mario Zagallo,Jozef Marko,2,1,0,0
+1970-06-03,1970,Mexico,Group stage,Italy,Sweden,1,0,0.0,0.0,13433,Ferruccio Valcareggi,Orvar Bergmark,0,1,0,0
+1970-06-03,1970,Mexico,Group stage,West Germany,Morocco,2,1,0.0,0.0,12942,Helmut Schoen,Blagoje Vidinic,0,0,0,0
+1970-06-02,1970,Mexico,Group stage,England,Romania,1,0,0.0,0.0,50560,Alf Ramsey,Angelo Niculescu,0,0,0,0
+1970-06-02,1970,Mexico,Group stage,Peru,Bulgaria,3,2,0.0,0.0,13765,Didi,Stefan Bozhkov,0,0,0,0
+1970-06-02,1970,Mexico,Group stage,Uruguay,Israel,2,0,0.0,0.0,20654,Juan Hohberg,Emmanuel Sheffer,0,0,0,0
+1970-05-31,1970,Mexico,Group stage,Mexico,Soviet Union,0,0,0.0,0.0,107160,Raul Cardenas,Gavril Kachalin,1,4,0,0
+1966-07-30,1966,England,Final,England,West Germany,4,2,0.0,0.0,96924,Alf Ramsey,Helmut Schoen,1,0,0,0
+1966-07-28,1966,England,Third-place match,Portugal,Soviet Union,2,1,0.0,0.0,87696,Otto Gloria,Nikolai Morozov,0,0,0,0
+1966-07-26,1966,England,Semi-finals,England,Portugal,2,1,0.0,0.0,94493,Alf Ramsey,Otto Gloria,0,0,0,0
+1966-07-25,1966,England,Semi-finals,West Germany,Soviet Union,2,1,0.0,0.0,38273,Helmut Schoen,Nikolai Morozov,1,1,0,2
+1966-07-23,1966,England,Quarter-finals,Portugal,North Korea,5,3,0.0,0.0,40248,Otto Gloria,Rye Hyun Myung,1,0,0,0
+1966-07-23,1966,England,Quarter-finals,England,Argentina,1,0,0.0,0.0,90584,Alf Ramsey,Juan Carlos Lorenzo,0,3,0,2
+1966-07-23,1966,England,Quarter-finals,Soviet Union,Hungary,2,1,0.0,0.0,26844,Nikolai Morozov,Lajos Baroti,0,0,0,0
+1966-07-23,1966,England,Quarter-finals,West Germany,Uruguay,4,0,0.0,0.0,40007,Helmut Schoen,Ondino Viera,1,1,0,3
+1966-07-20,1966,England,Group stage,England,France,2,0,0.0,0.0,98270,Alf Ramsey,Henri Guerin,1,0,0,0
+1966-07-20,1966,England,Group stage,Hungary,Bulgaria,3,1,0.0,0.0,24129,Lajos Baroti,Rudolf Vytlacil,0,0,0,0
+1966-07-20,1966,England,Group stage,West Germany,Spain,2,1,0.0,0.0,42187,Helmut Schoen,Jose Villalonga,1,1,0,0
+1966-07-20,1966,England,Group stage,Soviet Union,Chile,2,1,0.0,0.0,16027,Nikolai Morozov,Luis Alamos,0,0,0,0
+1966-07-19,1966,England,Group stage,Uruguay,Mexico,0,0,0.0,0.0,61112,Ondino Viera,Ignacio Trellez,0,0,0,0
+1966-07-19,1966,England,Group stage,Argentina,Switzerland,2,0,0.0,0.0,32127,Juan Carlos Lorenzo,Alfredo Foni,0,0,0,0
+1966-07-19,1966,England,Group stage,Portugal,Brazil,3,1,0.0,0.0,58479,Otto Gloria,Vicente Feola,0,0,0,0
+1966-07-19,1966,England,Group stage,North Korea,Italy,1,0,0.0,0.0,17829,Rye Hyun Myung,Edmondo Fabbri,0,0,0,0
+1966-07-16,1966,England,Group stage,West Germany,Argentina,0,0,0.0,0.0,46587,Helmut Schoen,Juan Carlos Lorenzo,1,0,0,2
+1966-07-16,1966,England,Group stage,Soviet Union,Italy,1,0,0.0,0.0,27793,Nikolai Morozov,Edmondo Fabbri,1,0,0,0
+1966-07-16,1966,England,Group stage,Portugal,Bulgaria,3,0,0.0,0.0,25438,Otto Gloria,Rudolf Vytlacil,1,1,0,0
+1966-07-16,1966,England,Group stage,England,Mexico,2,0,0.0,0.0,92570,Alf Ramsey,Ignacio Trellez,0,0,0,0
+1966-07-15,1966,England,Group stage,Spain,Switzerland,2,1,0.0,0.0,32028,Jose Villalonga,Alfredo Foni,0,0,0,0
+1966-07-15,1966,England,Group stage,Uruguay,France,2,1,0.0,0.0,45662,Ondino Viera,Henri Guerin,0,0,0,0
+1966-07-15,1966,England,Group stage,Hungary,Brazil,3,1,0.0,0.0,51387,Lajos Baroti,Vicente Feola,0,0,0,0
+1966-07-15,1966,England,Group stage,North Korea,Chile,1,1,0.0,0.0,13792,Rye Hyun Myung,Luis Alamos,0,1,0,0
+1966-07-13,1966,England,Group stage,Argentina,Spain,2,1,0.0,0.0,42738,Juan Carlos Lorenzo,Jose Villalonga,0,0,0,0
+1966-07-13,1966,England,Group stage,France,Mexico,1,1,0.0,0.0,69237,Henri Guerin,Ignacio Trellez,0,0,0,0
+1966-07-13,1966,England,Group stage,Italy,Chile,2,0,0.0,0.0,27199,Edmondo Fabbri,Luis Alamos,0,0,0,0
+1966-07-13,1966,England,Group stage,Portugal,Hungary,3,1,0.0,0.0,29886,Otto Gloria,Lajos Baroti,0,0,0,0
+1966-07-12,1966,England,Group stage,Brazil,Bulgaria,2,0,0.0,0.0,47308,Vicente Feola,Rudolf Vytlacil,1,2,0,0
+1966-07-12,1966,England,Group stage,Soviet Union,North Korea,3,0,0.0,0.0,23006,Nikolai Morozov,Rye Hyun Myung,1,0,0,0
+1966-07-12,1966,England,Group stage,West Germany,Switzerland,5,0,0.0,0.0,36127,Helmut Schoen,Alfredo Foni,0,0,0,0
+1966-07-11,1966,England,Group stage,England,Uruguay,0,0,0.0,0.0,87148,Alf Ramsey,Ondino Viera,0,0,0,0
+1962-06-17,1962,Chile,Final,Brazil,Czechoslovakia,3,1,0.0,0.0,68679,Aymore Moreira,Rudolf Vytlacil,0,0,0,0
+1962-06-16,1962,Chile,Third-place match,Chile,Yugoslavia,1,0,0.0,0.0,66697,Fernando Riera,Ljubomir Lovric,0,0,0,0
+1962-06-13,1962,Chile,Semi-finals,Brazil,Chile,4,2,0.0,0.0,76594,Aymore Moreira,Fernando Riera,0,0,2,2
+1962-06-13,1962,Chile,Semi-finals,Czechoslovakia,Yugoslavia,3,1,0.0,0.0,5890,Rudolf Vytlacil,Ljubomir Lovric,0,0,0,0
+1962-06-10,1962,Chile,Quarter-finals,Chile,Soviet Union,2,1,0.0,0.0,17268,Fernando Riera,Gavril Kachalin,0,0,0,0
+1962-06-10,1962,Chile,Quarter-finals,Brazil,England,3,1,0.0,0.0,17736,Aymore Moreira,Walter Winterbottom,0,0,0,0
+1962-06-10,1962,Chile,Quarter-finals,Czechoslovakia,Hungary,1,0,0.0,0.0,11690,Rudolf Vytlacil,Lajos Baroti,0,0,0,0
+1962-06-10,1962,Chile,Quarter-finals,Yugoslavia,West Germany,1,0,0.0,0.0,63324,Ljubomir Lovric,Sepp Herberger,0,0,0,0
+1962-06-07,1962,Chile,Group stage,England,Bulgaria,0,0,0.0,0.0,5700,Walter Winterbottom,Georgi Pachedzhiev,0,0,0,0
+1962-06-07,1962,Chile,Group stage,Mexico,Czechoslovakia,3,1,0.0,0.0,10648,Ignacio Trellez,Rudolf Vytlacil,0,0,0,0
+1962-06-07,1962,Chile,Group stage,Italy,Switzerland,3,0,0.0,0.0,59828,Paolo Mazza,Karl Rappan,0,0,0,0
+1962-06-07,1962,Chile,Group stage,Yugoslavia,Colombia,5,0,0.0,0.0,7167,Ljubomir Lovric,Adolfo Pedernera,0,0,0,0
+1962-06-06,1962,Chile,Group stage,West Germany,Chile,2,0,0.0,0.0,67224,Sepp Herberger,Fernando Riera,0,0,0,0
+1962-06-06,1962,Chile,Group stage,Soviet Union,Uruguay,2,1,0.0,0.0,9973,Gavril Kachalin,Juan Carlos Corazzo,0,0,0,0
+1962-06-06,1962,Chile,Group stage,Hungary,Argentina,0,0,0.0,0.0,7945,Lajos Baroti,Juan Carlos Lorenzo,0,0,0,0
+1962-06-06,1962,Chile,Group stage,Brazil,Spain,2,1,0.0,0.0,18715,Aymore Moreira,Helenio Herrera,0,0,0,0
+1962-06-03,1962,Chile,Group stage,Spain,Mexico,1,0,0.0,0.0,11875,Helenio Herrera,Ignacio Trellez,0,0,0,0
+1962-06-03,1962,Chile,Group stage,Soviet Union,Colombia,4,4,0.0,0.0,8040,Gavril Kachalin,Adolfo Pedernera,0,0,0,0
+1962-06-03,1962,Chile,Group stage,Hungary,Bulgaria,6,1,0.0,0.0,7442,Lajos Baroti,Georgi Pachedzhiev,0,0,0,0
+1962-06-03,1962,Chile,Group stage,West Germany,Switzerland,2,1,0.0,0.0,64922,Sepp Herberger,Karl Rappan,0,0,0,0
+1962-06-02,1962,Chile,Group stage,Chile,Italy,2,0,0.0,0.0,66057,Fernando Riera,Paolo Mazza,0,0,0,3
+1962-06-02,1962,Chile,Group stage,Brazil,Czechoslovakia,0,0,0.0,0.0,14903,Aymore Moreira,Rudolf Vytlacil,0,0,0,0
+1962-06-02,1962,Chile,Group stage,England,Argentina,3,1,0.0,0.0,9794,Walter Winterbottom,Juan Carlos Lorenzo,0,0,0,0
+1962-06-02,1962,Chile,Group stage,Yugoslavia,Uruguay,3,1,0.0,0.0,8829,Ljubomir Lovric,Juan Carlos Corazzo,0,0,2,2
+1962-05-31,1962,Chile,Group stage,West Germany,Italy,0,0,0.0,0.0,65440,Sepp Herberger,Paolo Mazza,0,0,0,0
+1962-05-31,1962,Chile,Group stage,Hungary,England,2,1,0.0,0.0,7938,Lajos Baroti,Walter Winterbottom,0,0,0,0
+1962-05-31,1962,Chile,Group stage,Czechoslovakia,Spain,1,0,0.0,0.0,12700,Rudolf Vytlacil,Helenio Herrera,0,0,0,0
+1962-05-31,1962,Chile,Group stage,Soviet Union,Yugoslavia,2,0,0.0,0.0,9622,Gavril Kachalin,Ljubomir Lovric,0,0,0,0
+1962-05-30,1962,Chile,Group stage,Chile,Switzerland,3,1,0.0,0.0,65006,Fernando Riera,Karl Rappan,0,0,0,0
+1962-05-30,1962,Chile,Group stage,Uruguay,Colombia,2,1,0.0,0.0,7908,Juan Carlos Corazzo,Adolfo Pedernera,0,0,0,0
+1962-05-30,1962,Chile,Group stage,Brazil,Mexico,2,0,0.0,0.0,10484,Aymore Moreira,Ignacio Trellez,0,0,0,0
+1962-05-30,1962,Chile,Group stage,Argentina,Bulgaria,1,0,0.0,0.0,7134,Juan Carlos Lorenzo,Georgi Pachedzhiev,1,0,0,0
+1958-06-29,1958,Sweden,Final,Brazil,Sweden,5,2,0.0,0.0,49737,Vicente Feola,George Raynor,0,0,0,0
+1958-06-28,1958,Sweden,Third-place match,France,West Germany,6,3,0.0,0.0,32483,Albert Batteaux,Sepp Herberger,0,0,0,0
+1958-06-24,1958,Sweden,Semi-finals,Sweden,West Germany,3,1,0.0,0.0,49471,George Raynor,Sepp Herberger,0,0,0,2
+1958-06-24,1958,Sweden,Semi-finals,Brazil,France,5,2,0.0,0.0,27100,Vicente Feola,Albert Batteaux,0,0,0,0
+1958-06-19,1958,Sweden,Quarter-finals,France,Northern Ireland,4,0,0.0,0.0,11800,Albert Batteaux,Peter Doherty,0,0,0,0
+1958-06-19,1958,Sweden,Quarter-finals,West Germany,Yugoslavia,1,0,0.0,0.0,20055,Sepp Herberger,Aleksandar Tirnanic,0,0,0,0
+1958-06-19,1958,Sweden,Quarter-finals,Brazil,Wales,1,0,0.0,0.0,25923,Vicente Feola,James Murphy,0,0,0,0
+1958-06-19,1958,Sweden,Quarter-finals,Sweden,Soviet Union,2,0,0.0,0.0,31900,George Raynor,Gavril Kachalin,0,0,0,0
+1958-06-17,1958,Sweden,Group stage play-off,Northern Ireland,Czechoslovakia,2,1,0.0,0.0,6196,Peter Doherty,Karel Kolsky,0,0,0,2
+1958-06-17,1958,Sweden,Group stage play-off,Wales,Hungary,2,1,0.0,0.0,2823,James Murphy,Lajos Baroti,0,0,0,2
+1958-06-17,1958,Sweden,Group stage play-off,Soviet Union,England,1,0,0.0,0.0,23182,Gavril Kachalin,Walter Winterbottom,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,Sweden,Wales,0,0,0.0,0.0,30287,George Raynor,James Murphy,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,Paraguay,Yugoslavia,3,3,0.0,0.0,13103,Aurelio Gonzalez,Aleksandar Tirnanic,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,West Germany,Northern Ireland,2,2,0.0,0.0,21990,Sepp Herberger,Peter Doherty,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,Czechoslovakia,Argentina,6,1,0.0,0.0,16418,Karel Kolsky,Guillermo Stabile,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,England,Austria,2,2,0.0,0.0,15872,Walter Winterbottom,Josef Argauer,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,Brazil,Soviet Union,2,0,0.0,0.0,50928,Vicente Feola,Gavril Kachalin,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,Hungary,Mexico,4,0,0.0,0.0,13300,Lajos Baroti,Antonio Lopez,0,0,0,0
+1958-06-15,1958,Sweden,Group stage,France,Scotland,2,1,0.0,0.0,13554,Albert Batteaux,Dawson Walker,0,0,0,0
+1958-06-12,1958,Sweden,Group stage,Sweden,Hungary,2,1,0.0,0.0,38850,George Raynor,Lajos Baroti,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,Soviet Union,Austria,2,0,0.0,0.0,21239,Gavril Kachalin,Josef Argauer,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,West Germany,Czechoslovakia,2,2,0.0,0.0,25000,Sepp Herberger,Karel Kolsky,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,Argentina,Northern Ireland,3,1,0.0,0.0,14174,Guillermo Stabile,Peter Doherty,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,Yugoslavia,France,3,2,0.0,0.0,12217,Aleksandar Tirnanic,Albert Batteaux,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,Paraguay,Scotland,3,2,0.0,0.0,11665,Aurelio Gonzalez,Dawson Walker,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,Brazil,England,0,0,0.0,0.0,40895,Vicente Feola,Walter Winterbottom,0,0,0,0
+1958-06-11,1958,Sweden,Group stage,Mexico,Wales,1,1,0.0,0.0,15150,Antonio Lopez,James Murphy,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Sweden,Mexico,3,0,0.0,0.0,34107,George Raynor,Antonio Lopez,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Northern Ireland,Czechoslovakia,1,0,0.0,0.0,10647,Peter Doherty,Karel Kolsky,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Hungary,Wales,1,1,0.0,0.0,15343,Lajos Baroti,James Murphy,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Yugoslavia,Scotland,1,1,0.0,0.0,9591,Aleksandar Tirnanic,Dawson Walker,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Brazil,Austria,3,0,0.0,0.0,17788,Vicente Feola,Josef Argauer,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Soviet Union,England,2,2,0.0,0.0,49348,Gavril Kachalin,Walter Winterbottom,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,France,Paraguay,7,3,0.0,0.0,16518,Albert Batteaux,Aurelio Gonzalez,0,0,0,0
+1958-06-08,1958,Sweden,Group stage,Argentina,West Germany,1,3,0.0,0.0,31156,Guillermo Stabile,Sepp Herberger,0,0,0,0
+1954-07-04,1954,Switzerland,Final,Germany,Hungary,3,2,0.0,0.0,62500,Sepp Herberger,Gusztav Sebes,0,0,0,0
+1954-07-03,1954,Switzerland,Third-place match,Austria,Uruguay,3,1,0.0,0.0,32000,Walter Nausch,Juan Lopez,0,0,0,0
+1954-06-30,1954,Switzerland,Semi-finals,Hungary,Uruguay,4,2,0.0,0.0,45000,Gusztav Sebes,Juan Lopez,0,0,0,0
+1954-06-30,1954,Switzerland,Semi-finals,Germany,Austria,6,1,0.0,0.0,58000,Sepp Herberger,Walter Nausch,0,0,0,0
+1954-06-27,1954,Switzerland,Quarter-finals,Germany,Yugoslavia,2,0,0.0,0.0,17000,Sepp Herberger,Aleksandar Tirnanic,0,0,0,0
+1954-06-27,1954,Switzerland,Quarter-finals,Hungary,Brazil,4,2,0.0,0.0,40000,Gusztav Sebes,Zeze Moreira,0,0,2,3
+1954-06-26,1954,Switzerland,Quarter-finals,Uruguay,England,4,2,0.0,0.0,28000,Juan Lopez,Walter Winterbottom,0,0,0,0
+1954-06-26,1954,Switzerland,Quarter-finals,Switzerland,Austria,5,7,0.0,0.0,35000,Karl Rappan,Walter Nausch,0,0,0,0
+1954-06-23,1954,Switzerland,Group stage play-off,Germany,Turkey,7,2,0.0,0.0,17000,Sepp Herberger,Sandro Puppo,0,0,0,0
+1954-06-23,1954,Switzerland,Group stage play-off,Switzerland,Italy,4,1,0.0,0.0,30000,Karl Rappan,Lajos Czeizler,0,0,0,0
+1954-06-20,1954,Switzerland,Group stage,Hungary,Germany,8,3,0.0,0.0,56000,Gusztav Sebes,Sepp Herberger,0,0,0,0
+1954-06-20,1954,Switzerland,Group stage,Turkey,South Korea,7,0,0.0,0.0,4000,Sandro Puppo,Yong Shik Kim,0,0,0,0
+1954-06-20,1954,Switzerland,Group stage,Italy,Belgium,4,1,0.0,0.0,24000,Lajos Czeizler,Doug Livingstone,0,0,0,0
+1954-06-20,1954,Switzerland,Group stage,Switzerland,England,0,2,0.0,0.0,43500,Karl Rappan,Walter Winterbottom,0,0,0,0
+1954-06-19,1954,Switzerland,Group stage,Uruguay,Scotland,7,0,0.0,0.0,34000,Juan Lopez,Andy Battie,0,0,0,0
+1954-06-19,1954,Switzerland,Group stage,Brazil,Yugoslavia,1,1,0.0,0.0,24637,Zeze Moreira,Aleksandar Tirnanic,0,0,0,0
+1954-06-19,1954,Switzerland,Group stage,Austria,Czechoslovakia,5,0,0.0,0.0,26000,Walter Nausch,Josef Cejp,0,0,0,0
+1954-06-19,1954,Switzerland,Group stage,France,Mexico,3,2,0.0,0.0,19000,Pierre Pibarot,Antonio Lopez,0,0,0,0
+1954-06-17,1954,Switzerland,Group stage,Switzerland,Italy,2,1,0.0,0.0,43000,Karl Rappan,Lajos Czeizler,0,0,0,0
+1954-06-17,1954,Switzerland,Group stage,Hungary,South Korea,9,0,0.0,0.0,13000,Gusztav Sebes,Yong Shik Kim,0,0,0,0
+1954-06-17,1954,Switzerland,Group stage,Germany,Turkey,4,1,0.0,0.0,28000,Sepp Herberger,Sandro Puppo,0,0,0,0
+1954-06-17,1954,Switzerland,Group stage,England,Belgium,4,4,0.0,0.0,14000,Walter Winterbottom,Doug Livingstone,0,0,0,0
+1954-06-16,1954,Switzerland,Group stage,Uruguay,Czechoslovakia,2,0,0.0,0.0,20500,Juan Lopez,Oldrich Nejedly,0,0,0,0
+1954-06-16,1954,Switzerland,Group stage,Yugoslavia,France,1,0,0.0,0.0,16000,Aleksandar Tirnanic,Pierre Pibarot,0,0,0,0
+1954-06-16,1954,Switzerland,Group stage,Brazil,Mexico,5,0,0.0,0.0,13470,Zeze Moreira,Antonio Lopez,0,0,0,0
+1954-06-16,1954,Switzerland,Group stage,Austria,Scotland,1,0,0.0,0.0,25000,Walter Nausch,Andy Battie,0,0,0,0
+1950-07-16,1950,Brazil,Final stage,Sweden,Spain,3,1,0.0,0.0,11227,George Raynor,Guillermo Eizaguirre,0,0,0,0
+1950-07-16,1950,Brazil,Final stage,Uruguay,Brazil,2,1,0.0,0.0,173850,Juan Lopez,Flavio Costa,0,0,0,0
+1950-07-13,1950,Brazil,Final stage,Brazil,Spain,6,1,0.0,0.0,152772,Flavio Costa,Guillermo Eizaguirre,1,0,0,0
+1950-07-13,1950,Brazil,Final stage,Uruguay,Sweden,3,2,0.0,0.0,7987,Juan Lopez,George Raynor,0,0,0,0
+1950-07-09,1950,Brazil,Final stage,Brazil,Sweden,7,1,0.0,0.0,138886,Flavio Costa,George Raynor,0,0,0,0
+1950-07-09,1950,Brazil,Final stage,Uruguay,Spain,2,2,0.0,0.0,44802,Juan Lopez,Guillermo Eizaguirre,0,0,0,0
+1950-07-02,1950,Brazil,Group stage,Chile,USA,5,2,0.0,0.0,8501,Arturo Bucciardi,Bill Jeffrey,0,0,0,0
+1950-07-02,1950,Brazil,Group stage,Italy,Paraguay,2,0,0.0,0.0,25811,Ferruccio Novo,Manuel Fleitas Solich,0,0,0,0
+1950-07-02,1950,Brazil,Group stage,Uruguay,Bolivia,8,0,0.0,0.0,5284,Juan Lopez,Mario Pretto,0,0,0,0
+1950-07-02,1950,Brazil,Group stage,Spain,England,1,0,0.0,0.0,74462,Guillermo Eizaguirre,Walter Winterbottom,0,0,0,0
+1950-07-02,1950,Brazil,Group stage,Switzerland,Mexico,2,1,0.0,0.0,3580,Franco Andreoli,Octavio Vial,0,0,0,0
+1950-07-01,1950,Brazil,Group stage,Brazil,Yugoslavia,2,0,0.0,0.0,142429,Flavio Costa,Milorad Arsenijevic,0,0,0,0
+1950-06-29,1950,Brazil,Group stage,Spain,Chile,2,0,0.0,0.0,19790,Guillermo Eizaguirre,Arturo Bucciardi,0,0,0,0
+1950-06-29,1950,Brazil,Group stage,USA,England,1,0,0.0,0.0,10151,Bill Jeffrey,Walter Winterbottom,0,0,0,0
+1950-06-29,1950,Brazil,Group stage,Sweden,Paraguay,2,2,0.0,0.0,7903,George Raynor,Manuel Fleitas Solich,0,0,0,0
+1950-06-28,1950,Brazil,Group stage,Brazil,Switzerland,2,2,0.0,0.0,42032,Flavio Costa,Franco Andreoli,0,0,0,0
+1950-06-28,1950,Brazil,Group stage,Yugoslavia,Mexico,4,1,0.0,0.0,11078,Milorad Arsenijevic,Octavio Vial,0,0,0,0
+1950-06-25,1950,Brazil,Group stage,Sweden,Italy,3,2,0.0,0.0,36502,George Raynor,Ferruccio Novo,0,0,0,0
+1950-06-25,1950,Brazil,Group stage,England,Chile,2,0,0.0,0.0,29703,Walter Winterbottom,Arturo Bucciardi,0,0,0,0
+1950-06-25,1950,Brazil,Group stage,Spain,USA,3,1,0.0,0.0,9511,Guillermo Eizaguirre,Bill Jeffrey,0,0,0,0
+1950-06-25,1950,Brazil,Group stage,Yugoslavia,Switzerland,3,0,0.0,0.0,7336,Milorad Arsenijevic,Franco Andreoli,0,0,0,0
+1950-06-24,1950,Brazil,Group stage,Brazil,Mexico,4,0,0.0,0.0,81649,Flavio Costa,Octavio Vial,0,0,0,0
+1938-06-19,1938,France,Third-place match,Brazil,Sweden,4,2,0.0,0.0,12000,Ademar Pimenta,Joszef Nagy,0,0,0,0
+1938-06-19,1938,France,Final,Italy,Hungary,4,2,0.0,0.0,45000,Vittorio Pozzo,Karoly Dietz,0,0,0,0
+1938-06-16,1938,France,Semi-finals,Hungary,Sweden,5,1,0.0,0.0,20000,Karoly Dietz,Joszef Nagy,0,0,0,0
+1938-06-16,1938,France,Semi-finals,Italy,Brazil,2,1,0.0,0.0,33000,Vittorio Pozzo,Ademar Pimenta,0,0,0,0
+1938-06-14,1938,France,Quarter-finals,Brazil,Czechoslovakia,2,1,0.0,0.0,18141,Ademar Pimenta,Vaclav Meissner,0,0,0,0
+1938-06-12,1938,France,Quarter-finals,Sweden,Cuba,8,0,0.0,0.0,7000,Joszef Nagy,Jose Tapia,0,0,0,0
+1938-06-12,1938,France,Quarter-finals,Brazil,Czechoslovakia,1,1,0.0,0.0,22021,Ademar Pimenta,Vaclav Meissner,0,0,3,2
+1938-06-12,1938,France,Quarter-finals,Hungary,Switzerland,2,0,0.0,0.0,15000,Karoly Dietz,Karl Rappan,0,0,0,0
+1938-06-12,1938,France,Quarter-finals,Italy,France,3,1,0.0,0.0,58455,Vittorio Pozzo,Gaston Barreau,0,0,0,0
+1938-06-09,1938,France,Round of 16,Switzerland,Germany,4,2,0.0,0.0,20025,Karl Rappan,Sepp Herberger,0,0,0,0
+1938-06-09,1938,France,Round of 16,Cuba,Romania,2,1,0.0,0.0,8000,Jose Tapia,Coloman Braun,0,0,0,0
+1938-06-05,1938,France,Round of 16,Italy,Norway,2,1,0.0,0.0,19000,Vittorio Pozzo,Asbjorn Halvorsen,0,0,0,0
+1938-06-05,1938,France,Round of 16,Cuba,Romania,3,3,0.0,0.0,7000,Jose Tapia,Coloman Braun,0,0,0,0
+1938-06-05,1938,France,Round of 16,Hungary,Dutch East Indies,6,0,0.0,0.0,9000,Karoly Dietz,Johannes Van Mastenbroek,0,0,0,0
+1938-06-05,1938,France,Round of 16,France,Belgium,3,1,0.0,0.0,30454,Gaston Barreau,Jack Butler,0,0,0,0
+1938-06-05,1938,France,Round of 16,Brazil,Poland,6,5,0.0,0.0,13452,Ademar Pimenta,Jozef Kaluza,0,0,0,0
+1938-06-05,1938,France,Round of 16,Czechoslovakia,Netherlands,3,0,0.0,0.0,11000,Vaclav Meissner,Bob Glendenning,0,0,0,0
+1938-06-04,1938,France,Round of 16,Switzerland,Germany,1,1,0.0,0.0,27152,Karl Rappan,Sepp Herberger,0,0,0,2
+1934-06-10,1934,Italy,Final,Italy,Czechoslovakia,2,1,0.0,0.0,55000,Vittorio Pozzo,Karel Petru,0,0,0,0
+1934-06-07,1934,Italy,Third-place match,Germany,Austria,3,2,0.0,0.0,7000,Otto Nerz,Hugo Meisl,0,0,0,0
+1934-06-03,1934,Italy,Semi-finals,Czechoslovakia,Germany,3,1,0.0,0.0,15000,Karel Petru,Otto Nerz,0,0,0,0
+1934-06-03,1934,Italy,Semi-finals,Italy,Austria,1,0,0.0,0.0,35000,Vittorio Pozzo,Hugo Meisl,0,0,0,0
+1934-06-01,1934,Italy,Quarter-finals,Italy,Spain,1,0,0.0,0.0,43000,Vittorio Pozzo,Amadeo Garcia,0,0,0,0
+1934-05-31,1934,Italy,Quarter-finals,Austria,Hungary,2,1,0.0,0.0,23000,Hugo Meisl,Odon Nadas,0,0,0,2
+1934-05-31,1934,Italy,Quarter-finals,Czechoslovakia,Switzerland,3,2,0.0,0.0,12000,Karel Petru,Henry Mueller,0,0,0,0
+1934-05-31,1934,Italy,Quarter-finals,Italy,Spain,1,1,0.0,0.0,35000,Vittorio Pozzo,Amadeo Garcia,0,0,0,0
+1934-05-31,1934,Italy,Quarter-finals,Germany,Sweden,2,1,0.0,0.0,3000,Otto Nerz,Joszef Nagy,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Czechoslovakia,Romania,2,1,0.0,0.0,9000,Karel Petru,Constantin Radulescu,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Hungary,Egypt,4,2,0.0,0.0,9000,Odon Nadas,James Mcrea,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Austria,France,3,2,0.0,0.0,16000,Hugo Meisl,George Kimpton,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Switzerland,Netherlands,3,2,0.0,0.0,33000,Henry Mueller,Bob Glendenning,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Sweden,Argentina,3,2,0.0,0.0,14000,Joszef Nagy,Felipe Pascucci,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Spain,Brazil,3,1,0.0,0.0,21000,Amadeo Garcia,Luiz Vinhaes,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Germany,Belgium,5,2,0.0,0.0,8000,Otto Nerz,Hector Goetinck,0,0,0,0
+1934-05-27,1934,Italy,Round of 16,Italy,USA,7,1,0.0,0.0,25000,Vittorio Pozzo,David Gould,0,0,0,0
+1930-07-30,1930,Uruguay,Final,Uruguay,Argentina,4,2,0.0,0.0,68346,Alberto Suppici,Francisco Olazar,0,0,0,0
+1930-07-27,1930,Uruguay,Semi-finals,Uruguay,Yugoslavia,6,1,0.0,0.0,79867,Alberto Suppici,Bosko Simonovic,0,0,0,0
+1930-07-26,1930,Uruguay,Semi-finals,Argentina,USA,6,1,0.0,0.0,72886,Francisco Olazar,Bob Millar,0,0,0,0
+1930-07-22,1930,Uruguay,Group stage,Argentina,Chile,3,1,0.0,0.0,41459,Francisco Olazar,Gyorgy Orth,0,0,0,0
+1930-07-21,1930,Uruguay,Group stage,Uruguay,Romania,4,0,0.0,0.0,70022,Alberto Suppici,Octav Luchide,0,0,0,0
+1930-07-20,1930,Uruguay,Group stage,Brazil,Bolivia,4,0,0.0,0.0,25466,Pindaro De Carvalho,Ulises Saucedo,0,0,0,0
+1930-07-20,1930,Uruguay,Group stage,Paraguay,Belgium,1,0,0.0,0.0,12000,Jose Durand Laguna,Hector Goetinck,0,0,0,0
+1930-07-19,1930,Uruguay,Group stage,Chile,France,1,0,0.0,0.0,2000,Gyorgy Orth,Raoul Caudron,0,0,0,0
+1930-07-19,1930,Uruguay,Group stage,Argentina,Mexico,6,3,0.0,0.0,42100,Francisco Olazar,Juan Luque,0,0,0,0
+1930-07-18,1930,Uruguay,Group stage,Uruguay,Peru,1,0,0.0,0.0,57735,Alberto Suppici,Francisco Bru,0,0,0,0
+1930-07-17,1930,Uruguay,Group stage,Yugoslavia,Bolivia,4,0,0.0,0.0,18306,Bosko Simonovic,Ulises Saucedo,0,0,0,0
+1930-07-17,1930,Uruguay,Group stage,USA,Paraguay,3,0,0.0,0.0,18306,Bob Millar,Jose Durand Laguna,0,0,0,0
+1930-07-16,1930,Uruguay,Group stage,Chile,Mexico,3,0,0.0,0.0,9249,Gyorgy Orth,Juan Luque,0,0,0,0
+1930-07-15,1930,Uruguay,Group stage,Argentina,France,1,0,0.0,0.0,23409,Francisco Olazar,Raoul Caudron,0,0,0,0
+1930-07-14,1930,Uruguay,Group stage,Yugoslavia,Brazil,2,1,0.0,0.0,24059,Bosko Simonovic,Pindaro De Carvalho,0,0,0,0
+1930-07-14,1930,Uruguay,Group stage,Romania,Peru,3,1,0.0,0.0,2549,Octav Luchide,Francisco Bru,0,0,0,2
+1930-07-13,1930,Uruguay,Group stage,USA,Belgium,3,0,0.0,0.0,18346,Bob Millar,Hector Goetinck,0,0,0,0
+1930-07-13,1930,Uruguay,Group stage,France,Mexico,4,1,0.0,0.0,4444,Raoul Caudron,Juan Luque,0,0,0,0
