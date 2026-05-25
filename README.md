@@ -108,7 +108,7 @@ reports/ — Top-5 con IC 95% + 3 visualizaciones
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/oraculo-mundial2026.git
+git clone https://github.com/jpurquilla/oraculo-mundial2026.git
 cd oraculo-mundial2026
 
 # 2. Crear entorno virtual
@@ -119,19 +119,22 @@ source .venv/bin/activate        # Linux/Mac
 # 3. Instalar dependencias
 pip install -r requirements.txt
 
-# 4. Configurar credenciales
-# Crear archivo .env en la raíz del proyecto con este contenido:
-#
-#   KAGGLE_USERNAME=tu_usuario
-#   KAGGLE_KEY=tu_api_key
-#   FOOTBALL_DATA_API_TOKEN=tu_token
-#
-# Las credenciales de Kaggle se obtienen en:
-#   https://www.kaggle.com/settings → API → Create New Token
-# El token de Football-Data.org se obtiene en:
-#   https://www.football-data.org/client/register
+# 4. Configurar credenciales de Kaggle
+# Kaggle NO usa .env — usa su propio archivo de token:
+#   a) Ir a https://www.kaggle.com/settings → API → Create New Token
+#   b) Esto descarga el token de acceso
+#   c) Colocarlo en ~/.kaggle/access_token
+#      mkdir -p ~/.kaggle
+#      mv ~/Downloads/access_token ~/.kaggle/access_token
+#      chmod 600 ~/.kaggle/access_token
 
-# 5. Descargar y limpiar todos los datos
+# 5. Configurar Football-Data.org
+# Registrarse gratis en https://www.football-data.org/client/register
+# Copiar .env.example a .env y agregar el token:
+cp .env.example .env
+# Editar .env con tu token de Football-Data.org
+
+# 6. Descargar y limpiar todos los datos
 python src/descarga_recursos.py
 ```
 
