@@ -1,0 +1,60 @@
+{
+  "n_simulations": 10000,
+  "top5": [
+    {
+      "rank": 1,
+      "team": "Argentina",
+      "p_campeon": 0.1581,
+      "ci_lower_95": 0.1509,
+      "ci_upper_95": 0.1653,
+      "p_semifinal": 0.3051,
+      "p_clasifica": 0.9497,
+      "wins": 1581,
+      "n_sims": 10000
+    },
+    {
+      "rank": 2,
+      "team": "Spain",
+      "p_campeon": 0.1224,
+      "ci_lower_95": 0.116,
+      "ci_upper_95": 0.1288,
+      "p_semifinal": 0.3016,
+      "p_clasifica": 0.9889,
+      "wins": 1224,
+      "n_sims": 10000
+    },
+    {
+      "rank": 3,
+      "team": "France",
+      "p_campeon": 0.0858,
+      "ci_lower_95": 0.0803,
+      "ci_upper_95": 0.0913,
+      "p_semifinal": 0.2743,
+      "p_clasifica": 0.9568,
+      "wins": 858,
+      "n_sims": 10000
+    },
+    {
+      "rank": 4,
+      "team": "England",
+      "p_campeon": 0.0717,
+      "ci_lower_95": 0.0666,
+      "ci_upper_95": 0.0768,
+      "p_semifinal": 0.2381,
+      "p_clasifica": 0.9351,
+      "wins": 717,
+      "n_sims": 10000
+    },
+    {
+      "rank": 5,
+      "team": "Portugal",
+      "p_campeon": 0.0649,
+      "ci_lower_95": 0.0601,
+      "ci_upper_95": 0.0697,
+      "p_semifinal": 0.2123,
+      "p_clasifica": 0.9281,
+      "wins": 649,
+      "n_sims": 10000
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "modelo_principal": {
+    "train_hasta": "2025-06-01",
+    "n_train": 29533,
+    "n_test": 953,
+    "features": [
+      "elo_home",
+      "elo_away",
+      "elo_diff",
+      "fifa_rank_home",
+      "fifa_rank_away",
+      "fifa_points_diff",
+      "squad_value_home",
+      "squad_value_away",
+      "squad_value_diff",
+      "players_top_lge_home",
+      "players_top_lge_away",
+      "gdp_per_capita_home",
+      "gdp_per_capita_away",
+      "is_neutral",
+      "tournament_weight"
+    ],
+    "xgboost": {
+      "accuracy": 0.575,
+      "log_loss": 0.8714,
+      "brier_score": 0.1723
+    },
+    "logistic_regression": {
+      "accuracy": 0.5698,
+      "log_loss": 0.8743,
+      "brier_score": 0.1718
+    },
+    "modelo_seleccionado": "XGBoost"
+  },
+  "validacion_wc2022": {
+    "train_hasta": "2022-10-01",
+    "n_partidos": 64,
+    "correctos": 33,
+    "accuracy": 0.5156,
+    "log_loss": 1.0982,
+    "brier_score": 0.2133
+  }
+}
